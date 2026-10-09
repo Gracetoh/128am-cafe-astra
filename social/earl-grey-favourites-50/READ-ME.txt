@@ -1,0 +1,21 @@
+128am Cafe | Earl Grey Favourites Collection of 50
+
+50 individual portrait marketing images of Earl Grey Matcha Latte.
+The collection adapts the cafe's preferred halo, creamy, blush-and-olive,
+cloud, retro, collage, ingredient, close-up, gradient and signature themes.
+
+Product identity: compact clear cup with rounded lower corners, amber
+Earl Grey syrup base, creamy matcha and milk, modest off-white cream topping,
+clean rim, and the girl-and-two-eared-rabbit 128am Cafe sticker.
+Finished views use a clear dome; pouring and some close-ups are open cups.
+These are generated marketing interpretations, not unedited product photos.
+
+Created using the built-in image generation tool. The exact prompt for
+each selected image is saved in prompts/. Any targeted refinement is
+documented with that prompt. Native dimensions and hashes are in the index.
+
+In the complete Desktop collection, open gallery.html to view all 50.
+Downloads are split into two ZIPs so each is manageable. After extracting
+Part 1, open gallery-part-1.html to view images 01–25. After extracting
+Part 2, open gallery-part-2.html to view images 26–50. Each includes its
+matching prompts. Extract both into one folder to reunite the collection.

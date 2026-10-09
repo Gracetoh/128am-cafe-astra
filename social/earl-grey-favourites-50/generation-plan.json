@@ -1,0 +1,261 @@
+{
+  "root": "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/earl-grey-favourites-50-build",
+  "product": "Earl Grey Matcha Latte",
+  "references": [
+    "/Users/gracetoh/Downloads/IMG_2010.jpg",
+    "/Users/gracetoh/Desktop/128am Cafe Social Images/earl-grey-cursive-tests-10/images/01-earl-grey-modern-calligraphy.png"
+  ],
+  "common_prompt": "Use case: ads-marketing. Create ONE individual finished portrait3:4 Earl Grey Matcha Latte poster for128am Cafe.\nReference1 is the actual product photograph IMG_2010.jpg and governs real cup silhouette: compact clear rounded dessert/sundae cup, gentle taper, rounded lower corners, neither tall takeaway cup nor oversized wide bowl. A finished cup with dome should occupy roughly half the image width. BODY excluding dome should have front-rim-to-base height about0.8\u20130.9 of rim width at a near-frontal angle. Do not count dome height as body. Do not magnify or distort the rim. Reference2 is the cleaned Earl Grey product poster: use its amber Earl Grey syrup base, creamy matcha/milk, off-white cream topping, clear dome and small accurate girl-and-TWO-EARED-rabbit128am Cafe sticker. A style reference, if supplied, governs style only, not its drink or colours of foam.\nThe actual requested product is Earl Grey Matcha Latte: a modest visible amber/tea-brown Earl Grey syrup layer at bottom, milk merging softly into thick opaque creamy green matcha, a modest smooth OFF-WHITE/cream topping with a little matcha powder. No strawberry/red fruit layer, no pink strawberry foam, no lavender or purple syrup. Clean rim and outer cup; no overflowing liquid. Preserve real cup structure and legible undistorted small logo. Finished cups have a hemispherical clear DOME lid. Only designated pouring, ingredient and close-up concepts intentionally use OPEN cups.\nSoft ethereal natural product photography, diffuse light, fine subtle film grain, realistic creamy textures. No hyper-sharp fake droplets or CGI ice. Keep the cup firmly on a physical surface with attached shadow; no floating product even in halo/cloud scenes. Ingredient elements may float only in falling-ingredients concept.\nExact required product text 'Earl Grey Matcha Latte' and brand '128am Cafe', spelled correctly, elegant readable type with cursive/serif or rounded retro pairing as specified. All text comfortably8\u201310% inset, no clipped letters. Product fully visible except deliberate close-up compositions. No price, medical/health, organic, ceremonial, Japanese origin or award claims. No extra brand, watermark, dates, or slogan 'Iced. Creamy. Lovely.' No em dashes. Do not copy other reference text or labels. One image, not a collage of multiple posters.\n",
+  "items": [
+    {
+      "stem": "01-green-halo",
+      "title": "Green halo",
+      "brief": "Deep sage and forest background with a soft pale-green halo behind the domed cup, resting on matte ivory stone. Cream serif Earl Grey and soft pink cursive Matcha Latte. Quiet botanical bokeh."
+    },
+    {
+      "stem": "02-creamy-script",
+      "title": "Creamy script",
+      "brief": "Warm olive backdrop, cream rounded retro Earl Grey above cursive Matcha Latte. Compact open cup on pale stone, modest cream foam and soft ice, syrup visible. Preserve realistic cup proportions."
+    },
+    {
+      "stem": "03-blush-olive",
+      "title": "Blush and olive",
+      "brief": "Dark olive studio, sophisticated blush cursive Earl Grey paired with restrained cream serif Matcha Latte. Domed cup on a low blush platform, diffuse light."
+    },
+    {
+      "stem": "04-matcha-clouds",
+      "title": "Matcha clouds",
+      "brief": "Dreamy sage and cream cloud backdrop, domed cup resting on a visible pale stone plinth. Elegant serif and cursive headline. Airy ethereal light, no levitation."
+    },
+    {
+      "stem": "05-rounded-retro",
+      "title": "Rounded retro",
+      "brief": "Pale butter-cream background with olive bubble lettering and small blush abstract star marks. Domed cup central on table, subtle film grain, clean playful editorial."
+    },
+    {
+      "stem": "06-paper-collage",
+      "title": "Paper collage",
+      "brief": "Ivory torn-paper frame on olive and pale blush textured paper, photographic domed cup grounded on paper tabletop. Restrained mixed serif/cursive type."
+    },
+    {
+      "stem": "07-falling-ingredients",
+      "title": "Falling ingredients",
+      "brief": "Beige editorial poster, compact OPEN cup on table below an airy exploded display: matcha powder from bamboo spoon, milk ribbon, soft ice, amber Earl Grey syrup ribbon and cream. Neat fine ingredient labels: Matcha, Milk, Ice, Earl Grey syrup, Cream. Complete product name top. Syrup amber-brown, no fruit."
+    },
+    {
+      "stem": "08-creamy-closeup",
+      "title": "Creamy close-up",
+      "brief": "Soft three-quarter close product view of OPEN cup, cream foam and rich green marbling with syrup base and front logo still visible. Olive bokeh backdrop. Compact cup, no broad distorted rim. Rounded cream headline."
+    },
+    {
+      "stem": "09-soft-green-gradient",
+      "title": "Soft green gradient",
+      "brief": "Even seamless sage-to-ivory gradient, gently lit domed cup resting on seamless surface, elegant dark olive serif/cursive typography. No solid diagonal bands."
+    },
+    {
+      "stem": "10-signature-stone",
+      "title": "Signature stone",
+      "brief": "Domed cup on low travertine square against forest green. Cream serif product name and handwritten Earl Grey accent. Soft grazing light and restrained gallery-like composition."
+    },
+    {
+      "stem": "11-silky-matcha-pour",
+      "title": "Silky matcha pour",
+      "brief": "A small ceramic spouted bowl pours a silky green ribbon into compact OPEN cup of milk with amber syrup bottom. Cream background, softly frozen liquid, elegant italic headline. Keep all type legible."
+    },
+    {
+      "stem": "12-earl-grey-syrup-pour",
+      "title": "Earl Grey syrup pour",
+      "brief": "An amber Earl Grey syrup ribbon from a tiny clear pitcher enters an OPEN creamy matcha cup on beige tabletop. Background sage. Show syrup at base, not an overfilled cup. Fine serif and cursive product name."
+    },
+    {
+      "stem": "13-cream-swirl",
+      "title": "Cream swirl",
+      "brief": "OPEN cup with modest silky off-white cream swirled gently on top of green matcha, soft overhead light, ivory backdrop with olive organic shadows. Elegant cream-on-olive header area."
+    },
+    {
+      "stem": "14-olive-spotlight",
+      "title": "Olive spotlight",
+      "brief": "Rich olive scene with feathered soft spotlight illuminating domed cup on warm stone. Small tea leaves and a spoon subtly off to side. Large restrained cream serif heading."
+    },
+    {
+      "stem": "15-tea-toned-macro",
+      "title": "Tea-toned portrait",
+      "brief": "Creamy close product portrait emphasizing amber syrup, milk and matcha layers, OPEN rim softly visible; warm taupe background. Keep recognizable compact proportions and brand sticker. Tasteful editorial serif text above."
+    },
+    {
+      "stem": "16-ivory-halo",
+      "title": "Ivory halo",
+      "brief": "Pale ivory glow behind a domed cup on cream tabletop, gently desaturated sage outside halo. Airy cursive Earl Grey, deep green small Matcha Latte. Calm minimal composition."
+    },
+    {
+      "stem": "17-cream-cutout",
+      "title": "Cream cutout",
+      "brief": "Photographic domed cup with delicate ivory paper-cut outline against pale sage paper, physically grounded on a paper surface. Oversized dark olive serif/cursive headline, sparse cream texture."
+    },
+    {
+      "stem": "18-tea-scrapbook",
+      "title": "Tea scrapbook",
+      "brief": "Tasteful editorial scrapbook with cream paper corners, olive paper strip and a small black-tea-leaf still-life photo detail. One main domed cup on tabletop, complete product title, no unrelated words."
+    },
+    {
+      "stem": "19-retro-sunburst",
+      "title": "Retro sunburst",
+      "brief": "Muted olive and butter-yellow radial sunburst, domed cup on low warm beige pedestal. Rounded cream display Earl Grey and dark cursive Matcha Latte. Fine soft grain, sophisticated retro."
+    },
+    {
+      "stem": "20-cloud-nine",
+      "title": "Cloud nine",
+      "brief": "Powder blue and cream cloud backdrop with sage accents; domed cup rests on visible cream block, soft morning glow. Elegant cream or deep green title with cursive accent."
+    },
+    {
+      "stem": "21-minimal-layer-study",
+      "title": "Minimal layer study",
+      "brief": "Clean ivory catalog poster, domed cup with three discreet fine callouts: Cream, Matcha and milk, Earl Grey syrup. Balanced serif product name, no nutritional claims."
+    },
+    {
+      "stem": "22-forest-signature",
+      "title": "Forest signature",
+      "brief": "Deep forest backdrop with domed cup resting on ivory stone slab; tiny green leaf at one edge, subtle amber light. Refined ivory signature cursive paired with serif title."
+    },
+    {
+      "stem": "23-milk-marbling",
+      "title": "Milk marbling",
+      "brief": "OPEN cup showing soft thick ivory milk folding into green matcha above thin amber base. Pale sage studio, macro-like detail but entire compact cup visible. Cream and dark green elegant typography."
+    },
+    {
+      "stem": "24-two-cup-moment",
+      "title": "Two-cup moment",
+      "brief": "Two matching compact domed Earl Grey Matcha Latte cups, one slightly behind, on pale stone. Sage backdrop and diffuse soft light. Single complete product heading and brand, clean negative space."
+    },
+    {
+      "stem": "25-cursive-glow",
+      "title": "Cursive glow",
+      "brief": "Olive green seamless backdrop and very gentle ivory rim glow around grounded domed cup. Large elegant blush cursive Earl Grey with cream serif Matcha Latte, sparse composition."
+    },
+    {
+      "stem": "26-soft-window-light",
+      "title": "Soft window light",
+      "brief": "Domed cup on pale tabletop with soft diagonal window-light shadows, ivory wall and sage linen edge. Elegant dark olive serif with cursive accent, warm unhurried atmosphere."
+    },
+    {
+      "stem": "27-bergamot-still-life",
+      "title": "Bergamot still life",
+      "brief": "Domed cup on beige stone beside one small green-yellow bergamot citrus and subtle tea leaves as peripheral props. Muted sage background, warm cream and dark olive type. No health or origin claims."
+    },
+    {
+      "stem": "28-morning-linen",
+      "title": "Morning linen",
+      "brief": "Domed cup on rumpled ivory linen, pale sage backdrop, warm diffuse morning light and soft shadow. Graceful blush cursive Earl Grey plus olive Matcha Latte."
+    },
+    {
+      "stem": "29-archway-portrait",
+      "title": "Archway portrait",
+      "brief": "Domed cup on low beige plinth within a soft sage architectural arch. Airy matte surfaces and balanced cream serif/cursive headline. Grounded scale, no huge cup."
+    },
+    {
+      "stem": "30-matcha-whisk-ritual",
+      "title": "Matcha whisk ritual",
+      "brief": "Domed Earl Grey drink on stone with a bamboo whisk and small matcha bowl set quietly to one side. Cream backdrop, soft olive shadow. Restrained elegant product title."
+    },
+    {
+      "stem": "31-sage-monochrome",
+      "title": "Sage monochrome",
+      "brief": "Tonal pale sage studio with slightly darker sage tabletop, domed cup prominent but compact. Ivory retro rounded letters and elegant cursive secondary line. Minimal props."
+    },
+    {
+      "stem": "32-vintage-cream-label",
+      "title": "Vintage cream label",
+      "brief": "Soft cream paper poster, restrained olive decorative oval around product name, domed cup below on cream surface. Subtle vintage serif and graceful cursive. No invented labels, dates, awards or stamps."
+    },
+    {
+      "stem": "33-tea-and-stone",
+      "title": "Tea and stone",
+      "brief": "Domed cup on stacked thin warm-stone slabs, tea leaves in a tiny dish nearby, warm greige background. Dark olive serif title and amber-toned cursive Earl Grey."
+    },
+    {
+      "stem": "34-pastel-blue-clouds",
+      "title": "Pastel blue clouds",
+      "brief": "Pastel blue sky with delicate ivory clouds, grounded domed cup on a pale stone block, muted pink cursive heading plus green serif supporting words. Soft film-like finish."
+    },
+    {
+      "stem": "35-olive-paper-frame",
+      "title": "Olive paper frame",
+      "brief": "Large olive matte paper border with an ivory inner photo window containing grounded domed drink on cream. Elegant serif and cursive integrated within generous margins."
+    },
+    {
+      "stem": "36-velvet-milk-pour",
+      "title": "Velvet milk pour",
+      "brief": "Silky ivory milk ribbon pours into OPEN matcha cup above a fine amber syrup base. Feathered sage background and pale stone surface, quiet controlled liquid movement. Cursive Earl Grey and minimal serif Matcha Latte."
+    },
+    {
+      "stem": "37-warm-sun-halo",
+      "title": "Warm sun halo",
+      "brief": "Soft golden circular glow against olive background, domed cup resting on pale stone, subtle long soft shadow. Elegant ivory title. Warm amber syrup echoes glow."
+    },
+    {
+      "stem": "38-petal-soft-blush",
+      "title": "Petal-soft blush",
+      "brief": "Seamless pale blush and ivory backdrop, domed cream-topped drink on pale surface, gentle olive shadows. Romantic dark olive cursive paired with serif, no actual flowers needed."
+    },
+    {
+      "stem": "39-iced-silk-detail",
+      "title": "Iced silk detail",
+      "brief": "Close OPEN cup portrait with a few softly submerged ice shapes in silky cream foam, visible green/milk layers and amber base, logo legible. Sage bokeh, restrained cream display headline, natural cup silhouette."
+    },
+    {
+      "stem": "40-afternoon-postcard",
+      "title": "Afternoon postcard",
+      "brief": "Cream editorial postcard border around warm afternoon scene of domed cup on pale stone, soft olive wall. Product title in graceful dark green serif/cursive. No postal stamps or extra address copy."
+    },
+    {
+      "stem": "41-matcha-ripple",
+      "title": "Matcha ripple",
+      "brief": "OPEN cup on pale tabletop, subtle green-and-ivory liquid ripples as an abstract backdrop texture. Cup remains real and grounded. Cream serif title with italic Earl Grey accent."
+    },
+    {
+      "stem": "42-minimal-cream-studio",
+      "title": "Minimal cream studio",
+      "brief": "Pure warm cream seamless studio, compact domed cup centred with amber syrup base clearly visible, gentle grounded shadow. Olive cursive Earl Grey and spaced restrained serif Matcha Latte."
+    },
+    {
+      "stem": "43-brown-and-sage",
+      "title": "Brown and sage",
+      "brief": "Muted tea-brown and sage colour study, domed cup on cream slab, brown paper texture subtly in background. Warm ivory serif headline with thin cursive accent, sophisticated minimal."
+    },
+    {
+      "stem": "44-botanical-shadows",
+      "title": "Botanical shadows",
+      "brief": "Domed cup on ivory stone, soft out-of-focus leaf shadows across warm cream backdrop. Deep green product name, pale blush cursive accent. No big foliage obscuring cup."
+    },
+    {
+      "stem": "45-retro-cafe-column",
+      "title": "Retro cafe column",
+      "brief": "Ivory-and-olive editorial column layout, full domed product photo anchored lower-right but comfortably inset, rounded retro Earl Grey with cursive Matcha Latte upper-left. No body-copy claims."
+    },
+    {
+      "stem": "46-high-angle-tea-moment",
+      "title": "High-angle tea moment",
+      "brief": "Gentle high three-quarter angle of a compact OPEN cup on ivory linen, modest white cream foam and powder, amber syrup glimpsed through body. Small tea dish beside, graceful readable title above, logo undistorted."
+    },
+    {
+      "stem": "47-cream-satin-portrait",
+      "title": "Cream satin portrait",
+      "brief": "Domed cup grounded on pale matte surface, softly draped cream satin in background only. Olive and ivory palette with blush signature cursive, gentle diffuse highlights."
+    },
+    {
+      "stem": "48-paper-cloud-collage",
+      "title": "Paper cloud collage",
+      "brief": "Ivory torn paper and subtle cloud-texture collage against soft sage, photographic domed cup on a visible cream platform. Elegant cursive/serif heading, tasteful fine grain."
+    },
+    {
+      "stem": "49-syrup-layer-detail",
+      "title": "Syrup layer detail",
+      "brief": "Closer product portrait focused on a thin golden tea-brown Earl Grey syrup layer beneath creamy milk and rich green matcha. Entire compact domed cup and sticker readable, taupe-olive background, cream restrained title."
+    },
+    {
+      "stem": "50-signature-finale",
+      "title": "Signature finale",
+      "brief": "Refined hero poster: full compact domed cup on travertine, forest-to-sage soft gradient with ivory halo, elegant blush cursive Earl Grey above cream serif Matcha Latte, small128am Cafe. Balanced signature finish, grounded and softly lit."
+    }
+  ]
+}

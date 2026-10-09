@@ -8,6 +8,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 
 ## Latest collections
 
+- [Earl Grey favourites: 50 images](social/earl-grey-favourites-50/)
 - [Strawberry favourites: 25 images](social/strawberry-favourites-25/)
 - [Matcha collection: 25 images](social/matcha-reference-25/)
 - [Strawberry reference collection: 5 images](social/strawberry-reference-5/)
@@ -19,6 +20,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 | Collection | Files |
 | --- | ---: |
 | [earl-grey-cursive-tests-10](social/earl-grey-cursive-tests-10/) | 28 |
+| [earl-grey-favourites-50](social/earl-grey-favourites-50/) | 116 |
 | [earl-grey-minimalist-25](social/earl-grey-minimalist-25/) | 58 |
 | [earl-grey-photoshoot-25](social/earl-grey-photoshoot-25/) | 58 |
 | [matcha-reference-25](social/matcha-reference-25/) | 61 |

@@ -1,0 +1,5 @@
+48 paper cloud collage refined with built-in image_gen.
+Removed small handwritten slogan from right torn-paper patch, replaced with blank matching textured paper.
+Visual QA: main Earl Grey / matcha latte / 128am Cafe type preserved; compact cup proportions preserved; two rabbit ears, cream topping, amber syrup and natural base contact intact.
+Exact refinement prompt appended to prompts/48-paper-cloud-collage.txt.
+Selected generated source: /Users/gracetoh/.codex/generated_images/01a11f28-aff5-7802-a9f4-0fea38b4ee63/exec-08534e16-9a02-48de-a1c1-d7c57ec09204.png

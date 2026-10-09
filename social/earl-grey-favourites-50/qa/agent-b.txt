@@ -1,0 +1,19 @@
+Agent B QA | 2026-10-09
+Assignment: 18–30 inclusive, 13 finished images.
+Method: built-in image_gen; actual IMG_2010.jpg and cleaned Earl Grey product reference viewed first and supplied to each generation. Exact selected prompts saved in prompts/.
+All 13 generated outputs individually visually inspected. Product spelling and brand readable; compact rounded cup body; off-white cream topping; amber tea-brown syrup base; clean rim and exterior; natural surface contact; two rabbit ears present on stickers. No pink foam or strawberry layer. No unsupported health/origin/price claims.
+18 tea scrapbook: pass.
+19 retro sunburst: pass; top brand has shallower margin than headline but is wholly visible.
+20 cloud nine: pass; product grounded on cream block.
+21 minimal layer study: pass; Cream, Matcha and milk, Earl Grey syrup callouts correct.
+22 forest signature: pass.
+23 milk marbling: selected ORIGINAL compact domed version. A targeted open-cup retry improved marbling but elongated the body; discarded in favour of compact actual-cup fidelity. Parent agreed cup proportions take priority over optional open-cup brief. Exact selected first-generation prompt saved.
+24 two-cup moment: pass; both cups grounded with matching proportions.
+25 cursive glow: pass.
+26 soft window light: pass.
+27 bergamot still life: pass.
+28 morning linen: pass.
+29 archway portrait: pass.
+30 matcha whisk ritual: pass.
+No Desktop or GitHub modifications made by this agent.
+

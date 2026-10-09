@@ -1,0 +1,252 @@
+[
+  {
+    "number": 26,
+    "file": "images/26-soft-window-light.png",
+    "title": "Soft window light",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "c6552002f482b7196ea1079920e85a26cfd92eeedcd55e6b210c357860eea28e",
+    "prompt": "prompts/26-soft-window-light.txt"
+  },
+  {
+    "number": 27,
+    "file": "images/27-bergamot-still-life.png",
+    "title": "Bergamot still life",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "853290f79bac723e46c5a78c6523493b6367c26b22d01360522a86feb0e2a727",
+    "prompt": "prompts/27-bergamot-still-life.txt"
+  },
+  {
+    "number": 28,
+    "file": "images/28-morning-linen.png",
+    "title": "Morning linen",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "848c3ceb54bf46604711b3d447f9a7f58e2e968133c558e657ea38e4fc656433",
+    "prompt": "prompts/28-morning-linen.txt"
+  },
+  {
+    "number": 29,
+    "file": "images/29-archway-portrait.png",
+    "title": "Archway portrait",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "3dc3ce487ef104b4d0cd3c480fcf185949cd55167bce750ffec0b5ea346e7052",
+    "prompt": "prompts/29-archway-portrait.txt"
+  },
+  {
+    "number": 30,
+    "file": "images/30-matcha-whisk-ritual.png",
+    "title": "Matcha whisk ritual",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "9b56355aa42c81380445703d8865e0b8c134575dc213c42cce34bf1d632e6748",
+    "prompt": "prompts/30-matcha-whisk-ritual.txt"
+  },
+  {
+    "number": 31,
+    "file": "images/31-sage-monochrome.png",
+    "title": "Sage monochrome",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "9ac4ecf62c652e9d2e697ef5bf2ce41db229c693b32fe125b83b9652c62471cd",
+    "prompt": "prompts/31-sage-monochrome.txt"
+  },
+  {
+    "number": 32,
+    "file": "images/32-vintage-cream-label.png",
+    "title": "Vintage cream label",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "d87d54799201581570b0b7e2323dc99daac3b8b8755b19783eda14f089ff5736",
+    "prompt": "prompts/32-vintage-cream-label.txt"
+  },
+  {
+    "number": 33,
+    "file": "images/33-tea-and-stone.png",
+    "title": "Tea and stone",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "8ce115a1f2c3ad610f986838b482319300782d2d39e6018d5c55572c2b5a75ac",
+    "prompt": "prompts/33-tea-and-stone.txt"
+  },
+  {
+    "number": 34,
+    "file": "images/34-pastel-blue-clouds.png",
+    "title": "Pastel blue clouds",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "3c6502f356eea264e10d1c932065f2d56d133e083d946496c83ec53672c764dc",
+    "prompt": "prompts/34-pastel-blue-clouds.txt"
+  },
+  {
+    "number": 35,
+    "file": "images/35-olive-paper-frame.png",
+    "title": "Olive paper frame",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "357d25d2857db0d88bb79130b85929d4408cfaa933d0abb00dab688ce609759a",
+    "prompt": "prompts/35-olive-paper-frame.txt"
+  },
+  {
+    "number": 36,
+    "file": "images/36-velvet-milk-pour.png",
+    "title": "Velvet milk pour",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "51543376c1a283755c2fb2d9e24af2fcbd18a3c6b9ffca3e5ba8a629bcd6b1e3",
+    "prompt": "prompts/36-velvet-milk-pour.txt"
+  },
+  {
+    "number": 37,
+    "file": "images/37-warm-sun-halo.png",
+    "title": "Warm sun halo",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "21277be9a5e32a9c1fb64099dfe5761ba289dae491e8d329c3bc9ec525b0fb5e",
+    "prompt": "prompts/37-warm-sun-halo.txt"
+  },
+  {
+    "number": 38,
+    "file": "images/38-petal-soft-blush.png",
+    "title": "Petal-soft blush",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "eb913f8928f05746947b085aec5acc8fc980585a6853334b4d467345c7b35ec8",
+    "prompt": "prompts/38-petal-soft-blush.txt"
+  },
+  {
+    "number": 39,
+    "file": "images/39-iced-silk-detail.png",
+    "title": "Iced silk detail",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "2edc24ab1ee87bf163cf9037e4a2a48f5894f02fc2232d780c5b5e17963785ab",
+    "prompt": "prompts/39-iced-silk-detail.txt"
+  },
+  {
+    "number": 40,
+    "file": "images/40-afternoon-postcard.png",
+    "title": "Afternoon postcard",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "8371720d8ce34d736540ebba2da76563b37120245b5f5a6c3e3df67e6eda2b2f",
+    "prompt": "prompts/40-afternoon-postcard.txt"
+  },
+  {
+    "number": 41,
+    "file": "images/41-matcha-ripple.png",
+    "title": "Matcha ripple",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "b3d2d893516b6ec695b917ceba56f0fbc2b09494c93cd65fb613672db04d8c05",
+    "prompt": "prompts/41-matcha-ripple.txt"
+  },
+  {
+    "number": 42,
+    "file": "images/42-minimal-cream-studio.png",
+    "title": "Minimal cream studio",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "8e9d077772ef1c4e1e67466db52afc38605a861de6f39e86120dc43ef5ae55e7",
+    "prompt": "prompts/42-minimal-cream-studio.txt"
+  },
+  {
+    "number": 43,
+    "file": "images/43-brown-and-sage.png",
+    "title": "Brown and sage",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "91ad17f6808818933eadead531fa8a3be9ff57dd2e24be232ff118ae80335a70",
+    "prompt": "prompts/43-brown-and-sage.txt"
+  },
+  {
+    "number": 44,
+    "file": "images/44-botanical-shadows.png",
+    "title": "Botanical shadows",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "7e03b4fe831a7fce326df050ad01027f28e99b872a889797aac4270d41998910",
+    "prompt": "prompts/44-botanical-shadows.txt"
+  },
+  {
+    "number": 45,
+    "file": "images/45-retro-cafe-column.png",
+    "title": "Retro cafe column",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "07fe097c41612c8c3c09d3fe26a0e099934d05d4a89dddf821849ced18e14999",
+    "prompt": "prompts/45-retro-cafe-column.txt"
+  },
+  {
+    "number": 46,
+    "file": "images/46-high-angle-tea-moment.png",
+    "title": "High-angle tea moment",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "7d6581fd60756fe6d54dfb0371d1d277a3ea835c1f5eb64cae39a3bc6a122574",
+    "prompt": "prompts/46-high-angle-tea-moment.txt"
+  },
+  {
+    "number": 47,
+    "file": "images/47-cream-satin-portrait.png",
+    "title": "Cream satin portrait",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "22ce75ee2479693a0c2c772ab652bcc725cf304481cc3bd1afdd3a6f1d66b17b",
+    "prompt": "prompts/47-cream-satin-portrait.txt"
+  },
+  {
+    "number": 48,
+    "file": "images/48-paper-cloud-collage.png",
+    "title": "Paper cloud collage",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "534ddc6cdb6c2684918ff58e82d7b0090e11d79621eb84fe7cc449cddf9be0e5",
+    "prompt": "prompts/48-paper-cloud-collage.txt"
+  },
+  {
+    "number": 49,
+    "file": "images/49-syrup-layer-detail.png",
+    "title": "Syrup layer detail",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "6c0bb7dc3f7de44c2d34c2c90357e0092d5966c45e778cc6aefea694731c03b3",
+    "prompt": "prompts/49-syrup-layer-detail.txt"
+  },
+  {
+    "number": 50,
+    "file": "images/50-signature-finale.png",
+    "title": "Signature finale",
+    "product": "Earl Grey Matcha Latte",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "665f0cead51d14b368802e89018f80b5ccdd88787c4521d5c4892e739d510fce",
+    "prompt": "prompts/50-signature-finale.txt"
+  }
+]
