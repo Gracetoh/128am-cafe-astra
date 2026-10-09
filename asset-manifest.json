@@ -1,8 +1,13 @@
 {
-  "collections": 17,
-  "files": 687,
-  "bytes": 1066970349,
+  "collections": 19,
+  "files": 713,
+  "bytes": 1114256329,
   "assets": [
+    {
+      "path": "social/drink-captions.md",
+      "bytes": 2596,
+      "sha256": "189cfd847345b149fa6dc5726bfc1ab691ae679b46202d4749b6fc99b85d3f0a"
+    },
     {
       "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
       "bytes": 1345550,
@@ -1320,8 +1325,8 @@
     },
     {
       "path": "social/index.html",
-      "bytes": 5121,
-      "sha256": "8d0320bf94a167b19569abc54b78a7394bfa7934b16b8048439d5e92f4b013d6"
+      "bytes": 5642,
+      "sha256": "55fa1e5fcd3dd35d6921c533b3a31c36803102f6ce265c0ce45e6a98a344dacc"
     },
     {
       "path": "social/matcha-reference-25/128am-Cafe-Matcha-Collection-25.zip",
@@ -1664,6 +1669,11 @@
       "sha256": "26fabbe463c6c8e01a8aeae7736c35192911719f7536ee0535cf625e76dcb141"
     },
     {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides.zip",
+      "bytes": 8982459,
+      "sha256": "672396064b2f0045829038dcf4e08462c1ab483149c210000351029db6f809ab"
+    },
+    {
       "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/01-cover.png",
       "bytes": 1516062,
       "sha256": "3c9f8071611aed4157d593a65496a2c01f153ed545f746a51c3489156fe64029"
@@ -1742,11 +1752,6 @@
       "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/suggested-caption.txt",
       "bytes": 227,
       "sha256": "d3617d42907e9803d396de33bdf82b53ca79a5bd429827d5d8bfa39ec44c4c3e"
-    },
-    {
-      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides.zip",
-      "bytes": 8982459,
-      "sha256": "672396064b2f0045829038dcf4e08462c1ab483149c210000351029db6f809ab"
     },
     {
       "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-Samples.zip",
@@ -1862,6 +1867,186 @@
       "path": "social/product-catalogue-2026-10/image-prompts.json",
       "bytes": 4417,
       "sha256": "7e08384dd8c2684a3a9fd4404d17afec3366b43bd2dd047b89528c130a7c19f2"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/128am-Cafe-25-Natural-Product-Photos.zip",
+      "bytes": 46940508,
+      "sha256": "3e14fafae1351542344f09f060deca8c6eecf1d8ed6c7943c8d7b690705bf706"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/25-photo-preview.png",
+      "bytes": 3765591,
+      "sha256": "6eba4f78a8f96ef9b5d4719a53445408e85cf54716bf1c8ce9b18dc13b39bd40"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/READ-ME.txt",
+      "bytes": 435,
+      "sha256": "96e1e52ff4b6a03d7cf742a097701c252a29729dc80df6e8ecfc89afe1959225"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/all-prompts.json",
+      "bytes": 35485,
+      "sha256": "c171d07b8fa6c54272c7b0e3893777b1496d5d03bbecd8865c2ca162e0cef9ca"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/correction-22.txt",
+      "bytes": 649,
+      "sha256": "8a8ce181f68fd768b50b84e2d02a202d76aebbbee8b38f4a02db2e9ce01478f9"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/gallery.html",
+      "bytes": 14583,
+      "sha256": "31ec1ca4d50abac1b0568a4b2fad723017bf19fa21d4c610bfc442c5715aa059"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/image-index.json",
+      "bytes": 6890,
+      "sha256": "de1560fdf2e99b224fd9a7aa0f075e241a9abaaa48695b7713e60d2a4f18dbff"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/01-matcha-latte-daylight-hero.png",
+      "bytes": 1638666,
+      "sha256": "cc4582d94f75abbe0f0daa23ae07a53a12efb02d7af3c1fd3986459174c6ae6d"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/02-matcha-latte-cafe-counter.png",
+      "bytes": 1645115,
+      "sha256": "949db5d257a69ebc053b6a4c6e304bd8a289dbb147695d1abbc2498f437b566d"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/03-matcha-latte-window-shadow.png",
+      "bytes": 1705882,
+      "sha256": "eb6e7ac753637be0828ce7ca050233887c2302e80a4cfc8fd16bfdc610bb18fa"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/04-matcha-latte-stone-table.png",
+      "bytes": 1696702,
+      "sha256": "1bcd065ab4ab43b04f51ad99dd8cb4047b633254569ebdcd91442d298f07deff"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/05-matcha-latte-blush-wall.png",
+      "bytes": 1642036,
+      "sha256": "3cb8efa55177d11b2981d3b8d1545209eca4466306d6b6e9619d1288ae050d99"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/06-matcha-latte-linen.png",
+      "bytes": 1813352,
+      "sha256": "98b65cc7aed7529d675f774aa29374f04bee47f1ec1a9c245b9dc04f17d9ebc5"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/07-matcha-latte-pale-wood.png",
+      "bytes": 1718193,
+      "sha256": "3b07d44aace47984b2db3c7c097bd182734f01308d6c97087c8e417a24ae7980"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/08-matcha-latte-overcast.png",
+      "bytes": 1810800,
+      "sha256": "9200952347ed38f1683855daa5a1785cc4e508b8f10fc48ac1794fe2d3dd2906"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/09-matcha-latte-wider-room.png",
+      "bytes": 1778719,
+      "sha256": "796acbe4adfdd3e4002f842769a76595bfee6f6407fef54391842b6df8b51f90"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/10-matcha-latte-close-detail.png",
+      "bytes": 1828581,
+      "sha256": "e10f010bc2b86c783e076179aad2cb09fcd7bf62846a43d145bd56e2ff4d41ac"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/11-strawberry-matcha-latte-daylight-hero.png",
+      "bytes": 1699473,
+      "sha256": "8075eca509010de7a793fa036210962faf063137325d8826c5da4fe7cf908099"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/12-strawberry-matcha-latte-cream-counter.png",
+      "bytes": 1687906,
+      "sha256": "6d45def67a11a262d767e55ce7ba7866553619c83bf1fed9c1f97b8332d97561"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/13-strawberry-matcha-latte-folded-napkin.png",
+      "bytes": 1689438,
+      "sha256": "b01f6929e12bcc1749b37c3e74b38b14fefd5fd488d889ba52a171b5bcaf29f5"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/14-strawberry-matcha-latte-window-light.png",
+      "bytes": 1735473,
+      "sha256": "32b9668fb7ccc96ed32cbe10b8df038993119c389d3c45e14608e9ac322320c5"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/15-strawberry-matcha-latte-pale-wood.png",
+      "bytes": 1659767,
+      "sha256": "a2703283435b202a2107f8fa65bd245b9d9dcf4d51f5baf22774afaf6c7572a7"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/16-strawberry-matcha-latte-cool-morning.png",
+      "bytes": 1759008,
+      "sha256": "5ea4eb7e2864e76505dd267765401a185acfde4e12ac87e2961b5b8afc73373f"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/17-strawberry-matcha-latte-quiet-blush.png",
+      "bytes": 1862334,
+      "sha256": "8486c0b5ccd32ae294a910bbafeca724e27e9ba3c161c6b0a21a68e46c046665"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/18-strawberry-matcha-latte-side-shadow.png",
+      "bytes": 1882154,
+      "sha256": "3a7d5211c850333cccfc9622334a0a20e944d29aeb94ef9e0e6394f0e8ed9c65"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/19-strawberry-matcha-latte-close-detail.png",
+      "bytes": 1662179,
+      "sha256": "6aecf132f7b9da62fa8bc9e899cbdfca85c816da14326a5df7948a8a0480edea"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/20-strawberry-matcha-latte-candid-table.png",
+      "bytes": 1733647,
+      "sha256": "a6cf86ae005f271b3076f16e639fa6263a747b1f3abd167e8c957991fdc18522"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/21-matcha-and-strawberry-daylight.png",
+      "bytes": 1811465,
+      "sha256": "b48bd550b939f0e7c2f0f99fa07f52ca595365fcd3d023d8514e271d36f0e122"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/22-matcha-and-strawberry-window.png",
+      "bytes": 1625027,
+      "sha256": "c4f63d128e714410496e9ea94b0dc35221a01491cb5afdbaf138f1bca5d40f2f"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/23-matcha-and-strawberry-counter.png",
+      "bytes": 1717087,
+      "sha256": "299849115fccae6210421e2b9a0b53898fcdda46ad275b0bc40b3c8b38374f43"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/24-matcha-and-strawberry-linen.png",
+      "bytes": 1793200,
+      "sha256": "595c4eaed82b1e628a42ec82191f4e6ce2b7d7c50b2329e9d20eed1810078edd"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/25-matcha-and-strawberry-warm-afternoon.png",
+      "bytes": 1787809,
+      "sha256": "180f63fc455c30954888608ce48f2f99bfbad9b6b31c701e3d6e4df151b122f3"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos.zip",
+      "bytes": 47801144,
+      "sha256": "8b5db2099079ab94f753b63932dd1bee33b4003193bfc8d92c7e449177231084"
     },
     {
       "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/25-photo-preview.png",
@@ -2149,11 +2334,6 @@
       "sha256": "adaf0f860929b100f7876866f7f639520e602f4c904ccce33b68f02c8a2bd72d"
     },
     {
-      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos.zip",
-      "bytes": 47801144,
-      "sha256": "8b5db2099079ab94f753b63932dd1bee33b4003193bfc8d92c7e449177231084"
-    },
-    {
       "path": "social/product-photoshoot-25/25-photo-preview.png",
       "bytes": 3837883,
       "sha256": "94c65481ea15cb024b7f683e483459fe84a8abd1233d74cb2fd76e0ca6744d6a"
@@ -2439,184 +2619,74 @@
       "sha256": "adaf0f860929b100f7876866f7f639520e602f4c904ccce33b68f02c8a2bd72d"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/128am-Cafe-25-Natural-Product-Photos.zip",
-      "bytes": 46940508,
-      "sha256": "3e14fafae1351542344f09f060deca8c6eecf1d8ed6c7943c8d7b690705bf706"
+      "path": "social/race-weekend-10/cta-captions.md",
+      "bytes": 968,
+      "sha256": "047e34d1c7a3fcb0149e9b4d582175cecd9936b9692b0ff1f0a964d6bb433640"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/25-photo-preview.png",
-      "bytes": 3765591,
-      "sha256": "6eba4f78a8f96ef9b5d4719a53445408e85cf54716bf1c8ce9b18dc13b39bd40"
+      "path": "social/race-weekend-10/gallery.html",
+      "bytes": 4306,
+      "sha256": "d2dc66f4ecc297cbfa072c18c73ecce988072c6a580e2d1eaa46d9db21acb568"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/READ-ME.txt",
-      "bytes": 435,
-      "sha256": "96e1e52ff4b6a03d7cf742a097701c252a29729dc80df6e8ecfc89afe1959225"
+      "path": "social/race-weekend-10/images/01-before-lights-out.png",
+      "bytes": 2045792,
+      "sha256": "b64b4280dc29a9e4edf10478037ba0be1845e1abab2e7f500048d923558ba9e0"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/all-prompts.json",
-      "bytes": 35485,
-      "sha256": "c171d07b8fa6c54272c7b0e3893777b1496d5d03bbecd8865c2ca162e0cef9ca"
+      "path": "social/race-weekend-10/images/02-pre-race-pit-stop.png",
+      "bytes": 2222907,
+      "sha256": "c936134dc618b6516cdcf36ef00044bdfc00fd65bfd68fba2e07669151acd5bc"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/correction-22.txt",
-      "bytes": 649,
-      "sha256": "8a8ce181f68fd768b50b84e2d02a202d76aebbbee8b38f4a02db2e9ce01478f9"
+      "path": "social/race-weekend-10/images/03-sip-before-start.png",
+      "bytes": 2564920,
+      "sha256": "50bb37178d3bccf5822d789000e4ba145b108f2c42af487c3c0dcd7426191faa"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/fonts/Fredoka-600.ttf",
-      "bytes": 48768,
-      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+      "path": "social/race-weekend-10/images/04-night-race-pink.png",
+      "bytes": 2540347,
+      "sha256": "85b72e10608777ab35b3d81f5f3eddcf8b13cec6a4e1c411a3a43114114705bd"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/fonts/Quicksand-500.ttf",
-      "bytes": 73232,
-      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+      "path": "social/race-weekend-10/images/05-checkered-sunday.png",
+      "bytes": 1953413,
+      "sha256": "4b11c16115dd96c19f35034225e46e28dca795af3d0cd67c1d8c7eb0ebb18a51"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/fonts/Quicksand-700.ttf",
-      "bytes": 72916,
-      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+      "path": "social/race-weekend-10/images/06-strawberry-starting-grid.png",
+      "bytes": 2118430,
+      "sha256": "bb3933eb2b34e4fcb4ede1725e91dda61f844b021569769fdd3cd7431c6663cc"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/gallery.html",
-      "bytes": 14583,
-      "sha256": "31ec1ca4d50abac1b0568a4b2fad723017bf19fa21d4c610bfc442c5715aa059"
+      "path": "social/race-weekend-10/images/07-race-ticket.png",
+      "bytes": 2713447,
+      "sha256": "f6e7ab09af1feed98d7a95768b850d5a03480f9199ae76041b40c2e9ae9f2bcb"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/image-index.json",
-      "bytes": 6890,
-      "sha256": "de1560fdf2e99b224fd9a7aa0f075e241a9abaaa48695b7713e60d2a4f18dbff"
+      "path": "social/race-weekend-10/images/08-olive-pink-speed.png",
+      "bytes": 2089352,
+      "sha256": "78579e557b0a32ed0a3c79369294846b5d81354dc53e912b92c3f284fdfdde94"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/images/01-matcha-latte-daylight-hero.png",
-      "bytes": 1638666,
-      "sha256": "cc4582d94f75abbe0f0daa23ae07a53a12efb02d7af3c1fd3986459174c6ae6d"
+      "path": "social/race-weekend-10/images/09-earl-grey-lap.png",
+      "bytes": 2187921,
+      "sha256": "f9831b79587d7365167b0b0eb2243c076591290cfed6a5691eb96ee449793116"
     },
     {
-      "path": "social/product-photoshoot-25-realistic/images/02-matcha-latte-cafe-counter.png",
-      "bytes": 1645115,
-      "sha256": "949db5d257a69ebc053b6a4c6e304bd8a289dbb147695d1abbc2498f437b566d"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/03-matcha-latte-window-shadow.png",
-      "bytes": 1705882,
-      "sha256": "eb6e7ac753637be0828ce7ca050233887c2302e80a4cfc8fd16bfdc610bb18fa"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/04-matcha-latte-stone-table.png",
-      "bytes": 1696702,
-      "sha256": "1bcd065ab4ab43b04f51ad99dd8cb4047b633254569ebdcd91442d298f07deff"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/05-matcha-latte-blush-wall.png",
-      "bytes": 1642036,
-      "sha256": "3cb8efa55177d11b2981d3b8d1545209eca4466306d6b6e9619d1288ae050d99"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/06-matcha-latte-linen.png",
-      "bytes": 1813352,
-      "sha256": "98b65cc7aed7529d675f774aa29374f04bee47f1ec1a9c245b9dc04f17d9ebc5"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/07-matcha-latte-pale-wood.png",
-      "bytes": 1718193,
-      "sha256": "3b07d44aace47984b2db3c7c097bd182734f01308d6c97087c8e417a24ae7980"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/08-matcha-latte-overcast.png",
-      "bytes": 1810800,
-      "sha256": "9200952347ed38f1683855daa5a1785cc4e508b8f10fc48ac1794fe2d3dd2906"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/09-matcha-latte-wider-room.png",
-      "bytes": 1778719,
-      "sha256": "796acbe4adfdd3e4002f842769a76595bfee6f6407fef54391842b6df8b51f90"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/10-matcha-latte-close-detail.png",
-      "bytes": 1828581,
-      "sha256": "e10f010bc2b86c783e076179aad2cb09fcd7bf62846a43d145bd56e2ff4d41ac"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/11-strawberry-matcha-latte-daylight-hero.png",
-      "bytes": 1699473,
-      "sha256": "8075eca509010de7a793fa036210962faf063137325d8826c5da4fe7cf908099"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/12-strawberry-matcha-latte-cream-counter.png",
-      "bytes": 1687906,
-      "sha256": "6d45def67a11a262d767e55ce7ba7866553619c83bf1fed9c1f97b8332d97561"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/13-strawberry-matcha-latte-folded-napkin.png",
-      "bytes": 1689438,
-      "sha256": "b01f6929e12bcc1749b37c3e74b38b14fefd5fd488d889ba52a171b5bcaf29f5"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/14-strawberry-matcha-latte-window-light.png",
-      "bytes": 1735473,
-      "sha256": "32b9668fb7ccc96ed32cbe10b8df038993119c389d3c45e14608e9ac322320c5"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/15-strawberry-matcha-latte-pale-wood.png",
-      "bytes": 1659767,
-      "sha256": "a2703283435b202a2107f8fa65bd245b9d9dcf4d51f5baf22774afaf6c7572a7"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/16-strawberry-matcha-latte-cool-morning.png",
-      "bytes": 1759008,
-      "sha256": "5ea4eb7e2864e76505dd267765401a185acfde4e12ac87e2961b5b8afc73373f"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/17-strawberry-matcha-latte-quiet-blush.png",
-      "bytes": 1862334,
-      "sha256": "8486c0b5ccd32ae294a910bbafeca724e27e9ba3c161c6b0a21a68e46c046665"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/18-strawberry-matcha-latte-side-shadow.png",
-      "bytes": 1882154,
-      "sha256": "3a7d5211c850333cccfc9622334a0a20e944d29aeb94ef9e0e6394f0e8ed9c65"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/19-strawberry-matcha-latte-close-detail.png",
-      "bytes": 1662179,
-      "sha256": "6aecf132f7b9da62fa8bc9e899cbdfca85c816da14326a5df7948a8a0480edea"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/20-strawberry-matcha-latte-candid-table.png",
-      "bytes": 1733647,
-      "sha256": "a6cf86ae005f271b3076f16e639fa6263a747b1f3abd167e8c957991fdc18522"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/21-matcha-and-strawberry-daylight.png",
-      "bytes": 1811465,
-      "sha256": "b48bd550b939f0e7c2f0f99fa07f52ca595365fcd3d023d8514e271d36f0e122"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/22-matcha-and-strawberry-window.png",
-      "bytes": 1625027,
-      "sha256": "c4f63d128e714410496e9ea94b0dc35221a01491cb5afdbaf138f1bca5d40f2f"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/23-matcha-and-strawberry-counter.png",
-      "bytes": 1717087,
-      "sha256": "299849115fccae6210421e2b9a0b53898fcdda46ad275b0bc40b3c8b38374f43"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/24-matcha-and-strawberry-linen.png",
-      "bytes": 1793200,
-      "sha256": "595c4eaed82b1e628a42ec82191f4e6ce2b7d7c50b2329e9d20eed1810078edd"
-    },
-    {
-      "path": "social/product-photoshoot-25-realistic/images/25-matcha-and-strawberry-warm-afternoon.png",
-      "bytes": 1787809,
-      "sha256": "180f63fc455c30954888608ce48f2f99bfbad9b6b31c701e3d6e4df151b122f3"
+      "path": "social/race-weekend-10/images/10-finish-line.png",
+      "bytes": 2003574,
+      "sha256": "dfc3416c16ea0d499c2af75e60d1de3cfbfa9b2d4f24a20279823a79334a856e"
     },
     {
       "path": "social/soft-launch-11-october-2026/gallery.html",
-      "bytes": 1079,
-      "sha256": "ca834d0069b7a93251dd429525466a0b7814d4681a8fd642145b9da1169b7297"
+      "bytes": 1123,
+      "sha256": "c668d4581f6e996b80b9209bd5c5097a5b022ebee9d58aa0b99909430215f776"
+    },
+    {
+      "path": "social/soft-launch-11-october-2026/images/128am-Cafe-Soft-Launch-Sunday-11-October-2026-simple-on-brand.png",
+      "bytes": 2316304,
+      "sha256": "6bf161fc69f1a23b367d64c2cb4b7124d0b4fea7d2711bf70e846d32f9d46a84"
     },
     {
       "path": "social/soft-launch-11-october-2026/images/128am-Cafe-Soft-Launch-Sunday-11-October-2026.png",
@@ -2624,9 +2694,69 @@
       "sha256": "fcd46d5c86d8ea1fa51d5c0324690627c792ea888d37d61f93f9746eeb9dd6ea"
     },
     {
+      "path": "social/soft-launch-11-october-2026/prompt-on-brand-v4.txt",
+      "bytes": 712,
+      "sha256": "3fd90bf4a89513be1f5fef68482e2c98a84ebc918e1208087c5cad6045bc378d"
+    },
+    {
       "path": "social/soft-launch-11-october-2026/prompt.txt",
       "bytes": 4810,
       "sha256": "25924f612413d6edc4b19e0fd7ea2d709fd4524beb48ae7446783957dbff6229"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/gallery.html",
+      "bytes": 4100,
+      "sha256": "9b32b2f9e8762f06ef0705e95199e62cb62a5a49d577072a3b83afea67f59493"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/01-blush-note.png",
+      "bytes": 2235360,
+      "sha256": "dfaab70f6c055fb5804543bab77e7767fad02a4519c2ac58c9e5a012a9b916f0"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/02-sage-notebook.png",
+      "bytes": 2470284,
+      "sha256": "14ef98c95a593f29e2a4b01cf2d5d443a63e12d34ccec38335da0cc2d6ee155e"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/03-lilac-whisper.png",
+      "bytes": 2200641,
+      "sha256": "6b73a8eaf5d81bbbedded272bca1b7727a09bd7195bfd8d7afe7d470d765b6e1"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/04-peach-cream.png",
+      "bytes": 2039138,
+      "sha256": "92db68f380fd55d6db1184357be2d35c30876fe621dae32d472e3ebe03ced32b"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/05-butter-yellow.png",
+      "bytes": 2240787,
+      "sha256": "7793e93751d58df43145592ad4817c72bfefa4c54d0eb2168f99dd827e78f0a5"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/06-mint-blush.png",
+      "bytes": 2337034,
+      "sha256": "f2f5f4fd1fe3f4d5bb57197186613fa18820f7e70aa9384c868b59f6705bbdc5"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/07-powder-blue.png",
+      "bytes": 2202266,
+      "sha256": "0a86cea6f24be19997b084b028c60cd23a8b468c3eac702101879216f0e9c320"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/08-rose-lilac.png",
+      "bytes": 2171577,
+      "sha256": "71d0ea406628b099318ab82e639a2a38dfe7e4b6dddd44c9ced93985b9a63bd3"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/09-apricot-sage.png",
+      "bytes": 2414754,
+      "sha256": "67abcb84e97a7629fbe47a7a5891aabc2216730ce4be604f85654e345ce7e953"
+    },
+    {
+      "path": "social/soft-launch-pastel-10/images/10-pastel-confetti.png",
+      "bytes": 2204485,
+      "sha256": "86ed0528215fdf050aaea476a2f117d208fd385698911000d9a7318be0be43ed"
     },
     {
       "path": "social/strawberry-dreamy-10/128am-Cafe-Dreamy-Strawberry-10.zip",
