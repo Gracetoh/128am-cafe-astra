@@ -1,7 +1,7 @@
 {
   "collections": 15,
-  "files": 559,
-  "bytes": 855709801,
+  "files": 561,
+  "bytes": 857571062,
   "assets": [
     {
       "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
@@ -2230,8 +2230,8 @@
     },
     {
       "path": "social/strawberry-favourites-25/128am-Cafe-Strawberry-Favourites-25.zip",
-      "bytes": 52875566,
-      "sha256": "e182fee721ba61d105f0f78a43189cac7cf7418c658c8a446700f3db39bfa7d7"
+      "bytes": 52799250,
+      "sha256": "279860d56999504d19b700b8189a5ecab9bdee27e319f617f4c9362ef4f29d7d"
     },
     {
       "path": "social/strawberry-favourites-25/READ-ME.txt",
@@ -2245,13 +2245,13 @@
     },
     {
       "path": "social/strawberry-favourites-25/gallery.html",
-      "bytes": 20254,
-      "sha256": "32be32ba3b79aa8e4a89b64092a5cdc6e77463a8b1e630689508339025a95329"
+      "bytes": 20235,
+      "sha256": "922b21d619d927121197d081d352717bd4ea8687e2e2a88fb753b19926aa714f"
     },
     {
       "path": "social/strawberry-favourites-25/image-index.json",
-      "bytes": 7355,
-      "sha256": "6378c009dce6daae6560ea7290a377953cd328ddbf07334052f2c931d3223622"
+      "bytes": 7345,
+      "sha256": "27f177396379befa946ac1f7d3464d61b66e7e0f37fb82f2f4abaa71512d76e5"
     },
     {
       "path": "social/strawberry-favourites-25/images/01-green-halo-grounded-v2.png",
@@ -2267,6 +2267,11 @@
       "path": "social/strawberry-favourites-25/images/02-creamy-script-cup-v2.png",
       "bytes": 2003009,
       "sha256": "0d76615712c88ea349c6d2d34e2633e4db9a7f68a4697c052be6d4a96f41f65b"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/02-creamy-script-slim-v3.png",
+      "bytes": 1935606,
+      "sha256": "6f69486301e5259035a03f28130e23586bb40e5ee2f8cac37487ac39806d3f12"
     },
     {
       "path": "social/strawberry-favourites-25/images/02-creamy-script.png",
@@ -2407,6 +2412,11 @@
       "path": "social/strawberry-favourites-25/prompts/02-creamy-script-cup-v2.txt",
       "bytes": 2464,
       "sha256": "1ec755e814daa1fec096813b9f01c36093a9a91de19c4547182f6adc6f9cea66"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/02-creamy-script-slim-v3.txt",
+      "bytes": 2000,
+      "sha256": "e7e016965073494f5d235eb3115d6329bac036852cb37b47e3bcdce1d76998d5"
     },
     {
       "path": "social/strawberry-favourites-25/prompts/02-creamy-script.txt",
