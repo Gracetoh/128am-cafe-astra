@@ -1,0 +1,11 @@
+128am Cafe | Ethereal revision
+
+User request: cup and water droplets look too sharp and fake; make softer with ethereal vibes.
+
+Edited all six assets with the built-in image generation tool. Retained each design and product identity while softening product surface contrast, reducing distinct water beads, and introducing gentle diffuse light and highlight bloom. Typography remains readable.
+
+Previous collection: ../strawberry-vision-board/
+Reference board: https://www.pinterest.com/x128am/128am-cafe-vision-board/
+Original product photo: /Users/gracetoh/Downloads/IMG_1996.jpg
+
+The transparent cutout contains real alpha. Very fine edge fringing may remain when viewed against dark backgrounds. Light brand backgrounds are recommended.

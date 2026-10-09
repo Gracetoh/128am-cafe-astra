@@ -1,0 +1,12 @@
+{
+  "index": 25,
+  "product": "strawberry matcha latte",
+  "concept": "Pink sunlit ceramic coaster",
+  "method": "built-in image_gen",
+  "sources": [
+    "/Users/gracetoh/Documents/ChatGPT/128am Cafe/tmp/product-photoshoot-25/IMG_4280.png"
+  ],
+  "original_source": "/Users/gracetoh/Downloads/IMG_4280.heic",
+  "prompt": "Use case: product-mockup. Create ONE polished photorealistic product catalog / campaign photograph of this actual 128am Cafe strawberry matcha latte. Reference image is the exact physical product and packaging to preserve. The image is not a drink illustration. Portrait 3:4 aspect ratio, high resolution, full drink visible with generous quiet safe margins for Instagram.\n\nScene: sophisticated warm cream tabletop, soft blush-pink seamless backdrop with a broad organic sunlit shadow from a curved screen, cup on a low ivory ceramic coaster with subtle ridged edge. A single ripe strawberry with a cut half beside it sits low in the frame as an ingredient cue, no clutter.\nLighting: luminous soft side daylight, appetising true matcha greens, creamy milk, rich real strawberry-red layer at base, tiny believable chilled condensation drops. Correct the blue cast and underexposure of the supplied photo.\nKeep the same squat clear sundae cup and transparent dome lid, the light creamy foam dusted green matcha seen through dome, the distinct strawberry syrup layer, milky green swirls, precise 128am Cafe girl-and-two-eared-bunny mascot sticker centered on cup. Preserve actual packaging and recognisable brand artwork. No added whipped-cream tower, strawberry toppings, straws, hands, fictional ingredients or glassware. Natural photographic detail and refractions.\nText: large beautifully spaced bold rounded Fredoka-style lowercase title \"strawberry matcha latte\" at top, wrapping on 2 lines, dark rose #B8496C. Smaller understated cocoa \"128am Cafe\" underneath. All lettering spelled exactly and comfortably inside canvas, no additional advertising claims or prices. Brand palette warm cream #FFF8F5, blush #FDE5EB, sage #E7F0DC. Keep photography dominant, cup occupying ~65% image height under title. No watermarks, no collage, no borders.",
+  "output": "images/25-strawberry-sunlit-ceramic-coaster.png"
+}

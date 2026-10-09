@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "title": "Modern calligraphy",
+    "product": "Earl grey matcha latte",
+    "file": "images/01-earl-grey-modern-calligraphy.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "15ab4159748bb94446698796ca4db931b3e9634c9b2408e77dc6eb03d3f33692"
+  },
+  {
+    "number": 2,
+    "title": "Classic calligraphy",
+    "product": "Earl grey matcha latte",
+    "file": "images/02-earl-grey-classic-calligraphy.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "720c6504a987dd56e37f7085d765115b8902a212bc0170a385692673d424e699"
+  },
+  {
+    "number": 3,
+    "title": "Soft brush script",
+    "product": "Earl grey matcha latte",
+    "file": "images/03-earl-grey-soft-brush-script.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "1fc0d91bd57953de5a8904aa4d06dc6d258c6ca20ddec96b481cf6edc415058d"
+  },
+  {
+    "number": 4,
+    "title": "Minimal monoline",
+    "product": "Earl grey matcha latte",
+    "file": "images/04-earl-grey-monoline-cursive.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "f5344b850fa6f0fd03dedb5f66e5244e94d8c7ff6723695ed62af45a9f50f4e5"
+  },
+  {
+    "number": 5,
+    "title": "Editorial script",
+    "product": "Earl grey matcha latte",
+    "file": "images/05-earl-grey-editorial-script.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "d3c85fdbdb7cddb1c479554f4cc77356fe7c9bd2be2a8ec5a2a7ba7fe1ceb1c9"
+  },
+  {
+    "number": 6,
+    "title": "Romantic calligraphy",
+    "product": "Earl grey matcha latte",
+    "file": "images/06-earl-grey-romantic-calligraphy.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "1502b1ae86047abbf0073131e54fa6e722f582916273662537d0868c0a797f24"
+  },
+  {
+    "number": 7,
+    "title": "Relaxed handwriting",
+    "product": "Earl grey matcha latte",
+    "file": "images/07-earl-grey-relaxed-handwriting.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "2e185d26c3f04521106c10c5afeecc0c25242616fd71f1f9625fbb7750799509"
+  },
+  {
+    "number": 8,
+    "title": "French script",
+    "product": "Earl grey matcha latte",
+    "file": "images/08-earl-grey-french-script.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "6d9115ed68ba8639e372b748c75c01b3889bad7c75f76554600a2eb15937cde3"
+  },
+  {
+    "number": 9,
+    "title": "Fluid signature",
+    "product": "Earl grey matcha latte",
+    "file": "images/09-earl-grey-fluid-signature.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "8c07f8117b02f1b851e9c2ffea38d319cc109e518861cbd84d06b4181a25e842"
+  },
+  {
+    "number": 10,
+    "title": "Modern signature",
+    "product": "Earl grey matcha latte",
+    "file": "images/10-earl-grey-modern-signature.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "810aaf3868ed28563c91f2b497bd1b1fd9c9d68da2efec9c292361cc76658e54"
+  }
+]

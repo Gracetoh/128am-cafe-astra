@@ -1,0 +1,35 @@
+128am Cafe | Dreamy strawberry matcha collection
+10 new portrait social images, each in 3:4 format.
+
+Creative brief
+Dreamy strawberry-matcha cafe imagery in blush, cream and olive. Soft natural
+product photography with creamy textures, paired with oversized editorial serif
+lettering and delicate italic accents. Minimal, nostalgic and appetising, with a
+playful personality. Soft light and reduced prominent condensation keep the cup
+from looking overly sharp.
+
+Contents
+images/ contains the 10 individual PNGs.
+gallery.html previews the complete collection and provides individual downloads.
+prompts/ contains the exact generation prompts and any refinement prompts.
+image-index.json records dimensions and file hashes.
+
+Product details
+Strawberry Matcha Latte, pink strawberry cold foam, green matcha and milk,
+strawberry syrup base, short clear sundae cup and 128am Cafe label.
+Finished drink views use a dome lid. Image 05 is a preparation scene with an
+open cup so that the foam can be poured naturally.
+
+Method
+Created using the built-in image generation tool, using the original drink
+photograph and approved softer brand art as references. These are styled
+generated images, not unedited photographs. Typography is rendered lettering,
+not a supplied font file. No previous collections were overwritten.
+
+References
+Original photo: /Users/gracetoh/Downloads/IMG_1996.jpg
+Approved styling: ../strawberry-ethereal/images/01-strawberry-editorial-poster.png
+Moodboard: https://www.pinterest.com/x128am/128am-cafe-vision-board/
+
+Use the supplied full 3:4 images. Profile thumbnails can be cropped differently
+by Instagram; inspect the thumbnail preview when posting.

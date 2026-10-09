@@ -1,0 +1,14 @@
+Use case: ads-marketing
+Asset type: one finished premium cafe social poster, portrait 3:4 approximately 1086x1448.
+Primary request: create a new photographic Strawberry Matcha Latte poster with a sensuous creamy open-rim macro.
+Input images: Image 1 is the actual product shape and small girl/rabbit sticker reference; Image 2 is the approved strawberry drink layer and PINK cold foam reference; Image 3 is style and camera-composition guidance only. Do not copy the plain matcha drink, text, or ice from Image 3.
+Scene/backdrop: dreamy smooth olive-to-matcha green, luminous diffuse blur, fine restrained film grain.
+Subject: the short broad clear sundae cup of Image 1, rounded bottom, intentionally without dome lid for this macro. Rich modest red strawberry syrup layer at the very bottom, opaque creamy milk and velvety green matcha naturally marbled, a wide soft PINK strawberry cold-foam crescent across the surface with green creamy matcha visible beside it. Real fine foam texture, no whipped swirls.
+Composition/framing: cup rim very large across the lower-middle canvas, softly rounded broad cup fills lower 60%, show enough lower body and hint of red base to read strawberry drink. Three-quarter slightly elevated perspective reveals luscious green and pink foam surface. This is an intentional close-up; cup can continue slightly past lower frame, but sticker visible and title fully intact. The sticker retains brown-haired girl and white rabbit with exactly TWO ears.
+Typography: exact title “Strawberry Matcha Latte” in three lively rounded cream retro lines in upper third, softly irregular yet polished, compact enough for 10% margins. Small neat “128am Cafe” above title. All lettering readable and at least 8–10% inside all edges.
+Lighting/mood: soft dreamy commercial beverage photography, appetising thickness, real plastic reflection, creamy rather than watery.
+Constraints: Only title and brand, no extra slogan, dates, prices or claims. No 'Iced. Creamy. Lovely.' No other cafe name. No crystal-sharp ice or oversharp waterdrops, no giant berry chunks inside, no white whipped cream, no overflow or drips. Preserve reference cup identity and strawberry colours. No collage or multiple panels.
+
+
+REFINEMENT PROMPT:
+Edit the supplied finished poster with one typography-only correction. Preserve every photographic pixel's appearance and arrangement: same cup, two-ear rabbit logo, strawberry layers, green and pink cold foam, strawberries and soft lighting. Move the complete text group farther from the top edge: place the top of “128am Cafe” at approximately 9% of canvas height, with “Strawberry Matcha Latte” immediately below it. Reduce the complete title group's size about 15% to keep its bottom clear of the cup rim and all lettering within 8–10% inset margins. Preserve exact wording, cream colour and rounded retro title style. No other changes, no extra text.

@@ -1,0 +1,65 @@
+[
+  {
+    "file": "images/01-cream-studio-hero.png",
+    "kind": "feed",
+    "title": "Cream studio hero",
+    "description": "A clean product cover with clearly pink strawberry cold foam.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/02-sunlit-strawberry-script.png",
+    "kind": "feed",
+    "title": "Sunlit cursive editorial",
+    "description": "Elegant lettering, soft daylight and strawberry styling.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/03-pink-gingham-editorial.png",
+    "kind": "feed",
+    "title": "Blush gingham",
+    "description": "A warm, minimal setting with subtle texture.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/04-drink-layers.png",
+    "kind": "feed",
+    "title": "Meet the layers",
+    "description": "Pink cold foam, matcha and milk, and strawberry syrup.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/05-strawberry-story.png",
+    "kind": "story",
+    "title": "Story layout",
+    "description": "Vertical composition with room above and below the main content.",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/06-transparent-cup.png",
+    "kind": "cutout",
+    "title": "Transparent cup",
+    "description": "Reusable PNG cutout for your own social layouts.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  }
+]

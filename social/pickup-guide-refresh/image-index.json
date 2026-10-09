@@ -1,0 +1,56 @@
+[
+  {
+    "file": "01-cover.png",
+    "step": "Cover",
+    "title": "How to find us",
+    "copy": "Your pickup guide",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "66c74e50e6ebfe83f8e7c347079e473c127bc98d4de8335dcf973e35e222264c"
+  },
+  {
+    "file": "02-mrt-directions.png",
+    "step": "Step 01",
+    "title": "Coming by MRT?",
+    "copy": "Bukit Panjang MRT Exit B, escalator up, cross the road towards Junction 10 shopping mall.",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "940847a188d6c17fd56b2b2fb4e044adb52bf50fa4f7719f1ad6e6d591c29453"
+  },
+  {
+    "file": "03-tennery-sign.png",
+    "step": "Step 02",
+    "title": "Look for The Tennery sign",
+    "copy": "Beside the NUH Children’s Urgent Care Clinic.",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "c07cf019eee20abe5b4faa0fbc8724c1a62fadfc1f10d8c8b3aefd129bece7d1"
+  },
+  {
+    "file": "04-lift-level-4.png",
+    "step": "Step 03",
+    "title": "Take the lift to Level 4",
+    "copy": "When you arrive, New Life Preschool will be on your left.",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "407e0ee8025fa49ced52dc5dcc1504f681c82457c3eb08fef9b46d7bda451eb2"
+  },
+  {
+    "file": "05-level-4-intercom.png",
+    "step": "Step 04",
+    "title": "Use the Level 4 intercom",
+    "copy": "Call the unit listed in your order confirmation.",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "38ae2b2b5b08a9dfc440f0ead2c18b1873dc81e13baa8d0069c1d0d8770b6717"
+  },
+  {
+    "file": "06-tower-a-intercom.png",
+    "step": "Step 05",
+    "title": "At Tower A, use the intercom again",
+    "copy": "Call the unit listed in your order confirmation.",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "26fabbe463c6c8e01a8aeae7736c35192911719f7536ee0535cf625e76dcb141"
+  }
+]

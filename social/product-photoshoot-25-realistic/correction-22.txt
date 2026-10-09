@@ -1,0 +1,4 @@
+Image 22 was edited again to fix its caption. The original generation prompt is in all-prompts.json.
+
+Correction prompt:
+Edit this exact realistic 3:4 café product photograph with the smallest possible change. Preserve every pixel of the cups, drink layers, lids, 128am mascot stickers, lighting, shadows, window, table, framing, and the left caption. Only fix the right caption by removing its accidental leading word 'and'. Under the right cup, the label must read exactly 'strawberry matcha latte' in the same small dark brown rounded lettering, baseline, size and placement. The left caption must stay exactly 'matcha latte'. No other changes.

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "images/01-floating-ingredients.png",
+    "title": "Floating ingredients",
+    "description": "An airy ingredient breakdown with pink strawberry foam.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "df9c951407a44d4875e45e72f9b9f897b8a1f4515ed7fb061c10d1b6939ef786"
+  },
+  {
+    "file": "images/02-pink-green-gradient-smooth-v2.png",
+    "title": "Pink and green",
+    "description": "A seamless pink-green gradient with elegant lettering.",
+    "width": 1087,
+    "height": 1447,
+    "mode": "RGB",
+    "sha256": "ba8f6c665aaaeb43bb9d0897ecefc932e771f9b7e2baf0467c05d662d2ac30bf"
+  },
+  {
+    "file": "images/03-berry-daydream.png",
+    "title": "Berry daydream",
+    "description": "Floating berries, a dreamy backdrop and drink layer callouts.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "fc635e9ddf3b6bed96323cab00327001e59f1db50d459a5db8402593927d0d9e"
+  },
+  {
+    "file": "images/04-cloud-collage.png",
+    "title": "Cloud collage",
+    "description": "Torn-paper styling, blush clouds and bold pink lettering.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "957c4e5f900a2d0556195aa81c704d3af7091855ea82047d4ec8a53286b9e9cf"
+  },
+  {
+    "file": "images/05-sky-daydream.png",
+    "title": "Sky daydream",
+    "description": "A soft blue sky and a floating strawberry matcha cup.",
+    "width": 1055,
+    "height": 1491,
+    "mode": "RGB",
+    "sha256": "5c581213e84b9e17b3649c8dec95d43a1eefce538ce25e66c14f578190da1388"
+  }
+]

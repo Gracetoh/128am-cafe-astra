@@ -1,0 +1,11 @@
+{
+  "index": 9,
+  "prompt": "Use case: text-localization / typography-only edit. Edit the provided finished 1086 x 1448 portrait photograph. CHANGE ONLY THE HEADER TYPOGRAPHY in upper negative space. Entire photograph must stay exactly the same: identical pale sage background, oval contact shadow, lighting, cup position/scale/angle, clear dome and clean flange, short actual cup, smooth matcha-dusted foam, green matcha/beige milk/thin amber syrup base, girl-and-two-ear-bunny mascot sticker. Do not redraw, reposition or relight the product. No crop.\nRemove all original bold rounded header text and replace with a distinctly elegant MODERN FINE-LINE FLUID SIGNATURE style. Main title exact \"Earl Grey\" on one line, centred, in slender flowing connected cursive like a premium handwritten signature. Graceful long ascenders and descender, light monoline feel with subtle pressure contrast, slightly loose natural connections, highly readable rather than scribbled. This must look contemporary and fluid, not formal copperplate, not thick brush lettering, not bubble lettering. Muted rose #B8496C.\nImmediately underneath main signature place exact lowercase \"matcha latte\" in a SMALLER understated simple fine serif, around one-third the main title's cap height, centred, rose. Beneath that place tiny clean sans serif exact \"128am Cafe\", rose. Use generous quiet negative space and comfortable gap above the dome, no overlap. Preserve all non-header pixels as closely as possible. No flourish graphics, decorative lines, ornaments, new props, extra words or watermark.",
+  "references": [
+    "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/earl-grey-minimalist-25/images/12-earl-grey-sage-oval-shadow.png"
+  ],
+  "source": "/Users/gracetoh/.codex/generated_images/01a111a8-19af-71d2-b81b-b61bcf9a2a78/exec-34438536-8ddd-40a4-8e9e-5bb6f129ddd0.png",
+  "output": "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/earl-grey-cursive-tests-10/images/09-earl-grey-fluid-signature.png",
+  "mode": "built-in image_gen",
+  "visually_inspected": true
+}

@@ -1,0 +1,9 @@
+Mode: built-in image generation edit
+Source: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-reference-5/images/02-pink-green-gradient.png
+
+Use case: precise-object-edit, background-only correction.
+Edit this exact 128am Cafe strawberry matcha poster. The user loves it but says the solid diagonal pink strip through the lower half looks out of place and wants a more even gradient.
+CHANGE ONLY THE BACKGROUND: completely remove the hard-edged diagonal pink platform/band, its straight upper and lower boundaries, its flat solid fill and any geometric shadow edge. Replace the entire background including beneath the cup with one seamless, softly blended, EVEN dreamy pastel gradient combining strawberry blush pink and muted matcha/sage green with warmcream transitions. Preserve the existing overall colour balance (pink mostly left/lower, green mostly upper/right), but use broad smooth colour transitions rather than blotchy patches. No stripe, no horizon line, no hard edge, no replacement pedestal or platform, no linear banding, no diagonal geometry. A very gentle diffuse oval contact shadow directly under the cup is fine, blended into the gradient with no discernible surface edge. Retain subtle fine grain and ethereal matte softness.
+LOCK ALL FOREGROUND ELEMENTS: same exact cup and its position, dimensions, proportions, transparent dome, pink strawberry coldfoam, greenmatcha/milkybody, redstrawberrysyrupbase, existing smallgirl/two-ear-bunny128amlogo, lighting and soft photographic appearance. Do not redraw/change the drink or intensify water droplets or sharpness.
+Keep ALL typography identical: exact white/cream cursive 'Strawberry', serif 'Matcha Latte', small spaced '128am Cafe'; identical fonts, size, colour, linebreaks, placement and generous margins. Do not add or remove any text.
+Same portrait composition and aspect ratio (approximately3:4). One finished image. No other edits.

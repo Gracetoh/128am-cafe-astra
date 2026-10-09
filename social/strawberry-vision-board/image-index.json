@@ -1,0 +1,65 @@
+[
+  {
+    "file": "images/01-strawberry-editorial-poster.png",
+    "kind": "feed",
+    "title": "Blush editorial poster",
+    "description": "Olive serif type, rose italics and pink strawberry cold foam.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/02-pink-on-top.png",
+    "kind": "feed",
+    "title": "Pink on top",
+    "description": "A strong typographic feature with the branded cup.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/03-pink-foam-editorial.png",
+    "kind": "feed",
+    "title": "Pink foam editorial",
+    "description": "A close-up foam texture paired with the complete drink.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/04-sage-retro-poster.png",
+    "kind": "feed",
+    "title": "Sage retro poster",
+    "description": "A cream sunburst, rose serif lettering and a sage background.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/05-the-pink-finish-story.png",
+    "kind": "story",
+    "title": "The pink finish",
+    "description": "A pink cold-foam pouring photograph for Stories.",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB",
+    "alpha_extrema": null
+  },
+  {
+    "file": "images/06-transparent-cup.png",
+    "kind": "cutout",
+    "title": "Transparent cup",
+    "description": "Reusable PNG cup cutout, best on light cream backgrounds.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  }
+]

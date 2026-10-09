@@ -1,0 +1,23 @@
+Built-in image generation edit.
+
+INITIAL RECOMPOSITION PROMPT
+Use case: compositing.
+Edit target: the attached 128am Cafe pickup-guide cover.
+Primary request: recompose the first cover so ALL elements remain fully visible under a centered square crop as well as taller portrait crops. Keep the same brand illustration, words, colors and rounded font style; change scale and alignment only.
+Output is still portrait 3:4, ideally 1086 x 1448 pixels, for consistency with the rest of the carousel. CRITICAL SAFE-AREA CONSTRAINT: All non-background content, including every character, leaf, heart, mascot detail, text, location pill AND the entire pink rounded border, must lie within x=100 to 986 and y=245 to 1203 on this 1086x1448 canvas. Leave completely blank flat cream bands at the top and bottom outside this compact centered content panel. Nothing is allowed near the outer canvas edges. This is intentional crop protection, not an invitation to fill whitespace.
+Design a balanced compact mini-poster in that central safe area. Thin pink rounded rectangular border framing this central composition only. Make the mascot substantially smaller than the reference, about 500px wide and 425px high maximum. Keep it completely visible including house roof, heart above, hands, flowers and the rabbit's TWO ears. Preserve the original girl, house and bunny, don't invent a different illustration. Reduce decoration to avoid clutter. Use flat warm cream background, deep rose #B8496C headline, cocoa #4A3527 body, blush pink and pale sage accent. Preserve the friendly thick rounded headline lettering style from the original.
+Suggested strict vertical layout inside safe area, with harmonious spacing:
+small top "128am Cafe" around y=295.
+Main headline "How to find us" around y=370, fully inside generous left/right margins, smaller than original. One line if readable.
+Subheading "Your pickup guide" around y=445.
+Centered small complete mascot artwork around y=700, all of it between y=485 and y=910.
+Pale sage location pill around y=960, exact text "Junction 10 · The Tennery".
+Bottom line around y=1050: "Save this for pickup day".
+Footer around y=1120: "@128am.cafe", small Instagram symbol optional within safe area.
+Keep every word and all artwork inside the central bounded panel, give it at least 40px internal padding. Do not crop the illustration, do not place the brand name at top edge or Instagram handle at bottom edge. Do NOT draw safe-area guides, crop marks, dimension labels or test borders. No extra words, no em dashes, no new embellishments outside the panel. Final deliverable is one clean finished cover, no collage or screenshot preview.
+
+FINAL CROP-PADDING REFINEMENT
+Edit the attached cover with ONE precise layout correction only: uniformly shrink the ENTIRE bordered composition, including border, every text line, mascot, hearts, leaves, footer and Instagram icon, to 78% of its present size and center that complete composition on the same 3:4 portrait cream canvas.
+Do not reflow text or redraw any artwork. This is simply zooming out the finished poster on a larger plain warm cream background. Preserve all existing wording, typography, colors and proportions as one grouped graphic. Everything scales together.
+Target final canvas 1086 x 1448. The ENTIRE pink border and all content inside it must fit inside approximately x=195..891 and y=290..1158, centered at (543,724). This leaves large completely empty cream margins, about290px above and290px below, and about195px left andright. A CENTER SQUARE CROP of the 3:4 canvas must contain the complete border with extra room to spare. Crucially, the bottom @128am.cafe text and the ENTIRE border's lower edge cannot remain near y=1250 or y=1300.
+Do not add content into the whitespace. Maintain the exact woman, house, two-ear bunny and matching pink/green theme. No new text, no crop marks, no duplicate content, no safe-area labels, no em dashes. Return ONE single full portrait finished image.

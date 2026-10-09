@@ -1,0 +1,11 @@
+{
+  "index": 8,
+  "prompt": "Use case: text-localization / typography-only edit. Edit the provided finished 1086 x 1448 portrait photograph. CHANGE ONLY THE HEADER TYPOGRAPHY in the upper negative space. The entire photograph must remain EXACTLY the same: identical ivory gradient background and tabletop, same lighting/shadow, cup position/scale/angle, clear dome, clean flange/rim, short actual cup, smooth matcha-dusted cold foam, green matcha/beige milk/thin 4–5% amber brown syrup base, mascot sticker girl and bunny with exactly two ears. No product retouching, repositioning, relighting or invented objects. No crop.\nRemove the original bold rounded \"earl grey matcha latte\" header and its small brand typography. Replace with elegant French café inspired CONNECTED ITALIC CURSIVE, medium-thin flowing strokes, graceful subtle thick-thin contrast, sophisticated legible letters and restrained long exit strokes; not a serif roman font, not a bubble font, not heavy brush lettering. Exact title case words on two lines: first \"Earl Grey\", second \"Matcha Latte\". Both lines use this refined connected cursive, centre aligned, muted rose #B8496C. Main script occupies about 64–70% width with generous top/sides and a comfortable clear gap above dome. Beneath script put small clean legible \"128am Cafe\" in a simple understated sans serif, same rose. The typography should feel airy, quietly elegant and clearly readable at catalogue size. No flourish graphics, lines, ornaments, extra words or watermark. Preserve all non-header pixels as closely as possible.",
+  "references": [
+    "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/earl-grey-minimalist-25/images/10-earl-grey-ivory-gradient.png"
+  ],
+  "source": "/Users/gracetoh/.codex/generated_images/01a111a8-19af-71d2-b81b-b61bcf9a2a78/exec-34e14a48-09a7-4f7b-83ff-44f31c0d6586.png",
+  "output": "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/earl-grey-cursive-tests-10/images/08-earl-grey-french-script.png",
+  "mode": "built-in image_gen",
+  "visually_inspected": true
+}

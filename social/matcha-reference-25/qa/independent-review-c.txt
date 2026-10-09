@@ -1,0 +1,15 @@
+Independent visual review: posters 14–19
+Inspected all six full images with view_image.
+
+Material issue: safe text margins
+- 15-matcha-ripple: the top brand line and bottom slogan sit about 3–5% from their canvas edges, below the brief's 8–10% text margin.
+- 18-afternoon-glow: the bottom-left brand line sits about 4–5% from the left and bottom edges.
+- 19-falling-ingredients: the title begins about 4% below the top, and the brand footer about 3% above the bottom.
+These words are readable and uncut, but moving the affected text inward would fulfill the requested central safe composition.
+
+No other material issues found. All six display correctly spelled Matcha Latte and 128am Cafe, recognizable girl-and-rabbit stickers with two rabbit ears, clean lid/rim presentation, reasonable green/milk layers and photographic food quality.
+For 19, the ingredient stack is explicitly conceptual: suspended matcha powder, milk splash and three ice cubes. The three leader lines end with dots rather than arrowheads and align with their intended ingredients; no mismatched label or anomalous additional floating object was found.
+
+No images were edited or regenerated during the initial independent review.
+
+Follow-up correction for 19 (authorized separately): Two built-in refinements moved the title and footer inward and modestly reduced the cup to create room. Selected PNG replaced with the final refined result. The title now has approximately 8–9% top margin, and the footer approximately 7% bottom margin, with all words cleanly inset and readable. Visual QA confirmed the same exact text, correct ingredient leader lines, three suspended ice cubes, preserved cup identity and two-ear bunny logo. No new material issue. Both exact refinement prompts were appended to the matching prompt TXT.

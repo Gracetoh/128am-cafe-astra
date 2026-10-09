@@ -1,0 +1,277 @@
+[
+  {
+    "number": 1,
+    "title": "Daylight hero",
+    "product": "Matcha latte",
+    "file": "images/01-matcha-latte-daylight-hero.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "cc4582d94f75abbe0f0daa23ae07a53a12efb02d7af3c1fd3986459174c6ae6d"
+  },
+  {
+    "number": 2,
+    "title": "Caf\u00e9 counter",
+    "product": "Matcha latte",
+    "file": "images/02-matcha-latte-cafe-counter.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "949db5d257a69ebc053b6a4c6e304bd8a289dbb147695d1abbc2498f437b566d"
+  },
+  {
+    "number": 3,
+    "title": "Window shadow",
+    "product": "Matcha latte",
+    "file": "images/03-matcha-latte-window-shadow.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "eb6e7ac753637be0828ce7ca050233887c2302e80a4cfc8fd16bfdc610bb18fa"
+  },
+  {
+    "number": 4,
+    "title": "Stone table",
+    "product": "Matcha latte",
+    "file": "images/04-matcha-latte-stone-table.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "1bcd065ab4ab43b04f51ad99dd8cb4047b633254569ebdcd91442d298f07deff"
+  },
+  {
+    "number": 5,
+    "title": "Blush wall",
+    "product": "Matcha latte",
+    "file": "images/05-matcha-latte-blush-wall.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "3cb8efa55177d11b2981d3b8d1545209eca4466306d6b6e9619d1288ae050d99"
+  },
+  {
+    "number": 6,
+    "title": "Linen",
+    "product": "Matcha latte",
+    "file": "images/06-matcha-latte-linen.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "98b65cc7aed7529d675f774aa29374f04bee47f1ec1a9c245b9dc04f17d9ebc5"
+  },
+  {
+    "number": 7,
+    "title": "Pale wood",
+    "product": "Matcha latte",
+    "file": "images/07-matcha-latte-pale-wood.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "3b07d44aace47984b2db3c7c097bd182734f01308d6c97087c8e417a24ae7980"
+  },
+  {
+    "number": 8,
+    "title": "Overcast light",
+    "product": "Matcha latte",
+    "file": "images/08-matcha-latte-overcast.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "9200952347ed38f1683855daa5a1785cc4e508b8f10fc48ac1794fe2d3dd2906"
+  },
+  {
+    "number": 9,
+    "title": "Caf\u00e9 corner",
+    "product": "Matcha latte",
+    "file": "images/09-matcha-latte-wider-room.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "796acbe4adfdd3e4002f842769a76595bfee6f6407fef54391842b6df8b51f90"
+  },
+  {
+    "number": 10,
+    "title": "Closer view",
+    "product": "Matcha latte",
+    "file": "images/10-matcha-latte-close-detail.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "e10f010bc2b86c783e076179aad2cb09fcd7bf62846a43d145bd56e2ff4d41ac"
+  },
+  {
+    "number": 11,
+    "title": "Daylight hero",
+    "product": "Strawberry matcha latte",
+    "file": "images/11-strawberry-matcha-latte-daylight-hero.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "8075eca509010de7a793fa036210962faf063137325d8826c5da4fe7cf908099"
+  },
+  {
+    "number": 12,
+    "title": "Cream counter",
+    "product": "Strawberry matcha latte",
+    "file": "images/12-strawberry-matcha-latte-cream-counter.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "6d45def67a11a262d767e55ce7ba7866553619c83bf1fed9c1f97b8332d97561"
+  },
+  {
+    "number": 13,
+    "title": "Folded napkin",
+    "product": "Strawberry matcha latte",
+    "file": "images/13-strawberry-matcha-latte-folded-napkin.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "b01f6929e12bcc1749b37c3e74b38b14fefd5fd488d889ba52a171b5bcaf29f5"
+  },
+  {
+    "number": 14,
+    "title": "Window light",
+    "product": "Strawberry matcha latte",
+    "file": "images/14-strawberry-matcha-latte-window-light.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "32b9668fb7ccc96ed32cbe10b8df038993119c389d3c45e14608e9ac322320c5"
+  },
+  {
+    "number": 15,
+    "title": "Pale wood",
+    "product": "Strawberry matcha latte",
+    "file": "images/15-strawberry-matcha-latte-pale-wood.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "a2703283435b202a2107f8fa65bd245b9d9dcf4d51f5baf22774afaf6c7572a7"
+  },
+  {
+    "number": 16,
+    "title": "Cool morning",
+    "product": "Strawberry matcha latte",
+    "file": "images/16-strawberry-matcha-latte-cool-morning.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "5ea4eb7e2864e76505dd267765401a185acfde4e12ac87e2961b5b8afc73373f"
+  },
+  {
+    "number": 17,
+    "title": "Quiet blush",
+    "product": "Strawberry matcha latte",
+    "file": "images/17-strawberry-matcha-latte-quiet-blush.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "8486c0b5ccd32ae294a910bbafeca724e27e9ba3c161c6b0a21a68e46c046665"
+  },
+  {
+    "number": 18,
+    "title": "Side shadow",
+    "product": "Strawberry matcha latte",
+    "file": "images/18-strawberry-matcha-latte-side-shadow.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "3a7d5211c850333cccfc9622334a0a20e944d29aeb94ef9e0e6394f0e8ed9c65"
+  },
+  {
+    "number": 19,
+    "title": "Closer view",
+    "product": "Strawberry matcha latte",
+    "file": "images/19-strawberry-matcha-latte-close-detail.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "6aecf132f7b9da62fa8bc9e899cbdfca85c816da14326a5df7948a8a0480edea"
+  },
+  {
+    "number": 20,
+    "title": "Candid table",
+    "product": "Strawberry matcha latte",
+    "file": "images/20-strawberry-matcha-latte-candid-table.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "a6cf86ae005f271b3076f16e639fa6263a747b1f3abd167e8c957991fdc18522"
+  },
+  {
+    "number": 21,
+    "title": "Daylight pair",
+    "product": "Both drinks",
+    "file": "images/21-matcha-and-strawberry-daylight.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "b48bd550b939f0e7c2f0f99fa07f52ca595365fcd3d023d8514e271d36f0e122"
+  },
+  {
+    "number": 22,
+    "title": "Window pair",
+    "product": "Both drinks",
+    "file": "images/22-matcha-and-strawberry-window.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "c4f63d128e714410496e9ea94b0dc35221a01491cb5afdbaf138f1bca5d40f2f"
+  },
+  {
+    "number": 23,
+    "title": "Counter pair",
+    "product": "Both drinks",
+    "file": "images/23-matcha-and-strawberry-counter.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "299849115fccae6210421e2b9a0b53898fcdda46ad275b0bc40b3c8b38374f43"
+  },
+  {
+    "number": 24,
+    "title": "Linen pair",
+    "product": "Both drinks",
+    "file": "images/24-matcha-and-strawberry-linen.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "595c4eaed82b1e628a42ec82191f4e6ce2b7d7c50b2329e9d20eed1810078edd"
+  },
+  {
+    "number": 25,
+    "title": "Warm afternoon pair",
+    "product": "Both drinks",
+    "file": "images/25-matcha-and-strawberry-warm-afternoon.png",
+    "size": [
+      1086,
+      1448
+    ],
+    "sha256": "180f63fc455c30954888608ce48f2f99bfbad9b6b31c701e3d6e4df151b122f3"
+  }
+]

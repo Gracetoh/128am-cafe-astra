@@ -1,0 +1,27 @@
+Use case: precise-object-edit.
+Edit the supplied finished editorial diptych to make ONLY its PHOTOGRAPHIC RENDERING decisively softer, ethereal and natural. Preserve the entire layout, object positions, dimensions portrait 3:4 (1086 x 1448), palette, divider, text and typefaces.
+IMPORTANT USER CORRECTION: the cup and water droplets currently look far too sharp and artificial. Remove ALL conspicuous sharply outlined bead droplets and sparkly specular pinpoints from the dome and cup. Exterior plastic should be naturally clean, with at most a faint smooth translucent condensation haze, NOT separate hard round water beads. No razor-sharp digital microtexture.
+Re-photograph the product visually with broad diffused window light through sheer curtains, gentle highlight bloom, soft tonal transitions, lower local contrast and a matte analog-film finish. Subtle organic optical softness, delicate atmosphere, naturally irregular textures. Edges remain recognizable but less harsh; avoid oversharpening, glassy CGI shine and synthetic hyperdetail. Give rich green matcha, creamy milk, red syrup and pink foam soft appetising natural colours without washing them away.
+The top macro foam panel must also become softly creamy and airy: blend the currently hard sharp granular bubbles into a smooth pink strawberry cold-foam surface with only a few soft natural microbubbles. Retain the same overall close-up panel composition but remove hyper-sharp pits, hard bubble outlines and sparkles. Smooth creamy folds and gentle luminous highlights; no plastic or soap appearance.
+LOCK product identity: same short broad sundae cup, clear dome lid with CLEAN rim and flange, no spills or overflow; original branded sticker with girl and white rabbit with TWO ears, legible 128am Cafe. Keep continuous PINK cold foam cap under dome, milk/green matcha middle, red strawberry syrup bottom, same proportions and cup framing, full lid and base.
+LOCK graphic layer: keep text perfectly crisp and exactly unchanged: olive high-contrast serif "Strawberry Matcha Latte" and dusty pink italic serif "The pink finish". Preserve header position/size, fine olive divider, cream background. Never apply a global blur to text, logo or entire graphic. Logo stays legible though naturally printed on plastic; no washed-out label. No added objects or text. The result should look like gentle dreamy real food photography integrated into the same elegant editorial design, not blur-filtered CGI.
+
+Reference input:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-vision-board/images/03-pink-foam-editorial.png
+
+Mode: built-in image_gen
+Initial generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-c6198dac-3120-405d-be9f-51845888752d.png
+
+Targeted correction prompt:
+Use case: precise-object-edit.
+ONE focused correction to the supplied softened editorial image. Keep this layout, text, upper pink foam macro and entire design unchanged. ONLY RETOUCH THE LOWER CUP'S EXTERIOR.
+REMOVE EVERY VISIBLE WATER DROPLET from the entire outer cup and dome, especially the left and right green sidewalls. The plastic must become SMOOTH, CLEAN and virtually DRY: no raised round beads, little droplet circles, sharp beads, sparkles or specular pinpoints anywhere. Do not leave the current water beads. A barely perceptible smooth diffuse haze is enough; no bead condensation. Preserve natural matcha and milk marbling behind the plastic. Large soft diffuse highlights rather than tiny reflected sparkles.
+Retain existing gentle matte film finish and softly diffused ethereal window light. Lower product local contrast and harsh detail slightly. Keep the drink recognisable and photorealistic: exact same short broad clear sundae cup and properly seated clear dome with clean rim, full product, girl-and-two-ear-rabbit 128am Cafe sticker still readable, red syrup bottom, milky green matcha middle, continuous pink cold foam cap. No overflow or added toppings. Keep all product positions, scale and silhouette unchanged.
+All typography stays perfectly crisp and identical: olive serif "Strawberry Matcha Latte", rose italic "The pink finish". Upper creamy pink foam macro and olive dividing line untouched. Cream background and natural shadow unchanged. No global blur. The final lower cup must have natural clean smooth plastic with soft tonal transitions, not artificial sharp sparkling droplets. Same portrait 3:4 at 1086 x 1448.
+
+Correction reference:
+/Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-c6198dac-3120-405d-be9f-51845888752d.png
+
+Final generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-f4dd4169-7c7c-4c62-87d0-c6df8f37d268.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-ethereal/images/03-pink-foam-editorial.png
+

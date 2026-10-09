@@ -1,0 +1,19 @@
+Use case: infographic-diagram.
+Create ONE polished minimalist ingredient explainer for a strawberry matcha latte, portrait 3:4 at 1086 x 1448, based on supplied approved product master. The product must remain a PHOTOREALISTIC product photograph with restrained clean callout graphics.
+Preserve EXACT drink: short broad clear plastic sundae cup with rounded bottom, clear dome lid, compact front mascot sticker of brown-haired girl and white bunny with TWO ears, legible 128am Cafe logo. Continuous soft PINK strawberry cold foam cap spans the top under lid, white milk and natural green matcha marbling fill the middle, deep red strawberry syrup at very bottom. Correct broad cup proportions. Foam and liquid all inside, crystal clean exterior flange/rim, no overflowing, no drips, no white foam or whipped cream tower. Fine appetising condensation.
+Simple warm cream #FFF8F5 background and matching plain surface with subtle contact shadow. Show entire cup somewhat smaller than master, positioned LEFT of center below the title so the RIGHT has a clean callout column. Full dome/base and logo visible. No props, extra ingredients, fruit or objects.
+Top heading EXACT lowercase words on TWO centered lines: "strawberry" / "matcha latte". Same heavy rounded Fredoka-like bold rose #B8496C font as master, easy to read, generous safe margins. Small exact "128am Cafe" directly below in cocoa #4A3527.
+THREE ingredient callouts only, large readable medium-weight rounded sans in cocoa #4A3527, matching the brand's rounded family, clear of dome/logo and page edges. All labels in clean RIGHT column; each may wrap to two tidy lines for readability. Exact callout texts:
+"Strawberry cold foam" with a precise fine cocoa horizontal leader line ending on the PINK foam cap at cup's right side.
+"Matcha + milk" with a separate fine leader line ending at the GREEN AND MILK middle layer, on cup's right side well ABOVE or beside the sticker, never crossing it.
+"Strawberry syrup" with a separate fine leader line ending on the RED bottom layer at right edge of cup.
+Arrange each label approximately at its target layer's height. Lines should be simple and precise with a tiny dot at the layer endpoint, never crossing each other, never pointing into empty space, and NEVER covering the logo. Make each label clearly readable on a phone, about 34–40 pixels high, do not cram tiny text. Cup sufficiently small to provide generous right-column space, but product details recognizable. Ensure enough margin around all lines/labels.
+Palette cream #FFF8F5, blush #FDE5EB, rose #B8496C, sage #E7F0DC, cocoa #4A3527. Minimal elegant layout. No prices, extra claims, em dash, badges, decorations, extra text or watermark. One completed ingredient explainer only, not a collage.
+
+Reference input:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-pink-foam-assets/images/01-cream-studio-hero.png
+
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-fa9ed86e-272c-4374-8abd-5e1ec3ed4972.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-pink-foam-assets/images/04-drink-layers.png
+

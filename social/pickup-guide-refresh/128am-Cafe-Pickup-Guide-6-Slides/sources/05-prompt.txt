@@ -1,0 +1,12 @@
+Use case: compositing.
+Asset type: Instagram carousel pickup guide, portrait 3:4 at 1086 x 1448 if possible.
+Input 1: actual Level 4 entrance photo, keep the real setting and intercom faithful.
+Input 2: approved carousel layout template. Match its border, typography hierarchy, small top brand, blush step capsule, rose heading, photo inset, cream bottom caption, footer. Use same cream #FFF8F5, rose #B8496C, cocoa #4A3527.
+Make the next slide with EXACT copy:
+Top brand "128am Cafe"
+Pill "STEP 04"
+Headline two lines "Use the Level 4" / "intercom"
+Below the photo in cocoa, two lines "Call the unit listed in" / "your order confirmation."
+Footer "@128am.cafe"
+Photo: place image 1 as a large middle inset, with generous cream area above and below for text like template. Preserve the glass entrance and steps on the left, LEVEL 4 wall marking on the right, and silver intercom mounted on the right. Crop only uninformative top/floor to fill the inset. The intercom AND LEVEL 4 label must both remain visible. Gently lift exposure on the dark right wall so the real silver intercom can be recognized, retain photographic character. Add a thin pink rounded outline around the intercom, with comfortable gap outside the device. The outline should highlight the whole intercom without covering any screen/buttons; do not draw arrows to buttons or invent button sequences.
+Critical: keep geometry, stairs, door frames, real signs and hardware where they actually are. Do not replace signs or invent windows, doors, intercom controls or architecture. This is real customer wayfinding, photo should remain as close to source as possible. No decorative mascot covering the photo. No private unit number, no security codes, no new directional turn, no extra marketing copy. No em dashes. All new directions in easy-to-read friendly rounded sans serif, no cursive. Output only one complete flat carousel slide.

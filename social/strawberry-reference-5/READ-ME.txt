@@ -1,0 +1,31 @@
+128am Cafe | Five strawberry poster directions
+
+Five individual portrait PNGs inspired by the five supplied visual references:
+01 Floating ingredients with accurately labelled elements
+02 Seamless pink-green gradient and elegant lettering
+03 Hazy berry scene with layer callouts
+04 Blue and pink torn-paper cloud collage
+05 Soft blue sky poster
+
+The product is Strawberry Matcha Latte with pink strawberry cold foam, green
+matcha, milk and strawberry syrup, in the cafe's branded sundae cup. Image 01
+uses an open cup for the conceptual floating ingredient arrangement. The other
+four use clear dome lids. Blue backgrounds follow the supplied new references.
+
+These are independently generated branded interpretations of the supplied
+style examples. No other cafe's branding or unsupported ingredient-origin,
+organic or award claims have been included.
+
+All five were created using the built-in image generation tool. Exact prompts
+and refinements are in prompts/. They are styled generated images based on the
+original product photograph, not unedited product photos. Lettering is rendered
+in the PNG files and no editable font file is supplied.
+
+Dimensions are recorded in image-index.json. Native portrait sizes are retained.
+Open gallery.html to preview each image and download individually. The ZIP
+contains all five PNGs, prompts, this guide, image index and gallery.
+
+Product reference: /Users/gracetoh/Downloads/IMG_1996.jpg
+Approved pink-foam reference: ../strawberry-dreamy-10/images/06-strawberry-still-life.png
+
+Previous collections remain unchanged.

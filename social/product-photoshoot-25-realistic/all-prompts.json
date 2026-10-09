@@ -1,0 +1,235 @@
+{
+  "note": "AI-assisted edits of real product photographs; verify packaging details before public use.",
+  "items": [
+    {
+      "number": 1,
+      "filename": "01-matcha-latte-daylight-hero.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: photorealistic-natural precise photo edit. This user photo is the exact product and packaging truth. Make a restrained, believable edit that could pass as a real 128am Cafe product photoshoot from a camera. Keep the short transparent plastic cup, actual lid style, sticker illustration and 128am lettering, liquid layers, scale, angle, refractions and natural condensation faithful to the supplied image. Preserve the small irregularities that make it look real. Correct the cool blue cast and underexposure, improve natural exposure and colour gently. Soft daylight, credible shadows, subtle camera grain, small depth of field. No CG/perfect studio render, no exaggerated glow, no fake giant droplets, no invented garnish, no extra cups, no surreal geometry. Portrait 3:4 photo. Small tasteful lower-case product name in a simple rounded café font, set within clear negative space and correctly spelled; typography should support rather than dominate the photograph. No additional captions, prices or watermarks.\nProduct name (exact): \"matcha latte\". Scene: Warm ivory cafe wall and off-white tabletop, believable side-window daylight from the left, subtle natural wall shadow. Keep cup centrally framed with breathing room; no props. The flat clear lid and white seal must match this source."
+    },
+    {
+      "number": 2,
+      "filename": "02-matcha-latte-cafe-counter.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: An ordinary light cream café counter against a softly out-of-focus warm off-white wall; slightly diagonal side daylight, no props."
+    },
+    {
+      "number": 3,
+      "filename": "03-matcha-latte-window-shadow.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Natural morning window light with a faint imperfect window-frame shadow on the plain ivory wall and tabletop, no props."
+    },
+    {
+      "number": 4,
+      "filename": "04-matcha-latte-stone-table.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Subtle light limestone-look tabletop and warm eggshell wall, soft side daylight, gentle real shadow, no prop styling."
+    },
+    {
+      "number": 5,
+      "filename": "05-matcha-latte-blush-wall.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Very pale muted blush wall, cream tabletop, broad soft daylight and natural shadow, realistic small café setting."
+    },
+    {
+      "number": 6,
+      "filename": "06-matcha-latte-linen.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: An unpressed beige linen napkin loosely folded to one side on a neutral table, cream wall, window light; drink fully visible."
+    },
+    {
+      "number": 7,
+      "filename": "07-matcha-latte-pale-wood.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Pale real wood tabletop with visible fine grain and a warm ivory wall, ordinary café daylight, no other objects."
+    },
+    {
+      "number": 8,
+      "filename": "08-matcha-latte-overcast.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Quiet overcast daylight on a natural cream tabletop, subdued and honest colour, subtle soft shadow, no props."
+    },
+    {
+      "number": 9,
+      "filename": "09-matcha-latte-wider-room.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Slightly wider natural café corner: cup on cream table with a softly blurred light wall and understated real ambient depth, no added cups."
+    },
+    {
+      "number": 10,
+      "filename": "10-matcha-latte-close-detail.png",
+      "product": "matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte\". Scene: Closer framing of the actual full cup emphasizing natural ice, matcha, milk and sticker; plain warm ivory tabletop and background, no invented details."
+    },
+    {
+      "number": 11,
+      "filename": "11-strawberry-matcha-latte-daylight-hero.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: photorealistic-natural precise photo edit. This user photo is the exact product and packaging truth. Make a restrained, believable edit that could pass as a real 128am Cafe product photoshoot from a camera. Keep the short transparent plastic cup, actual clear dome lid, original two-ear bunny sticker illustration and 128am lettering, liquid layers, scale, angle, refractions and natural condensation faithful to the supplied image. Preserve the small irregularities that make it look real. Correct the cool blue cast and underexposure, improve natural exposure and colour gently. Soft daylight, credible shadows, subtle camera grain, small depth of field. No CG/perfect studio render, no exaggerated glow, no fake giant droplets, no invented garnish, no extra cups, no surreal geometry. Portrait 3:4 photo. Small tasteful lower-case product name \"strawberry matcha latte\" in a simple rounded café font, set within clear negative space and correctly spelled; typography should support rather than dominate the photograph. No additional captions, prices or watermarks. Warm pale blush cafe wall and cream tabletop, soft late-morning window daylight, slight natural shadows, no props. Keep the domed cup centrally framed. Preserve strawberry red layer at bottom and the exact clear dome lid from this source."
+    },
+    {
+      "number": 12,
+      "filename": "12-strawberry-matcha-latte-cream-counter.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: An everyday clean cream café counter, pale warm wall, soft sidelight. Keep original clear dome and red syrup base."
+    },
+    {
+      "number": 13,
+      "filename": "13-strawberry-matcha-latte-folded-napkin.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Neutral counter with one casually folded pale blush linen napkin off to the side; natural morning light, keep red base and dome."
+    },
+    {
+      "number": 14,
+      "filename": "14-strawberry-matcha-latte-window-light.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Soft sunlit ivory café table with a loose real window shadow, slightly muted pink wall, cup completely visible."
+    },
+    {
+      "number": 15,
+      "filename": "15-strawberry-matcha-latte-pale-wood.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Pale woodgrain table with warm cream wall, honest afternoon ambient light, no props or artificial stage elements."
+    },
+    {
+      "number": 16,
+      "filename": "16-strawberry-matcha-latte-cool-morning.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Natural cool morning daylight gently warmed without over-processing, cream wall and tabletop, subtle imperfections preserved."
+    },
+    {
+      "number": 17,
+      "filename": "17-strawberry-matcha-latte-quiet-blush.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Understated muted blush studio wall that resembles painted plaster, warm ivory tabletop, realistic soft shadows."
+    },
+    {
+      "number": 18,
+      "filename": "18-strawberry-matcha-latte-side-shadow.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Simple warm cream café setting with soft directional side shadow, authentic phone-photograph texture."
+    },
+    {
+      "number": 19,
+      "filename": "19-strawberry-matcha-latte-close-detail.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Closer full-cup composition showing dome, cold foam, matcha-milk swirl, clear sticker and rich real red syrup layer. Plain cream background."
+    },
+    {
+      "number": 20,
+      "filename": "20-strawberry-matcha-latte-candid-table.png",
+      "product": "strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"strawberry matcha latte\". Scene: Casual café tabletop with slightly wrinkled cream cloth at the far side, uncontrived daylight, cup dominant and fully visible."
+    },
+    {
+      "number": 21,
+      "filename": "21-matcha-and-strawberry-daylight.png",
+      "product": "matcha latte and strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg",
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte and strawberry matcha latte\". Scene: Two actual products side by side on the same ordinary cream table in soft daylight, matcha on the left, strawberry on the right, realistic relative size. Reference image 1 is the actual matcha latte with flat clear lid and white seal. Reference image 2 is the actual strawberry matcha latte with clear dome and red base. Include both cups, don't swap their packaging, place accurate small labels near the correct cups."
+    },
+    {
+      "number": 22,
+      "filename": "22-matcha-and-strawberry-window.png",
+      "product": "matcha latte and strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg",
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte and strawberry matcha latte\". Scene: Both real drinks near a window on a pale wood café table, matcha left and strawberry right, shallow but believable background blur. Reference image 1 is the actual matcha latte with flat clear lid and white seal. Reference image 2 is the actual strawberry matcha latte with clear dome and red base. Include both cups, don't swap their packaging, place accurate small labels near the correct cups."
+    },
+    {
+      "number": 23,
+      "filename": "23-matcha-and-strawberry-counter.png",
+      "product": "matcha latte and strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg",
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte and strawberry matcha latte\". Scene: Two cups on a warm ivory café counter with small natural depth separation, lids and liquid layers true to each input reference. Reference image 1 is the actual matcha latte with flat clear lid and white seal. Reference image 2 is the actual strawberry matcha latte with clear dome and red base. Include both cups, don't swap their packaging, place accurate small labels near the correct cups."
+    },
+    {
+      "number": 24,
+      "filename": "24-matcha-and-strawberry-linen.png",
+      "product": "matcha latte and strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg",
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte and strawberry matcha latte\". Scene: Two cups beside a casually folded unpressed pale linen napkin on cream table, soft daylight, natural shadow. Reference image 1 is the actual matcha latte with flat clear lid and white seal. Reference image 2 is the actual strawberry matcha latte with clear dome and red base. Include both cups, don't swap their packaging, place accurate small labels near the correct cups."
+    },
+    {
+      "number": 25,
+      "filename": "25-matcha-and-strawberry-warm-afternoon.png",
+      "product": "matcha latte and strawberry matcha latte",
+      "source_photos": [
+        "/Users/gracetoh/Downloads/IMG_1992.jpg",
+        "/Users/gracetoh/Downloads/IMG_1996.jpg"
+      ],
+      "prompt": "Use case: precise-object-edit for realistic café product photography. The attached image is the actual drink; preserve the real cup shape, original lid, recognizable girl-and-two-eared-bunny 128am Cafe sticker, lettering on that sticker, layer colours, fluid level, and natural irregularities. Gentle warm white balance, sensible exposure, credible daylight and small natural shadows. Keep the product physically plausible and dominant, shown completely in a portrait 3:4 composition. Professional natural-light editorial photograph with mild camera grain and normal texture. Avoid CG, 3D-render cleanliness, invented packaging, extra ingredients, fake oversized water droplets, highly saturated colours or fantasy scenes. Include only the exact lower-case product name as a small, tasteful rounded-font caption within clear negative space, legible and unobstructed. No large title, no other text, no price, no watermark.\nExact caption: \"matcha latte and strawberry matcha latte\". Scene: Two real cups together in warm late afternoon café light on neutral pale tabletop; a candid polished photo, no stylized staging. Reference image 1 is the actual matcha latte with flat clear lid and white seal. Reference image 2 is the actual strawberry matcha latte with clear dome and red base. Include both cups, don't swap their packaging, place accurate small labels near the correct cups."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+128am Cafe | Strawberry ethereal collection
+Prepared 8 October 2026
+
+01–04: individual portrait feed graphics (3:4).
+05: vertical Story graphic (approximately 9:16).
+06: genuinely transparent PNG cup cutout.
+
+All six show pink strawberry cold foam and retain the short sundae cup, strawberry base and front brand sticker. The finished-drink images retain the clear dome lid. The Story shows foam being poured into an open cup. The four feed images include product names. The cutout includes only the existing cup branding, so you can add your own headings.
+
+Open gallery.html to browse and download the images individually. The transparent asset is displayed on a checkerboard in the gallery only; that checkerboard is not baked into the PNG.
+
+Generated with the built-in image generation tool. Exact prompts are in prompts/. These are styled product images based on your original photograph and previous catalogue image, not unedited photos. The editorial typography is generated lettering, not a supplied font file. The transparent cutout has slight edge fringing, so it works best on light backgrounds. Dimensions and alpha validation are recorded in image-index.json.
+
+Revision: softer photographic treatment, reduced prominent water droplets, broader diffused reflections and lower microcontrast. Pink cold foam and readable brand typography retained.
+
+Original reference: /Users/gracetoh/Downloads/IMG_1996.jpg
+Earlier style reference: output/social/product-photoshoot-25/images/09-strawberry-blush-studio.png
+The previous image collection has not been overwritten.

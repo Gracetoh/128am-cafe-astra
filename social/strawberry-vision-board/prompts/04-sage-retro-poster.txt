@@ -1,0 +1,15 @@
+Use case: ads-marketing.
+Create ONE bold sophisticated retro café typographic poster, portrait 3:4 at 1086 x 1448. Use supplied image as EXACT PRODUCT reference only. Remove and discard its original rounded bubble typography. Graphic direction is editorial vintage café poster with oversized HIGH-CONTRAST SERIF type, cream paper, sage/olive and dusty rose, with a photorealistic branded cup cutout.
+Background: beautiful muted sage green #E7F0DC with a subtle olive #526F35 undertone, light enough for rose title to remain legible, restrained fine paper texture. A large cream #FFF8F5 ANGULAR SUNBURST graphic with long geometric triangular rays sits BEHIND the full cup, centered in lower two-thirds. Distinct bold graphic hierarchy and artistic editorial restraint; no extra decorative objects.
+Hero: one full PHOTOREALISTIC product cutout of the reference cup, centered over the cream sunburst, with delicate credible shadow. Preserve short broad clear plastic sundae cup, rounded base and clear properly seated dome. Continuous visibly PINK strawberry cold foam cap under lid across the entire top, white milk and natural green matcha marbling, deep red strawberry syrup bottom. Keep compact front mascot sticker exactly recognizable: brown-haired girl with pink bow, white bunny with TWO ears, legible 128am Cafe logo. Crystal-clean rim/flange, no spills, overflow, extra toppings, white foam or whipped tower. Preserve realistic fine cold condensation. Whole dome and cup base visible with generous safe margins. Product must remain real photographic, not vector or illustration.
+Typography: oversized confident dusty-rose #B8496C HIGH-CONTRAST DISPLAY SERIF headline reading exactly "STRAWBERRY" at the top, fully inside frame. Use elegant condensed classic editorial serif letterforms with refined thick/thin contrast, strong serifs, not slab, bubble or rounded sans. Directly below, smaller matching serif uppercase exact "MATCHA LATTE". Tiny clean readable exact "128am Cafe" near bottom margin in olive or rose. The cream sunburst must not obscure or compete with headline, and text must not cover cup logo. Safe margins. Strong hierarchy, large title, calmer subtitle, small café credit.
+No random Japanese text, extra logos, extra slogans, prices, badges, claims, watermark, extra objects, fruits or separate illustrations. Only the three specified text lines and existing real cup branding. Palette cream #FFF8F5, rose #B8496C, sage #E7F0DC, olive #526F35, dusty pink accents if needed. One finished poster.
+
+Reference input:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-pink-foam-assets/images/01-cream-studio-hero.png
+
+Style direction: parent reviewed Pinterest vision board and supplied editorial retro cafe observations.
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-8844c27e-17d0-4fb1-9c5e-80fb40348f51.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-vision-board/images/04-sage-retro-poster.png
+

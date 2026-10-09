@@ -1,0 +1,13 @@
+{
+  "index": 2,
+  "name": "02-earl-grey-classic-calligraphy",
+  "prompt": "Use case: precise-object-edit / text-localization. Edit input image 1 as a SURGICAL TYPOGRAPHY-ONLY change for an elegant minimalist product catalogue. Preserve exactly the entire underlying photograph: cup position and scale, dome lid shape, clean exterior rim/flange, green matcha/beige milk and thin amber syrup bottom, creamy cold foam, mascot girl and bunny with exactly two ears, condensation, light/shadow, background colour and texture. Do not restyle or regenerate the drink. Preserve full cup and existing frame, portrait exactly 1086x1448.\nCompletely remove the existing oversized bold rounded top text and replace ONLY that top typography with the specified elegant type treatment. No rounded bold type remains. All new letters solid muted rose #B8496C. Airy centered composition, safe top and side margins, no overlapping lines, clean gap above dome. Exact words must be clean, correctly spelled, highly legible. No extra words, pricing, badges, claims, props, flourishes beyond letterforms, divider rules, ornaments or watermark. No change to small text printed on cup sticker.\nNEW TYPOGRAPHY: Classic elegant Copperplate-inspired calligraphy on two lines: exact first line 'Earl Grey', exact second line 'Matcha Latte'. Graceful connected script with a consistent slant, refined thin upstrokes and medium downstrokes, restrained integrated capital flourishes, luxurious and airy but readable. Title uses roughly 60–65% image width, comfortable space between the two script lines. Small neat '128am Cafe' beneath in a simple clean sans-serif, much smaller than product title. This is traditional fine-to-medium contrast copperplate calligraphy, not a brush script, monoline or rounded bold font.",
+  "referenced_image_paths": [
+    "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/earl-grey-minimalist-25/images/02-earl-grey-pale-blush.png"
+  ],
+  "generated_path": "/Users/gracetoh/.codex/generated_images/01a111a7-5945-7a00-ab34-4d152d9b4b2a/exec-4ee32229-b134-4c6b-8e06-dfada439a6b3.png",
+  "output": "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/earl-grey-cursive-tests-10/images/02-earl-grey-classic-calligraphy.png",
+  "mode": "built-in image_gen",
+  "intended_aspect_ratio": "3:4",
+  "visual_qa": "Passed: legible exact title and brand line; requested cursive style; photograph, product, clean rim, thin syrup and full cup preserved."
+}

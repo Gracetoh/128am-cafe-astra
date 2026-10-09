@@ -1,0 +1,16 @@
+Use case: precise-object-edit.
+Edit supplied retro café poster. Keep EXACT existing layout, sage paper background, cream angular sunburst, full cup position/scale, palette and crisp typography unchanged. Only change the product PHOTOGRAPHIC RENDERING to a decisively softer ethereal natural photograph.
+Mandatory retouch: REMOVE EVERY VISIBLE WATER DROPLET from the entire outer cup and dome. The external plastic now must be SMOOTH, CLEAN and virtually DRY, without any raised round beads, droplet outlines, tiny circles, sparkles, pinpoints or crisp speckles. Retain only a barely perceptible smooth diffuse frost/haze if needed, never bead condensation. This is the principal requested change. Smooth the whole exterior especially green sidewalls and dome edges. Preserve realistic drink marbling BEHIND the plastic, but do not confuse droplets with ingredient texture.
+Use soft broad diffused window light, gentle subtle highlight bloom, matte analog-film finish, lower local contrast, soft transitions and delicate organic optical softness. The product should feel dreamy, airy and quietly photographed in a real café, with natural irregular liquid textures. Replace harsh white specular reflections with large diffuse quiet highlights, preserving clear dome shape. Avoid CGI, hyperdetail, over-sharpening or wet sparkling plastic. Product silhouette remains clean but gently softened.
+Preserve exact short broad clear sundae cup, clear dome seated properly, clean flange with no overflow, front girl-and-TWO-ear-bunny 128am Cafe sticker fully readable, red strawberry syrup bottom, milk/green matcha layers, continuous distinctly PINK cold foam cap inside dome. Full product in frame, no added toppings. Preserve ingredient colours, just quieter and softer. Logo must stay legible and naturally printed, not washed out.
+LOCK typography and graphics completely: oversized high-contrast rose serif "STRAWBERRY", smaller matching "MATCHA LATTE", tiny "128am Cafe", same positions, sizes and colours. Crisp vector-like lettering and sunburst edges, NO global blur and NO diffuse text. Same subtle sage/cream paper texture and graphic hierarchy. No new words, objects or design changes.
+Output same portrait 3:4 1086 x 1448. The viewer should immediately notice a softer non-sparkling product with smooth plastic instead of sharp fake-looking water beads.
+
+Reference input:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-vision-board/images/04-sage-retro-poster.png
+
+Mode: built-in image_gen
+
+Final generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-f728b9b5-9d9e-484c-af50-7469b308b83e.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-ethereal/images/04-sage-retro-poster.png
+

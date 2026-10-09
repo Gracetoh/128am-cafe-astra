@@ -1,0 +1,2772 @@
+{
+  "collections": 15,
+  "files": 553,
+  "bytes": 850031583,
+  "assets": [
+    {
+      "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
+      "bytes": 1345550,
+      "sha256": "788ae99f523bc3a04494ef1e5f95dc9754db9f4763a99359dede8b4c3bf485e8"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/128am-Cafe-10-Cursive-Tests.zip",
+      "bytes": 17209650,
+      "sha256": "105731b0135f80da7307bc3e40909b3a6d308cd8d6c4fafa751996261b63dc88"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/READ-ME.txt",
+      "bytes": 704,
+      "sha256": "5f5031b0f6c0b93785f0f597028526dee4a98cfeacbae06947bb109a3e1489db"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/gallery.html",
+      "bytes": 7741,
+      "sha256": "b0d55547d39f768b483a1431358a3ae88f6f3d120779cf682410d9ba35835c0d"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/image-index.json",
+      "bytes": 2781,
+      "sha256": "d59079137113fd041674facc954cbf6f5dbb87270b015d2d3139e4181726744c"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/01-earl-grey-modern-calligraphy.png",
+      "bytes": 1739291,
+      "sha256": "15ab4159748bb94446698796ca4db931b3e9634c9b2408e77dc6eb03d3f33692"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/02-earl-grey-classic-calligraphy.png",
+      "bytes": 1791284,
+      "sha256": "720c6504a987dd56e37f7085d765115b8902a212bc0170a385692673d424e699"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/03-earl-grey-soft-brush-script.png",
+      "bytes": 1740551,
+      "sha256": "1fc0d91bd57953de5a8904aa4d06dc6d258c6ca20ddec96b481cf6edc415058d"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/04-earl-grey-monoline-cursive.png",
+      "bytes": 1740212,
+      "sha256": "f5344b850fa6f0fd03dedb5f66e5244e94d8c7ff6723695ed62af45a9f50f4e5"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/05-earl-grey-editorial-script.png",
+      "bytes": 1755291,
+      "sha256": "d3c85fdbdb7cddb1c479554f4cc77356fe7c9bd2be2a8ec5a2a7ba7fe1ceb1c9"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/06-earl-grey-romantic-calligraphy.png",
+      "bytes": 1866750,
+      "sha256": "1502b1ae86047abbf0073131e54fa6e722f582916273662537d0868c0a797f24"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/07-earl-grey-relaxed-handwriting.png",
+      "bytes": 1779838,
+      "sha256": "2e185d26c3f04521106c10c5afeecc0c25242616fd71f1f9625fbb7750799509"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/08-earl-grey-french-script.png",
+      "bytes": 1813142,
+      "sha256": "6d9115ed68ba8639e372b748c75c01b3889bad7c75f76554600a2eb15937cde3"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/09-earl-grey-fluid-signature.png",
+      "bytes": 1734016,
+      "sha256": "8c07f8117b02f1b851e9c2ffea38d319cc109e518861cbd84d06b4181a25e842"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/images/10-earl-grey-modern-signature.png",
+      "bytes": 1610422,
+      "sha256": "810aaf3868ed28563c91f2b497bd1b1fd9c9d68da2efec9c292361cc76658e54"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/01-earl-grey-modern-calligraphy.json",
+      "bytes": 2386,
+      "sha256": "d4384f4624e932a5a0140b6e85266fcda8d4e1efeeadd28d72ddbcf7bae696cd"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/02-earl-grey-classic-calligraphy.json",
+      "bytes": 2462,
+      "sha256": "e1d3139a07c7dce6f00749e5fa09a06d953caf15974c78bd4b91a74b847d3510"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/03-earl-grey-soft-brush-script.json",
+      "bytes": 2459,
+      "sha256": "d4b3fca3ca76f37421ed9643b4d96cb4edf6c37eb1865b48e4a28aa01f204c19"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/04-earl-grey-monoline-cursive.json",
+      "bytes": 2389,
+      "sha256": "18c25cde240016ec10c12055ac012c46cbf23594bb68207f6779fba481c2aadc"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/05-earl-grey-editorial-script.json",
+      "bytes": 2578,
+      "sha256": "f4b016ac35090ae03218cc726c0f29c2326f5c4eaa468d07fe83d8ec8207d045"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/06-earl-grey-romantic-calligraphy.json",
+      "bytes": 2514,
+      "sha256": "99d9a48082d1ccfe019ed011134397ea810abe2325b96563040815da2f9c6d06"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/07-earl-grey-relaxed-handwriting.json",
+      "bytes": 2516,
+      "sha256": "41dbd5a25dacb03b5e0ffc07b823ec4e7a2a151d53b77341f2b374308a55d825"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/08-earl-grey-french-script.json",
+      "bytes": 2071,
+      "sha256": "f6aa9e373d20a8a92fdab5a9287f26ac4ac16f7e2cbdc7b4e216b550bb9250b5"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/09-earl-grey-fluid-signature.json",
+      "bytes": 2077,
+      "sha256": "6bf30cd28742e38ceb019b1315bd74393fb83f9dfa1b9e36772bc2566e226986"
+    },
+    {
+      "path": "social/earl-grey-cursive-tests-10/prompts/10-earl-grey-modern-signature.json",
+      "bytes": 4073,
+      "sha256": "dd9f38567bc2a35aeec6b4f1dfc98929a9b7f2cf28446443d438bb95c47877ff"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/128am-Cafe-25-Minimalist-Earl-Grey-Photos.zip",
+      "bytes": 43877668,
+      "sha256": "4fed3e1afffff7c7246a9821943482ff7db078601d6a95e779566be041e59fdb"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/25-photo-preview.png",
+      "bytes": 3331813,
+      "sha256": "7fa054f60c1f9d962431e2c2fbd8f01d063f10ba353e95e9e6510a69f8e18163"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/READ-ME.txt",
+      "bytes": 749,
+      "sha256": "d8f4f7b81f86903b1e70c49fbc025f7a274ce72688a1f8b58ea7abc2cfaf831c"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/gallery.html",
+      "bytes": 14416,
+      "sha256": "9892e1742db6da078df74e7331a88759c2fbc8f9633b5150354456abdcccf0a3"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/image-index.json",
+      "bytes": 7438,
+      "sha256": "d12d8979254c7d6825b4283b44d5e0fd4dd10a877873ac692862108876c93ca8"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/01-earl-grey-ivory-studio.png",
+      "bytes": 1779458,
+      "sha256": "a964846748e95738a303ecfca28e7214cb3914b303dc6158ae91540b7c88aca4"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/02-earl-grey-pale-blush.png",
+      "bytes": 1767373,
+      "sha256": "619ccfc883bd7e84d83398b8e9da7e064a401e756038974788e8f7007f92d5ca"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/03-earl-grey-pale-sage.png",
+      "bytes": 1722769,
+      "sha256": "2efedc97e264d557d486662effa564cad1754bf1a4296119ac33acaf1256dac9"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/04-earl-grey-soft-side-shadow.png",
+      "bytes": 1834294,
+      "sha256": "feee957cdb58351157e9d72396e70c62cdac36d2cb15a8fca172940ff379e1c0"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/05-earl-grey-blush-three-quarter.png",
+      "bytes": 1908545,
+      "sha256": "510d43f5c2753e189d8e04054ac902d2596ec911a7afb88d60a8e5ec7ee27711"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/06-earl-grey-high-key-ivory.png",
+      "bytes": 1675842,
+      "sha256": "d6c60c06ec07c6361498b0c6af66d536916ea974e64e856be637e4718b073d67"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/07-earl-grey-ivory-fine-condensation.png",
+      "bytes": 1848829,
+      "sha256": "360d21b95b0a5922ef3b1ae800adf36003a3532ffd6eee861366a38dbf942a03"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/08-earl-grey-sage-backlit.png",
+      "bytes": 1836356,
+      "sha256": "7736b7af99e82f56cfd6952d85a18c4937fa5c881fb0fcf28b6a707604634f1b"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/09-earl-grey-blush-reflection.png",
+      "bytes": 1763242,
+      "sha256": "9cb99b812656c223385f90e089f73f055f2799a1394f88278eeca64520b0de0b"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/10-earl-grey-ivory-gradient.png",
+      "bytes": 1824409,
+      "sha256": "60b958fec057a00f0bbc1ee16598ed480f5d2d67fbddcafb2ae470ed41169746"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/11-earl-grey-low-angle-blush.png",
+      "bytes": 1818820,
+      "sha256": "fe26de05ce68645a69e6ec4705843487f7a748c668a7d9f2b1c54fac8224f5e5"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/12-earl-grey-sage-oval-shadow.png",
+      "bytes": 1801351,
+      "sha256": "95363b90b99b97ef0287e9fd55c04cb96fa9eb39a9fab8df1eabf281cefa33fa"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/13-earl-grey-cream-horizon.png",
+      "bytes": 1870369,
+      "sha256": "4a82ba3c4b9501570582b986f9f9375f2f51344fc003c734a07c64597513fa83"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/14-earl-grey-blush-light-patch.png",
+      "bytes": 1787607,
+      "sha256": "3d2669674dc05ee9949df9512ef9e5bef25eb255138a7171699cd64b63931697"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/15-earl-grey-ivory-rim-light.png",
+      "bytes": 1834342,
+      "sha256": "0e12953b2df4e5618ec96dceb779d414c9d8e9f0541f82f2865a3a83df07246c"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/16-earl-grey-sage-ivory-horizon.png",
+      "bytes": 1798226,
+      "sha256": "ecd3f5136439be7668ea34f74860a4bb2df02eb2da1faddaf4c911d88ab218dd"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/17-earl-grey-blush-high-angle.png",
+      "bytes": 1858716,
+      "sha256": "0f25554cc1845b2a46e8ad9570e0fd0bf7d8ef3e51ddb87f511fff9d7e75bc76"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/18-earl-grey-pool-of-light.png",
+      "bytes": 1778358,
+      "sha256": "d7858e36f19d486b65485635d8a4f0652edcd05012aa0a265091d9c7de6dbf37"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/19-earl-grey-blush-angle.png",
+      "bytes": 1843623,
+      "sha256": "4998562619619c83e2d432c20e54b892ac710d2a630400b00af986cfa2995dd0"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/20-earl-grey-sage-sweep.png",
+      "bytes": 1826399,
+      "sha256": "8d3f7e3e71b1532e582f0c1a1b80670937a6bed2f93f417e733a67b97f4f84f6"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/21-earl-grey-ivory-soft-shadow.png",
+      "bytes": 1794301,
+      "sha256": "c006b87699e38dc1ca2521c273eb254fcc40545a591fb5dd4a13d7be5eb7ecf5"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/22-earl-grey-blush-cream-horizon.png",
+      "bytes": 1741757,
+      "sha256": "5052f8e1d7b9433533854c2fd694188bf41d06aabab9516734157ec1b24177d0"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/23-earl-grey-soft-reflection.png",
+      "bytes": 1745846,
+      "sha256": "5190d959232b16350cf6c066ef385489a879518b3ec036d60690017f17d3b3d9"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/24-earl-grey-sage-overhead.png",
+      "bytes": 1903562,
+      "sha256": "42786cdc1bbc30dabc76c0bc4d32929313c5ddd9193449cb004aba078c18e0dd"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/images/25-earl-grey-pale-pink-hero.png",
+      "bytes": 1411765,
+      "sha256": "2add87d8b3320d286103cd38537cbbaaf724a8fccd3d8b500aee0096010d53e6"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/01-earl-grey-ivory-studio.json",
+      "bytes": 3437,
+      "sha256": "b3705d3a7608f5a04b88b7af24dd57e7b24f85e9544dbcfaf9cca8041c56ddb9"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/02-earl-grey-pale-blush.json",
+      "bytes": 2766,
+      "sha256": "ffad62180f152f47e95322f4cd6f9086eb82323f6f4824a095971cf5609af6fb"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/03-earl-grey-pale-sage.json",
+      "bytes": 2735,
+      "sha256": "3a84bd7b120177608240c8b2cd186ed57391e9a739ad4e24674f30b5c17b4d8d"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/04-earl-grey-soft-side-shadow.json",
+      "bytes": 3020,
+      "sha256": "47da667cb29a0fc87d91c2aa3ba2d4df1b253011d66b1b87da86029912bf51d0"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/05-earl-grey-blush-three-quarter.json",
+      "bytes": 3141,
+      "sha256": "f4b16eceb7c62ce3a7a73a57496c46fccc61627e8505e8e2ed7a018003f0fb49"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/06-earl-grey-high-key-ivory.json",
+      "bytes": 2869,
+      "sha256": "2f8d62774906b64765722ec5d5a5b3e01c7d192918f08c2b512c6ced2d40b4c5"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/07-earl-grey-ivory-fine-condensation.json",
+      "bytes": 3147,
+      "sha256": "7da001705a6b87aad73d7144036c90f146ac672ecde13011f280cc85401e5258"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/08-earl-grey-sage-backlit.json",
+      "bytes": 3033,
+      "sha256": "430ae50123c37b2b6c8a2342acca8bafa008397ae062d7f64a3aa29d88861519"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/09-earl-grey-blush-reflection.json",
+      "bytes": 2868,
+      "sha256": "c3c829bbbcfcb45e172b7c23518b356d4452dce7771f49fa129355fb0269f733"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/10-earl-grey-ivory-gradient.json",
+      "bytes": 3105,
+      "sha256": "02c8da31a2d8475b451067042628177ff68e3234450f9849098a89ec267d92c5"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/11-earl-grey-low-angle-blush.json",
+      "bytes": 3129,
+      "sha256": "63b8f1b3ae3d5e16625baa636bf20acd8dc372b4314c17a96735b170673d4d4c"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/12-earl-grey-sage-oval-shadow.json",
+      "bytes": 3352,
+      "sha256": "377edc04c9917e7964fe34185630fd6bcd498ff7726cd14e70062fd415baafe1"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/13-earl-grey-cream-horizon.json",
+      "bytes": 3401,
+      "sha256": "1fd4ddd27ef8288392ad6720fa8734d0c8e4891b171ffaa5aae79b4e19837b9e"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/14-earl-grey-blush-light-patch.json",
+      "bytes": 5952,
+      "sha256": "39281a441c91e64fb5e5504debdba13830db29938af29842b75e0820b26c0efb"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/15-earl-grey-ivory-rim-light.json",
+      "bytes": 3659,
+      "sha256": "f450c95b7c747a1816f6db0239c3602f8937406cfd590345e28b0f0c8f6b07e3"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/16-earl-grey-sage-ivory-horizon.json",
+      "bytes": 3657,
+      "sha256": "805cfc7147f961898c806b4ee9d435ef5a4562c9301b096a953dbebab65f7066"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/17-earl-grey-blush-high-angle.json",
+      "bytes": 3825,
+      "sha256": "5faeaa0df4536bd5f1ade747db017b61bdb5b1b349bde4f237342606f7d4571f"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/18-earl-grey-pool-of-light.json",
+      "bytes": 2676,
+      "sha256": "79182c6e31b900cc348643e83bc63d0200e89361d930d6d970040440fb29042c"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/19-earl-grey-blush-angle.json",
+      "bytes": 6099,
+      "sha256": "bf0bc775ef6b35bf5664dc877e2608e5bebb3d1e2c17f818c385d9b3789fc14d"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/20-earl-grey-sage-sweep.json",
+      "bytes": 3149,
+      "sha256": "0417975d64b8a43507fb04c4027218bd7966291bc0b897b3fd86956f51d6764a"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/21-earl-grey-ivory-soft-shadow.json",
+      "bytes": 3021,
+      "sha256": "bf647f61d57fa8690c11a40a6a878341a0ab4589fdebd02329552c6ee8ec3c5e"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/22-earl-grey-blush-cream-horizon.json",
+      "bytes": 3075,
+      "sha256": "90a33ec41fc80ba9f30bd0a7c0ae79c679c2512c6308c680a34a97b8a3cfb5fc"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/23-earl-grey-soft-reflection.json",
+      "bytes": 3113,
+      "sha256": "666dce60648347f8486d94e09e175e0a68681c718f8593f5d69913e2227652cd"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/24-earl-grey-sage-overhead.json",
+      "bytes": 3117,
+      "sha256": "6dcdf4ca8f6ce010abf44aeddabefecf3459eb39ce9f2b5d5b9ec75faead0a93"
+    },
+    {
+      "path": "social/earl-grey-minimalist-25/prompts/25-earl-grey-pale-pink-hero.json",
+      "bytes": 3083,
+      "sha256": "4923015c8e089bebb1b5cfad2309856db6279a834ab590e546f3676829c422ae"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/128am-Cafe-25-Earl-Grey-Photos.zip",
+      "bytes": 45382507,
+      "sha256": "e88e1f8605725132146f2f7cadbcc970fd94a9611de46974b930664ed5ecc22a"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/25-photo-preview.png",
+      "bytes": 3764115,
+      "sha256": "7da59970504c3903651fe25b00091259d98eb71123086ac83c1748664d0e2ccd"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/READ-ME.txt",
+      "bytes": 613,
+      "sha256": "611863d0577b324c3662f26234110abfee8744e63fe465dba86b520974afc387"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/gallery.html",
+      "bytes": 14528,
+      "sha256": "7074507ad39524e85c18c01d437523adf010e26bd01082d5af525d56d0e46cf2"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/image-index.json",
+      "bytes": 6814,
+      "sha256": "3d988aa212241f143d896c8e7a282f80840b3864078fbc8b3238cfc11f3b35d1"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/01-earl-grey-cream-studio.png",
+      "bytes": 1714333,
+      "sha256": "1b1d534a611dc13966e32349e153a024f67410366dcec14643f6a428c1beccc1"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/02-earl-grey-morning-window.png",
+      "bytes": 1792487,
+      "sha256": "e44eb2e4ed6f4dab56892d3303e59559715ea5218a93855d3b17ca8502fa033c"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/03-earl-grey-sage-pedestal.png",
+      "bytes": 1787900,
+      "sha256": "63547702580224bb8c07e5fdc40f636ae7f1beafd49d2a66599cf9387a1cdcba"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/04-earl-grey-pink-gingham.png",
+      "bytes": 1844246,
+      "sha256": "acd4d4e4e5922f6a1b13487725727bc82a1c014b8e07fd329357fae1d26b720e"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/05-earl-grey-ivory-linen.png",
+      "bytes": 1949191,
+      "sha256": "0a17008d299836312089fcc4526cdad756798a40e3dc1857aeec82a21b824daf"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/06-earl-grey-pink-colour-block.png",
+      "bytes": 1743603,
+      "sha256": "18fb3cd64ae06d4be7ba73237fea23df583bd144491cca543d03d194135a6f86"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/07-earl-grey-condensation-closeup.png",
+      "bytes": 1847871,
+      "sha256": "9a06ab2a81bd2593eec62eb80ebd1380c89158973c6f76a997c18f4c4bf6a3a3"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/08-earl-grey-tea-and-chasen.png",
+      "bytes": 1845296,
+      "sha256": "1cc0a8baef6a769545d3c3d670c4ee47d1bd9510a92722c57066d1c1287b9664"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/09-earl-grey-glossy-reflection.png",
+      "bytes": 1720560,
+      "sha256": "b4224cf7731bf3c0a6b2aae93a8656829aa36a93502b454198f96e97b67b8ace"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/10-earl-grey-blush-studio.png",
+      "bytes": 1794955,
+      "sha256": "2ebb64bb67fc6da4e97d337cc5b8a7e2165ab421d0e63fc9b97f05975334430a"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/11-earl-grey-soft-sage-arch.png",
+      "bytes": 1835928,
+      "sha256": "f9007fa9c46d742db790987bb38ab6b43953563433ff58cefec2ffdc0995e6c6"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/12-earl-grey-pink-low-plinth.png",
+      "bytes": 1886961,
+      "sha256": "da7e0bfcfa401914bc55ae8601f5a2f5a3d9eb16b111c59654eb2950dc1ca131"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/13-earl-grey-cream-window-bench.png",
+      "bytes": 1762445,
+      "sha256": "1f6fac1981a54a41eb69c38ea8a274033797b724e7fd1218213c53676aa75172"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/14-earl-grey-ivory-ceramic-coaster.png",
+      "bytes": 1800667,
+      "sha256": "40c2e26e9d0c2be30bd0b72b36d6bc11686987019fc2ef8ff0b7f6d3842c4bdb"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/15-earl-grey-paper-fold-backdrop.png",
+      "bytes": 1791228,
+      "sha256": "f570cf1717cb07b8c8f9496179cb3ed9000b3a319f080693a14fa25c7bde881e"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/16-earl-grey-oak-counter-tea-bowl.png",
+      "bytes": 1810784,
+      "sha256": "dc1cce982066cb6b1707d83013ad01cfccd4bd09a6cba68465cc90477fc2fee4"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/17-earl-grey-soft-pink-linen.png",
+      "bytes": 1962779,
+      "sha256": "11b30c2141806b3fc6ea16c238ba7cd72fa48fd84a8f5b2ea727aecfa395e7a5"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/18-earl-grey-three-quarter.png",
+      "bytes": 1852525,
+      "sha256": "6ee98b18f1069fd2ddd26cb605ecfa3d88393e556b5600fb9bd9d66d621293e8"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/19-earl-grey-low-angle-hero.png",
+      "bytes": 1796372,
+      "sha256": "033adcb3d68f291df1a0d7d506b09cb7f0e020c25334160abd363a83666b116e"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/20-earl-grey-sunlit-shadow.png",
+      "bytes": 1784454,
+      "sha256": "a55c74f2f077e1c8eca574bfca30358295c142cf6646d98bea83c33b790f2650"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/21-earl-grey-ivory-tray.png",
+      "bytes": 1943054,
+      "sha256": "68049bbd1246539a46dca2a69652b8d423e78ca450e3db1fc26107d25235d255"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/22-earl-grey-sage-pink-editorial.png",
+      "bytes": 1758086,
+      "sha256": "151ecf1985d99d0e6aaf9339b95ba573cd1b9055552aed73316f577bf5be3d2c"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/23-earl-grey-cafe-table.png",
+      "bytes": 1904379,
+      "sha256": "2380ed39923e075e7373f791260dcb3fef47edf8d581db54f9aa517234055055"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/24-earl-grey-tea-bowl.png",
+      "bytes": 1772532,
+      "sha256": "219e67abcf1760e272e0f2a0e9a2f7f5fd8e0b6a66581cfff89a5047fdf2894c"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/images/25-earl-grey-cream-shelf.png",
+      "bytes": 1840651,
+      "sha256": "b875716dee03ccc943f74441a573bfc81b841f1d187b849d4e0db1bf4c24fcf8"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/01-earl-grey-cream-studio.json",
+      "bytes": 2378,
+      "sha256": "3f6bed5ee3097963224310b54b44987dfc80f906b515611ec21e84a542c0f939"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/02-earl-grey-morning-window.json",
+      "bytes": 3131,
+      "sha256": "4e2ce101776f6f2f4c1bf015436aa25e7c67dff36a2961e930b6bdd01f07ec34"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/03-earl-grey-sage-pedestal.json",
+      "bytes": 3091,
+      "sha256": "bc648bec34c2f92560059d4fec35b5f9d44e5424803c7f8fee0f5b198d8e5146"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/04-earl-grey-pink-gingham.json",
+      "bytes": 3080,
+      "sha256": "329fb3ce1f4c0afe3900a3ba891e88f806da6c1032361a92ce092444190ff888"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/05-earl-grey-ivory-linen.json",
+      "bytes": 3128,
+      "sha256": "726eac350d01a801eec6f7a0bd6a63478473996143fa8c61992a0f428ef4548f"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/06-earl-grey-pink-colour-block.json",
+      "bytes": 3122,
+      "sha256": "51267eadb8635f9bb5fe91a29c9e592a8ada193229fc626357314189885c47d2"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/07-earl-grey-condensation-closeup.json",
+      "bytes": 3213,
+      "sha256": "ab493a3a16f23c8f64b2fde03477d715c05cdf634efe0dd93c3fe51986c146cd"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/08-earl-grey-tea-and-chasen.json",
+      "bytes": 3173,
+      "sha256": "94e3279122e560b5570b0d975bb54dee848281565a8c97c36b4bfd3519f3635a"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/09-earl-grey-glossy-reflection.json",
+      "bytes": 3159,
+      "sha256": "fb78513ac2bbbcb8e46df20b4ab6fb8db1610ad7214224ec768915faa0e37c06"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/10-earl-grey-blush-studio.json",
+      "bytes": 2962,
+      "sha256": "84bafedff6b7a1fa7799b3af20aa762aeefee890150fc6e685aaacf20939fd20"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/11-earl-grey-soft-sage-arch.json",
+      "bytes": 3002,
+      "sha256": "69b87ce74f34c97f6fa194a90621fd35fcefd9b2393abd5bf1e1dfbb0e7c363e"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/12-earl-grey-pink-low-plinth.json",
+      "bytes": 2976,
+      "sha256": "94018a1e1162cc47e1a12bcb597769453932f81bf342ee67e5858bb41ffdfaf3"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/13-earl-grey-cream-window-bench.json",
+      "bytes": 2984,
+      "sha256": "e0f032ed717d800be7e912983a2cc4abc241a073996d6e539d4e441cec862987"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/14-earl-grey-ivory-ceramic-coaster.json",
+      "bytes": 3001,
+      "sha256": "d93dd931de2134f875ab2f667557a5903eb98988cc94332a08a78459b18ab404"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/15-earl-grey-paper-fold-backdrop.json",
+      "bytes": 3045,
+      "sha256": "ad240dbf3af5d8e9c3c4f4ddc1eec4a2acef34c34980b025e63eb6f138764f0e"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/16-earl-grey-oak-counter-tea-bowl.json",
+      "bytes": 3100,
+      "sha256": "6d1fbd7cafc346a95898c6f31108599e955cc93f265ace49bf6be2d34b558350"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/17-earl-grey-soft-pink-linen.json",
+      "bytes": 3018,
+      "sha256": "bbc039b195268a9cbbce29bf0a94620612a10203b0e401542c8fea270fcc9bcf"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/18-earl-grey-three-quarter.json",
+      "bytes": 3040,
+      "sha256": "339cf7ed302c1c6794a690f845bea129284d52ce8a0969312dd56c834d685c86"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/19-earl-grey-low-angle-hero.json",
+      "bytes": 3119,
+      "sha256": "82199b656c41da7b36153a5249a7ed0931ee9fd795215571fcac24902a6b8347"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/20-earl-grey-sunlit-shadow.json",
+      "bytes": 3166,
+      "sha256": "9962d9e8453f904c7481e4a2b1e9c4ee211c4ca4c8937ba9e7809f87888c879d"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/21-earl-grey-ivory-tray.json",
+      "bytes": 3162,
+      "sha256": "4fb3b43ac80693cb35691b61dd9681d57cdcb95415120731e047d4311954d53a"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/22-earl-grey-sage-pink-editorial.json",
+      "bytes": 3186,
+      "sha256": "aaf165e277eda2bbf8f9827fcd4c7641dc2aa4096ad92c7c46622dc5f032b4ae"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/23-earl-grey-cafe-table.json",
+      "bytes": 3253,
+      "sha256": "d6125c02cd4b067d3c70acfc2a22d6e207a760b979dd030ccbf9dc701a92b75e"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/24-earl-grey-tea-bowl.json",
+      "bytes": 4062,
+      "sha256": "f88da2e82671b1d08dbfcd9364cb1a55f604e73926b8c7d561c79e2e3d28df43"
+    },
+    {
+      "path": "social/earl-grey-photoshoot-25/prompts/25-earl-grey-cream-shelf.json",
+      "bytes": 3215,
+      "sha256": "c2c74521df69072fa7a6fc08f1f4b8afa7d8cf311130da0aa3e7349c191afcd2"
+    },
+    {
+      "path": "social/index.html",
+      "bytes": 4572,
+      "sha256": "58e78b98d2a0411de4b5f633c805dd6b5365bbbcbaddbe4db66bc343bc5708ed"
+    },
+    {
+      "path": "social/matcha-reference-25/128am-Cafe-Matcha-Collection-25.zip",
+      "bytes": 48347908,
+      "sha256": "dea423df152beddc9e94826fa84c51580b3cfc548959d6e55283bde1c18f9b07"
+    },
+    {
+      "path": "social/matcha-reference-25/READ-ME.txt",
+      "bytes": 1295,
+      "sha256": "130868b2c8a451060d7dfa63ef7d95062d9838351264eb75144333d1ae7bf36b"
+    },
+    {
+      "path": "social/matcha-reference-25/creative-brief.txt",
+      "bytes": 3423,
+      "sha256": "b788d224e9a13849be2fa0aea577b02679ed961986765f2fa2b3f362bea0c999"
+    },
+    {
+      "path": "social/matcha-reference-25/gallery.html",
+      "bytes": 20085,
+      "sha256": "fa8f8b222f3d6629cf6ab5b80a41c279b283555a668a3a6453ef64670e41fc3f"
+    },
+    {
+      "path": "social/matcha-reference-25/image-index.json",
+      "bytes": 7272,
+      "sha256": "4a61120dc80df2e67a1dada0cbbfc3cc876b7067927ce97a89fe3a2dbdf0d5d6"
+    },
+    {
+      "path": "social/matcha-reference-25/images/01-green-silk-pour.png",
+      "bytes": 1997183,
+      "sha256": "e3439c84511178571a9aa581a59d2ec73b92d6d5ba81a3aa903c213db778d139"
+    },
+    {
+      "path": "social/matcha-reference-25/images/02-olive-invitation.png",
+      "bytes": 1951341,
+      "sha256": "0aa1bacf70abc507c9a3d72c2c0ab636a1b77ecba3252e0b509825228d28812d"
+    },
+    {
+      "path": "social/matcha-reference-25/images/03-cream-signature.png",
+      "bytes": 1739076,
+      "sha256": "b1558902f57b7f2eb915147716540332ef1c534450cfd1c44e2d7b60a68531e1"
+    },
+    {
+      "path": "social/matcha-reference-25/images/04-sage-tasting-notes.png",
+      "bytes": 1894707,
+      "sha256": "9ff97da7245e271f9ad6602ff149982eee2f17fd6fdec766c04e4f37b5550dd8"
+    },
+    {
+      "path": "social/matcha-reference-25/images/05-green-halo.png",
+      "bytes": 2601701,
+      "sha256": "3f0d0b68f16fd05e69eea103080dc490db2e0b00f2916d6e612550ecff5488f9"
+    },
+    {
+      "path": "social/matcha-reference-25/images/06-iced-and-creamy-v2.png",
+      "bytes": 2044461,
+      "sha256": "56116873d67380f6e9ef11d30c87af479af6b7baae54d045907cedef7843340a"
+    },
+    {
+      "path": "social/matcha-reference-25/images/06-iced-and-creamy.png",
+      "bytes": 2247152,
+      "sha256": "25689a6f0a120e8f5976c83a2d9f94a0e40912c899f74eff7a2a09ac722628d1"
+    },
+    {
+      "path": "social/matcha-reference-25/images/07-forest-and-stone.png",
+      "bytes": 2203895,
+      "sha256": "bbc27e6619f69099ed68cf9e4ddb957f3e15984701c03165f581efde870b5867"
+    },
+    {
+      "path": "social/matcha-reference-25/images/08-ivory-editorial.png",
+      "bytes": 1851078,
+      "sha256": "38271431dee1fb2ef135d4d27518ecedb490299ee74513c73c16b6ee680dda1a"
+    },
+    {
+      "path": "social/matcha-reference-25/images/09-blush-olive-script.png",
+      "bytes": 1957325,
+      "sha256": "e975de67ac3ead2f9754aba8f1d11d47db44429700202f9a94d35c6bb133d908"
+    },
+    {
+      "path": "social/matcha-reference-25/images/10-soft-shadow-study.png",
+      "bytes": 1889226,
+      "sha256": "b838136311a6e0ded0767a27284d3efa60d3042d7f6c83c68ba98c7c64233e2b"
+    },
+    {
+      "path": "social/matcha-reference-25/images/11-matcha-clouds.png",
+      "bytes": 2184965,
+      "sha256": "68112957cff1fb1e06f60932f2808d6f9d721f5ea97e8fd24c76128d94d76bab"
+    },
+    {
+      "path": "social/matcha-reference-25/images/12-rounded-retro.png",
+      "bytes": 2199772,
+      "sha256": "825a28060daa41162daca1dc2475e152f64407a488c6729680e3152475335cde"
+    },
+    {
+      "path": "social/matcha-reference-25/images/13-archway-still-life.png",
+      "bytes": 2168528,
+      "sha256": "645d407c2a896a2acee793d9f3b018bdf0adad4adc3a6018c7ee6fd9c2749d97"
+    },
+    {
+      "path": "social/matcha-reference-25/images/14-morning-linen.png",
+      "bytes": 2072075,
+      "sha256": "789a4c4f6b5fb58a96ffa6b3134ae80faea0b35078f8f7a926977bd0d62c974d"
+    },
+    {
+      "path": "social/matcha-reference-25/images/15-matcha-ripple.png",
+      "bytes": 1970314,
+      "sha256": "e93b7dd4b5338d870434b2c0d5681fab605c6885de7307ac7e69e8fcb190d08b"
+    },
+    {
+      "path": "social/matcha-reference-25/images/16-paper-collage.png",
+      "bytes": 3128001,
+      "sha256": "a6bcc1e7be736edca9585578ad3b3d898dc5ecf8e2c3142a2bdcf5defed6c74a"
+    },
+    {
+      "path": "social/matcha-reference-25/images/17-sage-monochrome.png",
+      "bytes": 1945889,
+      "sha256": "58419edac7aa998481af28337f214fba10919bb25a7cb7c6e50ff6dbb709a434"
+    },
+    {
+      "path": "social/matcha-reference-25/images/18-afternoon-glow.png",
+      "bytes": 1844435,
+      "sha256": "2973b89108295347561b609315c10828dcf1c10ae4c021137dfe3f566afeaa80"
+    },
+    {
+      "path": "social/matcha-reference-25/images/19-falling-ingredients.png",
+      "bytes": 1873842,
+      "sha256": "ad9693a44c119a57c56508a5497925850d9422d201392144ef2c552aeacf53aa"
+    },
+    {
+      "path": "social/matcha-reference-25/images/20-milk-marbling.png",
+      "bytes": 2020174,
+      "sha256": "e2df46b7e44b4acd3e142e5821b4b3d56f478a82793395056408cad67b45b01a"
+    },
+    {
+      "path": "social/matcha-reference-25/images/21-matcha-closeup-creamy-v2.png",
+      "bytes": 1972126,
+      "sha256": "b4a18c5cca897a230ac025cc0a4e6b8927daefa4d244dcdccd88920788bf5399"
+    },
+    {
+      "path": "social/matcha-reference-25/images/21-matcha-closeup.png",
+      "bytes": 2238985,
+      "sha256": "1cf1eaee1f5f1e8016dcd21f5428f1aa6f5a9253b56312c9ba97face6c32d3d4"
+    },
+    {
+      "path": "social/matcha-reference-25/images/22-cafe-column.png",
+      "bytes": 1798865,
+      "sha256": "4eb87962494c2f8f8686f8650586b8b686c8eea3cdcc6382a9104ef98e43048e"
+    },
+    {
+      "path": "social/matcha-reference-25/images/23-soft-green-gradient.png",
+      "bytes": 2325482,
+      "sha256": "5df02c721b4582837a4788498bed7923d383a6d7460766adfd7201307a399ab2"
+    },
+    {
+      "path": "social/matcha-reference-25/images/24-two-cup-moment.png",
+      "bytes": 1859183,
+      "sha256": "530e9d84725acbd93bbc97864e522a04c6f8d18e538a1d932d3b4140b0ea193c"
+    },
+    {
+      "path": "social/matcha-reference-25/images/25-signature-finale.png",
+      "bytes": 2187662,
+      "sha256": "b49935eab5f7248219cf721c2152c2fc7926ebf6fa925611e7ae55525e25f94d"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/01-green-silk-pour.txt",
+      "bytes": 3228,
+      "sha256": "273743834f526c2526833794567abcc9d8a1c68ebc21406f2923a1f22d895ddc"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/02-olive-invitation.txt",
+      "bytes": 1976,
+      "sha256": "3a81c2ea8abbdf66ec9ff97ff803aa88de6f2b37a90316141a29dbad43cdc0fc"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/03-cream-signature.txt",
+      "bytes": 1882,
+      "sha256": "f158aad0702396872099e899d914a719dd5963f22a34d5911ff83d8fda839bb4"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/04-sage-tasting-notes.txt",
+      "bytes": 1972,
+      "sha256": "176468e637a9bc777bc97c9f9b4d5e9f6b965a1980a3254a36a6608a349a8e4b"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/05-green-halo.txt",
+      "bytes": 2013,
+      "sha256": "35c33964064db775802fd9761039d7fb27ba1a1069d0abf04e66dfbc86374abd"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/06-iced-and-creamy-v2.txt",
+      "bytes": 1674,
+      "sha256": "fa3a6f28e4efa3e95db1d504a866956e76b2c740db08a9489d93f08f9f4b39c4"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/06-iced-and-creamy.txt",
+      "bytes": 2122,
+      "sha256": "11779909b329fe0a91e99da6abae7fb9a5cb86d9772593818ba10253b13c7337"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/07-forest-and-stone.txt",
+      "bytes": 2066,
+      "sha256": "f19bf4f6676a0e91605bafb7bccb9aa7cc05f5f64cf52ad47f163c94426b4221"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/08-ivory-editorial.txt",
+      "bytes": 1890,
+      "sha256": "e004a2bbcd6274ecafa59649da22aa6752fb91a66798931b591019c6e529b8b9"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/09-blush-olive-script.txt",
+      "bytes": 1827,
+      "sha256": "1d33c2786658b8159d47836f9c2dded788a8056fbed6e79cbd852203634228ad"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/10-soft-shadow-study.txt",
+      "bytes": 1910,
+      "sha256": "abcd4ec5828bd714ffe1ed222da816601af97038cfe08f9bc565afb16cf1ee52"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/11-matcha-clouds.txt",
+      "bytes": 1924,
+      "sha256": "6d12635fe49b1a630a1b8d903bc577c85bcd8db0c82871087d53e8977cb8799b"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/12-rounded-retro.txt",
+      "bytes": 1909,
+      "sha256": "4a73572edac0be5064792a5c05fb947def6a886af4323d0226bbe1e66906eb77"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/13-archway-still-life.txt",
+      "bytes": 1922,
+      "sha256": "3b56a4f74156e76776eaf36f9cf43b9db3efe70806496d11dc14ce0aee070a10"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/14-morning-linen.txt",
+      "bytes": 1889,
+      "sha256": "013093f433512c4b03bbb9f1610ed0ecdb7818cc807111aab05b061bdb73e0c5"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/15-matcha-ripple.txt",
+      "bytes": 4630,
+      "sha256": "fc5983b551f9ede97bc8adcac5af638f7a75d943a30e8ac9f4c81c018c0e0fdc"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/16-paper-collage.txt",
+      "bytes": 2034,
+      "sha256": "82c789e3666d08663ea97ee3d6b3ff04e93385acabcb534ec91ea6df291e1991"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/17-sage-monochrome.txt",
+      "bytes": 1979,
+      "sha256": "b80b6af8991bcca35a0fa623c73aac88b26699725708de6010d1bc268abccf7d"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/18-afternoon-glow.txt",
+      "bytes": 4335,
+      "sha256": "570de320caa7f7d38708f0e0e130bdaba8fcef9bb2289f9eaaf14249541f727e"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/19-falling-ingredients.txt",
+      "bytes": 5266,
+      "sha256": "d8ac686b23f74fe75c52cd9a5a09325b3afe26e1460cec3bfcd4398d4dda7461"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/20-milk-marbling.txt",
+      "bytes": 2975,
+      "sha256": "712eb147f4016ceefb037238535bc0e15b6eb6157d06f0dd1afea16b44a4e975"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/21-matcha-closeup-creamy-v2.txt",
+      "bytes": 1890,
+      "sha256": "3d140d3e8b4876a2fb51d8ea38c6812ffb3eeac0146b51374b70a383c8953b3d"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/21-matcha-closeup.txt",
+      "bytes": 2147,
+      "sha256": "44a9f24aaef51604752a8e1e9ac7bb84145bff2e137d7819cadf793bbdd31a07"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/22-cafe-column.txt",
+      "bytes": 2868,
+      "sha256": "9ecf9335939396a56562318e90fad98297d9d31a79175e68b7716ef3ebd7ac5d"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/23-soft-green-gradient.txt",
+      "bytes": 2094,
+      "sha256": "97b05d55624af06015ad3c09ea19c43ef8282a0a7b66a5eef325922238d5029c"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/24-two-cup-moment.txt",
+      "bytes": 2330,
+      "sha256": "01f4a3bd0dcaec465b4c99eb492151966b881f71edb73628e3183fd345c0ef02"
+    },
+    {
+      "path": "social/matcha-reference-25/prompts/25-signature-finale.txt",
+      "bytes": 2255,
+      "sha256": "1cda0b8d60dfb755dae3b20a2babe5b6bc438b9d6ab18de38340b1a9259081e0"
+    },
+    {
+      "path": "social/matcha-reference-25/qa/independent-review-b.txt",
+      "bytes": 1268,
+      "sha256": "17dc58b146bfda5b2014417026b98fcd5910062d1d15d705a32a42e46ef36f4f"
+    },
+    {
+      "path": "social/matcha-reference-25/qa/independent-review-c.txt",
+      "bytes": 1805,
+      "sha256": "7b2bb295be02a7e1995c35546038f10a9ad762ba0c1555f745b21bb359c1e502"
+    },
+    {
+      "path": "social/pickup-guide-refresh/01-cover-grid-safe.png",
+      "bytes": 1274930,
+      "sha256": "66c74e50e6ebfe83f8e7c347079e473c127bc98d4de8335dcf973e35e222264c"
+    },
+    {
+      "path": "social/pickup-guide-refresh/01-cover.png",
+      "bytes": 1274930,
+      "sha256": "66c74e50e6ebfe83f8e7c347079e473c127bc98d4de8335dcf973e35e222264c"
+    },
+    {
+      "path": "social/pickup-guide-refresh/02-mrt-directions.png",
+      "bytes": 1408260,
+      "sha256": "940847a188d6c17fd56b2b2fb4e044adb52bf50fa4f7719f1ad6e6d591c29453"
+    },
+    {
+      "path": "social/pickup-guide-refresh/03-tennery-sign.png",
+      "bytes": 1717367,
+      "sha256": "c07cf019eee20abe5b4faa0fbc8724c1a62fadfc1f10d8c8b3aefd129bece7d1"
+    },
+    {
+      "path": "social/pickup-guide-refresh/04-lift-level-4.png",
+      "bytes": 1648089,
+      "sha256": "407e0ee8025fa49ced52dc5dcc1504f681c82457c3eb08fef9b46d7bda451eb2"
+    },
+    {
+      "path": "social/pickup-guide-refresh/05-level-4-intercom.png",
+      "bytes": 1764798,
+      "sha256": "38ae2b2b5b08a9dfc440f0ead2c18b1873dc81e13baa8d0069c1d0d8770b6717"
+    },
+    {
+      "path": "social/pickup-guide-refresh/06-tower-a-intercom.png",
+      "bytes": 2049284,
+      "sha256": "26fabbe463c6c8e01a8aeae7736c35192911719f7536ee0535cf625e76dcb141"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/01-cover.png",
+      "bytes": 1516062,
+      "sha256": "3c9f8071611aed4157d593a65496a2c01f153ed545f746a51c3489156fe64029"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/02-mrt-directions.png",
+      "bytes": 1408260,
+      "sha256": "940847a188d6c17fd56b2b2fb4e044adb52bf50fa4f7719f1ad6e6d591c29453"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/03-tennery-sign.png",
+      "bytes": 1717367,
+      "sha256": "c07cf019eee20abe5b4faa0fbc8724c1a62fadfc1f10d8c8b3aefd129bece7d1"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/04-lift-level-4.png",
+      "bytes": 1648089,
+      "sha256": "407e0ee8025fa49ced52dc5dcc1504f681c82457c3eb08fef9b46d7bda451eb2"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/05-level-4-intercom.png",
+      "bytes": 1764798,
+      "sha256": "38ae2b2b5b08a9dfc440f0ead2c18b1873dc81e13baa8d0069c1d0d8770b6717"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/06-tower-a-intercom.png",
+      "bytes": 2049284,
+      "sha256": "26fabbe463c6c8e01a8aeae7736c35192911719f7536ee0535cf625e76dcb141"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/README.txt",
+      "bytes": 971,
+      "sha256": "5c8cc8530057d4baf43436a883926cca993d6daf0bed5c72d7536da88af19832"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/gallery.html",
+      "bytes": 3251,
+      "sha256": "34baab9d370cae5ba29615fce32ff00f43a94a9d30103ee8f6ae2cb25cf2364d"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/generation-prompts.json",
+      "bytes": 3613,
+      "sha256": "968e1abf8defedd9873b6bcd9112dd4ef0e0697dc4fb3b4c656304fecb6b2d1c"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/image-index.json",
+      "bytes": 1764,
+      "sha256": "a94f478ac659d3661e0e74785b33b991338065f45f347c89a99d6875b481d9a0"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/revised-guide-copy.txt",
+      "bytes": 558,
+      "sha256": "48e289b5718ff717e5d6814724302273dc5560cb967cc009ee8f0b239bf3f65f"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/sources/03-prompt.txt",
+      "bytes": 2161,
+      "sha256": "78d7479d6a181d85047b6b69aeefbc43f04c44eabced63ceeed3be4b35d7f470"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/sources/04-prompt.txt",
+      "bytes": 2987,
+      "sha256": "b5b09dfff0f3d2811d7b330e941082ee0e769592d727b1c347422089b054e23b"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/sources/05-prompt.txt",
+      "bytes": 1903,
+      "sha256": "8a0aa2a7544071a0a8f44691df0ee1bd15c75a8d5aeb10ce996bd58c7d4df56f"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/sources/06-prompt.txt",
+      "bytes": 2530,
+      "sha256": "e3fb86ef263541507c88fc3b3088bb2f5704339037585173bd5490c12cf4950f"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides/suggested-caption.txt",
+      "bytes": 227,
+      "sha256": "d3617d42907e9803d396de33bdf82b53ca79a5bd429827d5d8bfa39ec44c4c3e"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-6-Slides.zip",
+      "bytes": 8982459,
+      "sha256": "672396064b2f0045829038dcf4e08462c1ab483149c210000351029db6f809ab"
+    },
+    {
+      "path": "social/pickup-guide-refresh/128am-Cafe-Pickup-Guide-Samples.zip",
+      "bytes": 2613071,
+      "sha256": "2032b4fe9e6bad10a9105474635af3c158f450cd04e2ae970cf6ae4795d59c20"
+    },
+    {
+      "path": "social/pickup-guide-refresh/README.txt",
+      "bytes": 971,
+      "sha256": "5c8cc8530057d4baf43436a883926cca993d6daf0bed5c72d7536da88af19832"
+    },
+    {
+      "path": "social/pickup-guide-refresh/gallery.html",
+      "bytes": 3251,
+      "sha256": "34baab9d370cae5ba29615fce32ff00f43a94a9d30103ee8f6ae2cb25cf2364d"
+    },
+    {
+      "path": "social/pickup-guide-refresh/generation-prompts.json",
+      "bytes": 3613,
+      "sha256": "968e1abf8defedd9873b6bcd9112dd4ef0e0697dc4fb3b4c656304fecb6b2d1c"
+    },
+    {
+      "path": "social/pickup-guide-refresh/image-index.json",
+      "bytes": 1764,
+      "sha256": "3ed2fe2a01249f6d94195aa3f624533b00e3f444878424a10057a605b486b96d"
+    },
+    {
+      "path": "social/pickup-guide-refresh/revised-guide-copy.txt",
+      "bytes": 558,
+      "sha256": "48e289b5718ff717e5d6814724302273dc5560cb967cc009ee8f0b239bf3f65f"
+    },
+    {
+      "path": "social/pickup-guide-refresh/sources/01-cover-original.png",
+      "bytes": 1516062,
+      "sha256": "3c9f8071611aed4157d593a65496a2c01f153ed545f746a51c3489156fe64029"
+    },
+    {
+      "path": "social/pickup-guide-refresh/sources/01-grid-safe-prompt.txt",
+      "bytes": 3983,
+      "sha256": "d0ede3be9ef325413506218dc94d344d640fba140655f22a6d16255439e89b6a"
+    },
+    {
+      "path": "social/pickup-guide-refresh/sources/03-prompt.txt",
+      "bytes": 2161,
+      "sha256": "78d7479d6a181d85047b6b69aeefbc43f04c44eabced63ceeed3be4b35d7f470"
+    },
+    {
+      "path": "social/pickup-guide-refresh/sources/04-prompt.txt",
+      "bytes": 2987,
+      "sha256": "b5b09dfff0f3d2811d7b330e941082ee0e769592d727b1c347422089b054e23b"
+    },
+    {
+      "path": "social/pickup-guide-refresh/sources/05-prompt.txt",
+      "bytes": 1903,
+      "sha256": "8a0aa2a7544071a0a8f44691df0ee1bd15c75a8d5aeb10ce996bd58c7d4df56f"
+    },
+    {
+      "path": "social/pickup-guide-refresh/sources/06-prompt.txt",
+      "bytes": 2530,
+      "sha256": "e3fb86ef263541507c88fc3b3088bb2f5704339037585173bd5490c12cf4950f"
+    },
+    {
+      "path": "social/pickup-guide-refresh/suggested-caption.txt",
+      "bytes": 227,
+      "sha256": "d3617d42907e9803d396de33bdf82b53ca79a5bd429827d5d8bfa39ec44c4c3e"
+    },
+    {
+      "path": "social/product-catalog-text-tests/01-matcha-latte-catalog.png",
+      "bytes": 1573903,
+      "sha256": "387e0c64681fdb325e3a89230fd91dd9f9f460f92e38a8b5ee6316e9581c40b6"
+    },
+    {
+      "path": "social/product-catalog-text-tests/02-strawberry-matcha-latte-catalog.png",
+      "bytes": 1638351,
+      "sha256": "9ba58da60060bb2e34a3d6f3a67202c9b6ec4579e426a2f89f33c737b737ca85"
+    },
+    {
+      "path": "social/product-catalog-text-tests/03-two-drinks-editorial.png",
+      "bytes": 1717652,
+      "sha256": "a672611a6b54648c7ce61915da7bddaf442791d98cd9ab31653ad20e57eb841e"
+    },
+    {
+      "path": "social/product-catalog-text-tests/128am-Cafe-Photo-Text-Concepts.zip",
+      "bytes": 4889756,
+      "sha256": "c96462267ebe2a284aaeded32b8d6016a602d50c27ef147db96ef878dbaeb04c"
+    },
+    {
+      "path": "social/product-catalog-text-tests/gallery.html",
+      "bytes": 1982,
+      "sha256": "0d95a7c0b427aa32d42be9242f9f73deb2b9611eeba2c036aca593fa907c8988"
+    },
+    {
+      "path": "social/product-catalogue-2026-10/01-matcha-latte-clean-photo.png",
+      "bytes": 1538159,
+      "sha256": "7ad3ac2364fe73a0d334aa78bd309363c539f5d2f4c0d00c1060514116f1ef5a"
+    },
+    {
+      "path": "social/product-catalogue-2026-10/02-matcha-latte-catalogue.png",
+      "bytes": 1303895,
+      "sha256": "e22f340382641fafd3f5d0a59f99c1c164f7ad17c0caaa90ea67f4ff9b816cb0"
+    },
+    {
+      "path": "social/product-catalogue-2026-10/03-a-little-matcha-moment.png",
+      "bytes": 1711392,
+      "sha256": "25669654c86c9b9490be04846e598992b4031317bd0c7f55050bab3a6cae571e"
+    },
+    {
+      "path": "social/product-catalogue-2026-10/caption-ideas.txt",
+      "bytes": 975,
+      "sha256": "288c0bad91a5cb1ffcc7038752bc98b4b4e063dc06ad03d25e29004cea4a269b"
+    },
+    {
+      "path": "social/product-catalogue-2026-10/image-prompts.json",
+      "bytes": 4417,
+      "sha256": "7e08384dd8c2684a3a9fd4404d17afec3366b43bd2dd047b89528c130a7c19f2"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/25-photo-preview.png",
+      "bytes": 3837883,
+      "sha256": "94c65481ea15cb024b7f683e483459fe84a8abd1233d74cb2fd76e0ca6744d6a"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/READ-ME.txt",
+      "bytes": 621,
+      "sha256": "6fdbd930a5b8729f6ab1e72d08a84d506a3f7c5bdc0fd7ce5d82a242bd712b3a"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/gallery.html",
+      "bytes": 14212,
+      "sha256": "f5365850b0573d59ba66617199432597e881b20ff6a7057be882658ac2f36812"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/image-index.json",
+      "bytes": 6637,
+      "sha256": "5fc3ddd06a6f63a9d65d5dbc434de54fd01e411fa284e689a1cc0a5e56244f5a"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/01-matcha-cream-studio.png",
+      "bytes": 1634824,
+      "sha256": "a5ab6062889677396ba5d297c6c70b71dc071a88313661be6e0ea93524436eac"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/02-matcha-morning-window.png",
+      "bytes": 1752027,
+      "sha256": "18d699823350134ebeb27b90d415503c255a968061a2a64a9ecb39cd9e37a8df"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/03-matcha-sage-pedestal.png",
+      "bytes": 1658170,
+      "sha256": "499e68a9d89888736aaa4de415944e1d39008f9e15765bd28cd3f8bf0bed6b41"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/04-matcha-pink-gingham.png",
+      "bytes": 1828102,
+      "sha256": "1109967b1e9d05ec14f0d1c3c0ae57ac23bc63f6bbec194fed98e58d3c39d8af"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/05-matcha-ivory-linen.png",
+      "bytes": 1853536,
+      "sha256": "81a4f90308e8ebb982f2968ca7ec40a2b8ce59a2db188a80413c6912f6bb7b02"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/06-matcha-pink-colour-block.png",
+      "bytes": 1683116,
+      "sha256": "c62f4dc9c23dc6600bf70cebabd36d73d9a413059f45fb29f8c950b33bb19a79"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/07-matcha-condensation-closeup.png",
+      "bytes": 1677594,
+      "sha256": "5c4cb05e12bcf714958ec66675d336d81d91c2f62c420949b9b6dd70fb65ff29"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/08-matcha-whisk-still-life.png",
+      "bytes": 1797544,
+      "sha256": "e5fa766da06e4c0c7599f19106fbb40db7ce778012db00bc3c96f8e2b9e65728"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/09-strawberry-blush-studio.png",
+      "bytes": 1729216,
+      "sha256": "e07c4fbe8567031c3a561d39ff3fa72ff5f56ea01aa7b31120a40bc16dc5e08e"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/10-strawberry-cream-still-life.png",
+      "bytes": 1875057,
+      "sha256": "988d4b536b83f0337bd7340092951a0e6725150592764ef6dd941e31a21f0a90"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/11-strawberry-morning-window.png",
+      "bytes": 1676306,
+      "sha256": "acd0bb0b8775eab223abfdf9335df7b3e9f7f1bbe9bcabe4937c8a64cad0d504"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/12-strawberry-geometric-pedestal.png",
+      "bytes": 1781616,
+      "sha256": "791987eb44b9d7b82e848a411ec9c2b3ff978d50504e303fa73a24db0bef7070"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/13-strawberry-ivory-linen.png",
+      "bytes": 1954746,
+      "sha256": "f2ea7add29e3f3fc577f3c715f928933f2b8abc715822f102bccd5cd57338cd7"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/14-strawberry-pink-gingham.png",
+      "bytes": 1887692,
+      "sha256": "902ccc60a5496296544b243b77c8dc2da638b140293191da1b33d470218d3621"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/15-strawberry-closeup.png",
+      "bytes": 1822985,
+      "sha256": "c564c15fa4017545cd2c61f3b782e0c8cba5f74ee9f307f126cef0122d465f99"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/16-strawberry-warm-counter.png",
+      "bytes": 1790597,
+      "sha256": "e345ca57b33d1aad4d7f17400d0172c6548f5a8bb407da70df7dd698d975b522"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/17-duo-cream-studio.png",
+      "bytes": 1688425,
+      "sha256": "33c31dbee78d854a517d57d9ec772aba25b2dc67d7c18c4c5d4c09ecad58a389"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/18-duo-stepped-pedestals.png",
+      "bytes": 1832045,
+      "sha256": "36197e74ffa42186edf52d3c283032d07c31743d572305b5c9f140dc648ac43d"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/19-duo-morning-window.png",
+      "bytes": 1662425,
+      "sha256": "48d73c108e8736289f2444369bd5290341d4edeb1e71129a342637b1ad821a5b"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/20-duo-ivory-tray.png",
+      "bytes": 1944128,
+      "sha256": "5bd34ccf1fe6b482bb39252ea90ad87f8ff83c898f7782f4e72192923e61ba5d"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/21-duo-editorial-diagonal.png",
+      "bytes": 1737354,
+      "sha256": "0bcd74a8ebd2689e849c415b526789e50a2746354e6c958e658aa33f78f2af78"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/22-matcha-cream-reflection.png",
+      "bytes": 1588536,
+      "sha256": "d5b6c9e49ce7b850d0cb085325b459eea4d918707f9bed491e4ef9a26d0e0b34"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/23-matcha-sage-arches.png",
+      "bytes": 1658608,
+      "sha256": "41728af22eb0b89dba186cb900be49af14bd0fd9e18254af9e8cc80c8f57922c"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/24-strawberry-rose-curve.png",
+      "bytes": 1739593,
+      "sha256": "dbcf21d4cf3fea0bea90dff6979ca1e6226ed7cbe1bcc4b0160dd8c8fbf6b218"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/images/25-strawberry-sunlit-ceramic-coaster.png",
+      "bytes": 1876860,
+      "sha256": "82b3d04ae60d86e6482cadb9e9b7dcdba1709274802f0be7bc4333ec0e3a11b2"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/01-matcha-cream-studio.json",
+      "bytes": 2256,
+      "sha256": "a89fc8260267296b44cb9c7e590b47dd13040dc5e89d4fceffe6f6e89db243d6"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/02-matcha-morning-window.json",
+      "bytes": 2704,
+      "sha256": "63b53a952b220b0d1758d10c428acf8d098e79c4be031a5ac1d5ca13fdd20112"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/03-matcha-sage-pedestal.json",
+      "bytes": 2669,
+      "sha256": "cc7e947a4c5d8758c86f61dc1459aba62048502c65acb1494d387ab28423689a"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/04-matcha-pink-gingham.json",
+      "bytes": 2693,
+      "sha256": "b4b63cd32759bf43268a1f0764ae45d07c1097c3fc6105716a323096ae1ac95c"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/05-matcha-ivory-linen.json",
+      "bytes": 2681,
+      "sha256": "297dc1e271b0bd373dedc99e681f97526a7b1ea783ea5610b36917f44a609cd7"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/06-matcha-pink-colour-block.json",
+      "bytes": 2717,
+      "sha256": "6bdda66a6be4f92ccec9d6fa07688b946cf1518f541938bc0d64361acddba10f"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/07-matcha-condensation-closeup.json",
+      "bytes": 2792,
+      "sha256": "a139d18d0414fd58162870720db5e47f44ab94f286c2b1cb76fb1135894c7efd"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/08-matcha-whisk-still-life.json",
+      "bytes": 2874,
+      "sha256": "7d73f83a8c190759328ca9d4c5805245e2b57f466ace37cc634dd4e660ad6227"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/09-strawberry-blush-studio.json",
+      "bytes": 2358,
+      "sha256": "664c760f3a431d3b92a8d1b86076c9d6ba7fbe2d3c2e0c8970dc595f6c7270c5"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/10-strawberry-cream-still-life.json",
+      "bytes": 2467,
+      "sha256": "d36fdbe7d6b63abe3165d14acd64186eb458c41c3f782ac9ab072d9dd33669ae"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/11-strawberry-morning-window.json",
+      "bytes": 2410,
+      "sha256": "4dc608122fb4d439c02f30dafc9d7eb0a3e4d30b74cedd7d2771af5493889ffe"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/12-strawberry-geometric-pedestal.json",
+      "bytes": 2440,
+      "sha256": "d9a497c1908be133fc64b14649bf9af6ed40aecdb4201a4d2d6bae733ea58aa6"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/13-strawberry-ivory-linen.json",
+      "bytes": 2408,
+      "sha256": "1bfd7e63e8dfd0b5feb83f79f634bc7a89ac7cd9fb5eb461f2c975d86f66ee8c"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/14-strawberry-pink-gingham.json",
+      "bytes": 2422,
+      "sha256": "cb0cb65203380ad5018c6230dcfb7ca5ee1db10dbf5be9136666fbcfcf5025f1"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/15-strawberry-closeup.json",
+      "bytes": 2592,
+      "sha256": "524aa443f2d4680e33a53bd6995dd90ab07cc8ad5c3999938cadd1ce8135b342"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/16-strawberry-warm-counter.json",
+      "bytes": 2480,
+      "sha256": "2b657123c6bfc2b4fe5888ab0903a3279d97d01d1ee0823d53662a81bb3d8c37"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/17-duo-cream-studio.json",
+      "bytes": 3057,
+      "sha256": "dc30119b3f0586d9aa3879adbf8ec1aa7a87c4e2bddc511e9d5ed628899704cd"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/18-duo-stepped-pedestals.json",
+      "bytes": 2815,
+      "sha256": "6e1eb39bfa4fbcc1bca82dacdc4f58f63e97332c099f0b010a6165d30a1979c5"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/19-duo-morning-window.json",
+      "bytes": 2876,
+      "sha256": "17e595e3259cdcec688c21d86f1d2d3dbf396c61ce54daf51c5ab6b17d45af30"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/20-duo-ivory-tray.json",
+      "bytes": 2971,
+      "sha256": "8e20c915f3ee949ed9f7bcb398e701612770da424eded1c5bdfaa89c816068cf"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/21-duo-editorial-diagonal.json",
+      "bytes": 3152,
+      "sha256": "629c0a00dca224cf349e65a1b1c142ab590581129aefc9438a398e46ed677c34"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/22-matcha-cream-reflection.json",
+      "bytes": 2411,
+      "sha256": "8ed7ba6070f24f18012f8e89074452a96324477808be3e0929342de6ee2361e9"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/23-matcha-sage-arches.json",
+      "bytes": 2580,
+      "sha256": "d4c92d3acb1f57dbd28db8caa066ea8225d53a28797d09abbd5b567167f1f4f4"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/24-strawberry-rose-curve.json",
+      "bytes": 2482,
+      "sha256": "b8c9010681968634828f7d9e63b304443ff7d84b578b143b77671a7eccb78a25"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos/prompts/25-strawberry-sunlit-ceramic-coaster.json",
+      "bytes": 2241,
+      "sha256": "adaf0f860929b100f7876866f7f639520e602f4c904ccce33b68f02c8a2bd72d"
+    },
+    {
+      "path": "social/product-photoshoot-25/128am-Cafe-25-Product-Photos.zip",
+      "bytes": 47801144,
+      "sha256": "8b5db2099079ab94f753b63932dd1bee33b4003193bfc8d92c7e449177231084"
+    },
+    {
+      "path": "social/product-photoshoot-25/25-photo-preview.png",
+      "bytes": 3837883,
+      "sha256": "94c65481ea15cb024b7f683e483459fe84a8abd1233d74cb2fd76e0ca6744d6a"
+    },
+    {
+      "path": "social/product-photoshoot-25/READ-ME.txt",
+      "bytes": 621,
+      "sha256": "6fdbd930a5b8729f6ab1e72d08a84d506a3f7c5bdc0fd7ce5d82a242bd712b3a"
+    },
+    {
+      "path": "social/product-photoshoot-25/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/product-photoshoot-25/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/product-photoshoot-25/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/product-photoshoot-25/gallery.html",
+      "bytes": 14212,
+      "sha256": "f5365850b0573d59ba66617199432597e881b20ff6a7057be882658ac2f36812"
+    },
+    {
+      "path": "social/product-photoshoot-25/image-index.json",
+      "bytes": 6637,
+      "sha256": "5fc3ddd06a6f63a9d65d5dbc434de54fd01e411fa284e689a1cc0a5e56244f5a"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/01-matcha-cream-studio.png",
+      "bytes": 1634824,
+      "sha256": "a5ab6062889677396ba5d297c6c70b71dc071a88313661be6e0ea93524436eac"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/02-matcha-morning-window.png",
+      "bytes": 1752027,
+      "sha256": "18d699823350134ebeb27b90d415503c255a968061a2a64a9ecb39cd9e37a8df"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/03-matcha-sage-pedestal.png",
+      "bytes": 1658170,
+      "sha256": "499e68a9d89888736aaa4de415944e1d39008f9e15765bd28cd3f8bf0bed6b41"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/04-matcha-pink-gingham.png",
+      "bytes": 1828102,
+      "sha256": "1109967b1e9d05ec14f0d1c3c0ae57ac23bc63f6bbec194fed98e58d3c39d8af"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/05-matcha-ivory-linen.png",
+      "bytes": 1853536,
+      "sha256": "81a4f90308e8ebb982f2968ca7ec40a2b8ce59a2db188a80413c6912f6bb7b02"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/06-matcha-pink-colour-block.png",
+      "bytes": 1683116,
+      "sha256": "c62f4dc9c23dc6600bf70cebabd36d73d9a413059f45fb29f8c950b33bb19a79"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/07-matcha-condensation-closeup.png",
+      "bytes": 1677594,
+      "sha256": "5c4cb05e12bcf714958ec66675d336d81d91c2f62c420949b9b6dd70fb65ff29"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/08-matcha-whisk-still-life.png",
+      "bytes": 1797544,
+      "sha256": "e5fa766da06e4c0c7599f19106fbb40db7ce778012db00bc3c96f8e2b9e65728"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/09-strawberry-blush-studio.png",
+      "bytes": 1729216,
+      "sha256": "e07c4fbe8567031c3a561d39ff3fa72ff5f56ea01aa7b31120a40bc16dc5e08e"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/10-strawberry-cream-still-life.png",
+      "bytes": 1875057,
+      "sha256": "988d4b536b83f0337bd7340092951a0e6725150592764ef6dd941e31a21f0a90"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/11-strawberry-morning-window.png",
+      "bytes": 1676306,
+      "sha256": "acd0bb0b8775eab223abfdf9335df7b3e9f7f1bbe9bcabe4937c8a64cad0d504"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/12-strawberry-geometric-pedestal.png",
+      "bytes": 1781616,
+      "sha256": "791987eb44b9d7b82e848a411ec9c2b3ff978d50504e303fa73a24db0bef7070"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/13-strawberry-ivory-linen.png",
+      "bytes": 1954746,
+      "sha256": "f2ea7add29e3f3fc577f3c715f928933f2b8abc715822f102bccd5cd57338cd7"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/14-strawberry-pink-gingham.png",
+      "bytes": 1887692,
+      "sha256": "902ccc60a5496296544b243b77c8dc2da638b140293191da1b33d470218d3621"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/15-strawberry-closeup.png",
+      "bytes": 1822985,
+      "sha256": "c564c15fa4017545cd2c61f3b782e0c8cba5f74ee9f307f126cef0122d465f99"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/16-strawberry-warm-counter.png",
+      "bytes": 1790597,
+      "sha256": "e345ca57b33d1aad4d7f17400d0172c6548f5a8bb407da70df7dd698d975b522"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/17-duo-cream-studio.png",
+      "bytes": 1688425,
+      "sha256": "33c31dbee78d854a517d57d9ec772aba25b2dc67d7c18c4c5d4c09ecad58a389"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/18-duo-stepped-pedestals.png",
+      "bytes": 1832045,
+      "sha256": "36197e74ffa42186edf52d3c283032d07c31743d572305b5c9f140dc648ac43d"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/19-duo-morning-window.png",
+      "bytes": 1662425,
+      "sha256": "48d73c108e8736289f2444369bd5290341d4edeb1e71129a342637b1ad821a5b"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/20-duo-ivory-tray.png",
+      "bytes": 1944128,
+      "sha256": "5bd34ccf1fe6b482bb39252ea90ad87f8ff83c898f7782f4e72192923e61ba5d"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/21-duo-editorial-diagonal.png",
+      "bytes": 1737354,
+      "sha256": "0bcd74a8ebd2689e849c415b526789e50a2746354e6c958e658aa33f78f2af78"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/22-matcha-cream-reflection.png",
+      "bytes": 1588536,
+      "sha256": "d5b6c9e49ce7b850d0cb085325b459eea4d918707f9bed491e4ef9a26d0e0b34"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/23-matcha-sage-arches.png",
+      "bytes": 1658608,
+      "sha256": "41728af22eb0b89dba186cb900be49af14bd0fd9e18254af9e8cc80c8f57922c"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/24-strawberry-rose-curve.png",
+      "bytes": 1739593,
+      "sha256": "dbcf21d4cf3fea0bea90dff6979ca1e6226ed7cbe1bcc4b0160dd8c8fbf6b218"
+    },
+    {
+      "path": "social/product-photoshoot-25/images/25-strawberry-sunlit-ceramic-coaster.png",
+      "bytes": 1876860,
+      "sha256": "82b3d04ae60d86e6482cadb9e9b7dcdba1709274802f0be7bc4333ec0e3a11b2"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/01-matcha-cream-studio.json",
+      "bytes": 2256,
+      "sha256": "a89fc8260267296b44cb9c7e590b47dd13040dc5e89d4fceffe6f6e89db243d6"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/02-matcha-morning-window.json",
+      "bytes": 2704,
+      "sha256": "63b53a952b220b0d1758d10c428acf8d098e79c4be031a5ac1d5ca13fdd20112"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/03-matcha-sage-pedestal.json",
+      "bytes": 2669,
+      "sha256": "cc7e947a4c5d8758c86f61dc1459aba62048502c65acb1494d387ab28423689a"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/04-matcha-pink-gingham.json",
+      "bytes": 2693,
+      "sha256": "b4b63cd32759bf43268a1f0764ae45d07c1097c3fc6105716a323096ae1ac95c"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/05-matcha-ivory-linen.json",
+      "bytes": 2681,
+      "sha256": "297dc1e271b0bd373dedc99e681f97526a7b1ea783ea5610b36917f44a609cd7"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/06-matcha-pink-colour-block.json",
+      "bytes": 2717,
+      "sha256": "6bdda66a6be4f92ccec9d6fa07688b946cf1518f541938bc0d64361acddba10f"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/07-matcha-condensation-closeup.json",
+      "bytes": 2792,
+      "sha256": "a139d18d0414fd58162870720db5e47f44ab94f286c2b1cb76fb1135894c7efd"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/08-matcha-whisk-still-life.json",
+      "bytes": 2874,
+      "sha256": "7d73f83a8c190759328ca9d4c5805245e2b57f466ace37cc634dd4e660ad6227"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/09-strawberry-blush-studio.json",
+      "bytes": 2358,
+      "sha256": "664c760f3a431d3b92a8d1b86076c9d6ba7fbe2d3c2e0c8970dc595f6c7270c5"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/10-strawberry-cream-still-life.json",
+      "bytes": 2467,
+      "sha256": "d36fdbe7d6b63abe3165d14acd64186eb458c41c3f782ac9ab072d9dd33669ae"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/11-strawberry-morning-window.json",
+      "bytes": 2410,
+      "sha256": "4dc608122fb4d439c02f30dafc9d7eb0a3e4d30b74cedd7d2771af5493889ffe"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/12-strawberry-geometric-pedestal.json",
+      "bytes": 2440,
+      "sha256": "d9a497c1908be133fc64b14649bf9af6ed40aecdb4201a4d2d6bae733ea58aa6"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/13-strawberry-ivory-linen.json",
+      "bytes": 2408,
+      "sha256": "1bfd7e63e8dfd0b5feb83f79f634bc7a89ac7cd9fb5eb461f2c975d86f66ee8c"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/14-strawberry-pink-gingham.json",
+      "bytes": 2422,
+      "sha256": "cb0cb65203380ad5018c6230dcfb7ca5ee1db10dbf5be9136666fbcfcf5025f1"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/15-strawberry-closeup.json",
+      "bytes": 2592,
+      "sha256": "524aa443f2d4680e33a53bd6995dd90ab07cc8ad5c3999938cadd1ce8135b342"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/16-strawberry-warm-counter.json",
+      "bytes": 2480,
+      "sha256": "2b657123c6bfc2b4fe5888ab0903a3279d97d01d1ee0823d53662a81bb3d8c37"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/17-duo-cream-studio.json",
+      "bytes": 3057,
+      "sha256": "dc30119b3f0586d9aa3879adbf8ec1aa7a87c4e2bddc511e9d5ed628899704cd"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/18-duo-stepped-pedestals.json",
+      "bytes": 2815,
+      "sha256": "6e1eb39bfa4fbcc1bca82dacdc4f58f63e97332c099f0b010a6165d30a1979c5"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/19-duo-morning-window.json",
+      "bytes": 2876,
+      "sha256": "17e595e3259cdcec688c21d86f1d2d3dbf396c61ce54daf51c5ab6b17d45af30"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/20-duo-ivory-tray.json",
+      "bytes": 2971,
+      "sha256": "8e20c915f3ee949ed9f7bcb398e701612770da424eded1c5bdfaa89c816068cf"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/21-duo-editorial-diagonal.json",
+      "bytes": 3152,
+      "sha256": "629c0a00dca224cf349e65a1b1c142ab590581129aefc9438a398e46ed677c34"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/22-matcha-cream-reflection.json",
+      "bytes": 2411,
+      "sha256": "8ed7ba6070f24f18012f8e89074452a96324477808be3e0929342de6ee2361e9"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/23-matcha-sage-arches.json",
+      "bytes": 2580,
+      "sha256": "d4c92d3acb1f57dbd28db8caa066ea8225d53a28797d09abbd5b567167f1f4f4"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/24-strawberry-rose-curve.json",
+      "bytes": 2482,
+      "sha256": "b8c9010681968634828f7d9e63b304443ff7d84b578b143b77671a7eccb78a25"
+    },
+    {
+      "path": "social/product-photoshoot-25/prompts/25-strawberry-sunlit-ceramic-coaster.json",
+      "bytes": 2241,
+      "sha256": "adaf0f860929b100f7876866f7f639520e602f4c904ccce33b68f02c8a2bd72d"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/128am-Cafe-25-Natural-Product-Photos.zip",
+      "bytes": 46940508,
+      "sha256": "3e14fafae1351542344f09f060deca8c6eecf1d8ed6c7943c8d7b690705bf706"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/25-photo-preview.png",
+      "bytes": 3765591,
+      "sha256": "6eba4f78a8f96ef9b5d4719a53445408e85cf54716bf1c8ce9b18dc13b39bd40"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/READ-ME.txt",
+      "bytes": 435,
+      "sha256": "96e1e52ff4b6a03d7cf742a097701c252a29729dc80df6e8ecfc89afe1959225"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/all-prompts.json",
+      "bytes": 35485,
+      "sha256": "c171d07b8fa6c54272c7b0e3893777b1496d5d03bbecd8865c2ca162e0cef9ca"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/correction-22.txt",
+      "bytes": 649,
+      "sha256": "8a8ce181f68fd768b50b84e2d02a202d76aebbbee8b38f4a02db2e9ce01478f9"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/fonts/Fredoka-600.ttf",
+      "bytes": 48768,
+      "sha256": "594cd6463e8eccef94423fba8e0114c137492f6415af4b414b21b73abcb644a8"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/fonts/Quicksand-500.ttf",
+      "bytes": 73232,
+      "sha256": "50a6caf101a335e465f0d5e030cd5d55952013abc6e903589f550571f1792718"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/fonts/Quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/gallery.html",
+      "bytes": 14583,
+      "sha256": "31ec1ca4d50abac1b0568a4b2fad723017bf19fa21d4c610bfc442c5715aa059"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/image-index.json",
+      "bytes": 6890,
+      "sha256": "de1560fdf2e99b224fd9a7aa0f075e241a9abaaa48695b7713e60d2a4f18dbff"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/01-matcha-latte-daylight-hero.png",
+      "bytes": 1638666,
+      "sha256": "cc4582d94f75abbe0f0daa23ae07a53a12efb02d7af3c1fd3986459174c6ae6d"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/02-matcha-latte-cafe-counter.png",
+      "bytes": 1645115,
+      "sha256": "949db5d257a69ebc053b6a4c6e304bd8a289dbb147695d1abbc2498f437b566d"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/03-matcha-latte-window-shadow.png",
+      "bytes": 1705882,
+      "sha256": "eb6e7ac753637be0828ce7ca050233887c2302e80a4cfc8fd16bfdc610bb18fa"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/04-matcha-latte-stone-table.png",
+      "bytes": 1696702,
+      "sha256": "1bcd065ab4ab43b04f51ad99dd8cb4047b633254569ebdcd91442d298f07deff"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/05-matcha-latte-blush-wall.png",
+      "bytes": 1642036,
+      "sha256": "3cb8efa55177d11b2981d3b8d1545209eca4466306d6b6e9619d1288ae050d99"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/06-matcha-latte-linen.png",
+      "bytes": 1813352,
+      "sha256": "98b65cc7aed7529d675f774aa29374f04bee47f1ec1a9c245b9dc04f17d9ebc5"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/07-matcha-latte-pale-wood.png",
+      "bytes": 1718193,
+      "sha256": "3b07d44aace47984b2db3c7c097bd182734f01308d6c97087c8e417a24ae7980"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/08-matcha-latte-overcast.png",
+      "bytes": 1810800,
+      "sha256": "9200952347ed38f1683855daa5a1785cc4e508b8f10fc48ac1794fe2d3dd2906"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/09-matcha-latte-wider-room.png",
+      "bytes": 1778719,
+      "sha256": "796acbe4adfdd3e4002f842769a76595bfee6f6407fef54391842b6df8b51f90"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/10-matcha-latte-close-detail.png",
+      "bytes": 1828581,
+      "sha256": "e10f010bc2b86c783e076179aad2cb09fcd7bf62846a43d145bd56e2ff4d41ac"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/11-strawberry-matcha-latte-daylight-hero.png",
+      "bytes": 1699473,
+      "sha256": "8075eca509010de7a793fa036210962faf063137325d8826c5da4fe7cf908099"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/12-strawberry-matcha-latte-cream-counter.png",
+      "bytes": 1687906,
+      "sha256": "6d45def67a11a262d767e55ce7ba7866553619c83bf1fed9c1f97b8332d97561"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/13-strawberry-matcha-latte-folded-napkin.png",
+      "bytes": 1689438,
+      "sha256": "b01f6929e12bcc1749b37c3e74b38b14fefd5fd488d889ba52a171b5bcaf29f5"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/14-strawberry-matcha-latte-window-light.png",
+      "bytes": 1735473,
+      "sha256": "32b9668fb7ccc96ed32cbe10b8df038993119c389d3c45e14608e9ac322320c5"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/15-strawberry-matcha-latte-pale-wood.png",
+      "bytes": 1659767,
+      "sha256": "a2703283435b202a2107f8fa65bd245b9d9dcf4d51f5baf22774afaf6c7572a7"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/16-strawberry-matcha-latte-cool-morning.png",
+      "bytes": 1759008,
+      "sha256": "5ea4eb7e2864e76505dd267765401a185acfde4e12ac87e2961b5b8afc73373f"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/17-strawberry-matcha-latte-quiet-blush.png",
+      "bytes": 1862334,
+      "sha256": "8486c0b5ccd32ae294a910bbafeca724e27e9ba3c161c6b0a21a68e46c046665"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/18-strawberry-matcha-latte-side-shadow.png",
+      "bytes": 1882154,
+      "sha256": "3a7d5211c850333cccfc9622334a0a20e944d29aeb94ef9e0e6394f0e8ed9c65"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/19-strawberry-matcha-latte-close-detail.png",
+      "bytes": 1662179,
+      "sha256": "6aecf132f7b9da62fa8bc9e899cbdfca85c816da14326a5df7948a8a0480edea"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/20-strawberry-matcha-latte-candid-table.png",
+      "bytes": 1733647,
+      "sha256": "a6cf86ae005f271b3076f16e639fa6263a747b1f3abd167e8c957991fdc18522"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/21-matcha-and-strawberry-daylight.png",
+      "bytes": 1811465,
+      "sha256": "b48bd550b939f0e7c2f0f99fa07f52ca595365fcd3d023d8514e271d36f0e122"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/22-matcha-and-strawberry-window.png",
+      "bytes": 1625027,
+      "sha256": "c4f63d128e714410496e9ea94b0dc35221a01491cb5afdbaf138f1bca5d40f2f"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/23-matcha-and-strawberry-counter.png",
+      "bytes": 1717087,
+      "sha256": "299849115fccae6210421e2b9a0b53898fcdda46ad275b0bc40b3c8b38374f43"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/24-matcha-and-strawberry-linen.png",
+      "bytes": 1793200,
+      "sha256": "595c4eaed82b1e628a42ec82191f4e6ce2b7d7c50b2329e9d20eed1810078edd"
+    },
+    {
+      "path": "social/product-photoshoot-25-realistic/images/25-matcha-and-strawberry-warm-afternoon.png",
+      "bytes": 1787809,
+      "sha256": "180f63fc455c30954888608ce48f2f99bfbad9b6b31c701e3d6e4df151b122f3"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/128am-Cafe-Dreamy-Strawberry-10.zip",
+      "bytes": 16413670,
+      "sha256": "d64b55cf6a1d34d7a39c23ceb1097d5deda8074ae5b6ace191a1d46b90eb2a6f"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/READ-ME.txt",
+      "bytes": 1670,
+      "sha256": "9e1798553ec2dc9485189b0f3691ba25ccd470e60280df8e91ac3b9249c82460"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/gallery.html",
+      "bytes": 10670,
+      "sha256": "5f71a0a69299b7553eceac999d0ffb90b98b510ce7019b06695853197e6d990c"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/image-index.json",
+      "bytes": 2952,
+      "sha256": "ab2486c7976e87a98dffcbc435e7ac5267a59b4cea9a3a0aa65c2f5283b3889f"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/01-window-daydream.png",
+      "bytes": 1714895,
+      "sha256": "82507f18056ba00bd92c97fdad86a355fb0554eee4f2baaf35e5fa10954e2d66"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/02-blush-arch.png",
+      "bytes": 1711765,
+      "sha256": "ae68b4055ce39c4df60017fa1fb10d64588309c49ef0fa9f2412a20ed5615294"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/03-blush-silk.png",
+      "bytes": 1854315,
+      "sha256": "025d02c84166c30da2690c14290f4b7d49e4f72fc54b3e8dd09acddf00aae5bb"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/04-foam-closeup.png",
+      "bytes": 1977994,
+      "sha256": "85fdd0f55dad01f4906562bb4b9a7e26339d19667edae687804374258225c9d2"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/05-pink-foam-pour.png",
+      "bytes": 1859548,
+      "sha256": "71e27d042ab5879dec6bc74e4df2a99df5e85947dbe1011ac6228cd88607765e"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/06-strawberry-still-life.png",
+      "bytes": 1981186,
+      "sha256": "c74cb9f661341ff7df557bd839f08d18a1175bad1d1698b1dfaeceb7e600b5be"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/07-soft-retro-sunburst.png",
+      "bytes": 1654069,
+      "sha256": "984792c916e5613421f6807a2a544966008a6de4726e77d742a419ee9873002c"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/08-olive-editorial.png",
+      "bytes": 1700650,
+      "sha256": "c3b7fa981be624902c78bb7109effa752a13e26a06b82bc58cae558c82771c0b"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/09-linen-afternoon.png",
+      "bytes": 1895382,
+      "sha256": "cb308745785be6d629bac6b1665fe4cdcd367ee900ec3066bf8145087182a1a4"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/images/10-editorial-diptych.png",
+      "bytes": 1703490,
+      "sha256": "abc754891485d70974b28e25484c4483057e3f0ddd57abcfa1ef66dd2e1190cb"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/01-window-daydream.txt",
+      "bytes": 3935,
+      "sha256": "072aa501f232c75a8b374ae09398cec828fe62a2424e4cf5924e4812da199f88"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/02-blush-arch.txt",
+      "bytes": 3993,
+      "sha256": "06bea55c28fc8f1c4e8f5a3c36b50b81f45d9895389473ec4960ea5ae4718cfc"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/03-blush-silk.txt",
+      "bytes": 4873,
+      "sha256": "1c5ff5e6331337243464db5a6c62329ca5aed6fc4af570b2bf0d9dbbd7429090"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/04-foam-closeup.txt",
+      "bytes": 4956,
+      "sha256": "8486b8944cdad53ec717b70e874617b3c4c60cb3d3f3766b83cdd9e0268b3247"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/05-pink-foam-pour.txt",
+      "bytes": 9062,
+      "sha256": "ebabb4eb319926126b5a95b851421b09c2b1465de17d318aa253cdb0eae2bded"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/06-strawberry-still-life.txt",
+      "bytes": 3975,
+      "sha256": "42c89cb54bc8bf765a5a6d8373790bb956b296e812bb8722ec71617184999200"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/07-soft-retro-sunburst.txt",
+      "bytes": 4785,
+      "sha256": "eeec4ea5d3ba6c4d037b1e3bf8ecc7dc9e8f9872c7975521cd582ca97549bea6"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/08-olive-editorial.txt",
+      "bytes": 6162,
+      "sha256": "c8753767476e44025bd585ed3fba4d7b77dc2037b918e8f28a9d60c5145a33c2"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/09-linen-afternoon.txt",
+      "bytes": 3989,
+      "sha256": "7f1883d11d2757641bd934844fceda47ef12d70732a0ff53b27d3be10ab300ba"
+    },
+    {
+      "path": "social/strawberry-dreamy-10/prompts/10-editorial-diptych.txt",
+      "bytes": 5694,
+      "sha256": "56df6fd202b393355dfb9e09e7ba97f8b55110ba7ca47846cb4807d409bd72d6"
+    },
+    {
+      "path": "social/strawberry-ethereal/128am-Cafe-Strawberry-Ethereal-Assets.zip",
+      "bytes": 10404700,
+      "sha256": "5c5ce03be6025e2f62aeb37a72145229b1f35a9ece2c601fe3c7f0a499d8a403"
+    },
+    {
+      "path": "social/strawberry-ethereal/READ-ME.txt",
+      "bytes": 1574,
+      "sha256": "ac6c86aa7f05f6db6eb458a0413391dbb524fa60259b83776b9514fd15b18276"
+    },
+    {
+      "path": "social/strawberry-ethereal/art-direction.txt",
+      "bytes": 740,
+      "sha256": "95e02364ec107c56dbd07eceb63074dbdbe3c8d6672f8fda1fe434686f71b62a"
+    },
+    {
+      "path": "social/strawberry-ethereal/caption-options.txt",
+      "bytes": 304,
+      "sha256": "22764fd33698a5436ac316363c48023cc3ffcf65cc7ec7bceac1aa67f827c632"
+    },
+    {
+      "path": "social/strawberry-ethereal/gallery.html",
+      "bytes": 5428,
+      "sha256": "c2fe3be595e6d1e9e4d7ea3b8686610005967dd9cda6c9331e6bc21678215927"
+    },
+    {
+      "path": "social/strawberry-ethereal/image-index.json",
+      "bytes": 1670,
+      "sha256": "7b9e7b20d814159cc18687fcdc39a1e4da5bb8205528707ecaa9846ddad35f2d"
+    },
+    {
+      "path": "social/strawberry-ethereal/images/01-strawberry-editorial-poster.png",
+      "bytes": 1916191,
+      "sha256": "2598f4ecaab471feb1ec379aa2dfe4d3d8b61777fb7b38ece869713dcde7b503"
+    },
+    {
+      "path": "social/strawberry-ethereal/images/02-pink-on-top.png",
+      "bytes": 1905492,
+      "sha256": "f605c089e5483527a1689fe0e8e513a79b742be8abf67372e75aef811f69f13f"
+    },
+    {
+      "path": "social/strawberry-ethereal/images/03-pink-foam-editorial.png",
+      "bytes": 1869052,
+      "sha256": "eb4a47d2db4a876f461d35b12f16a675c55e07de7ed9e409e803d9c12eed4247"
+    },
+    {
+      "path": "social/strawberry-ethereal/images/04-sage-retro-poster.png",
+      "bytes": 2154872,
+      "sha256": "2b5ac31dfa850f0d2b8ce3f3413c13e851dc5a302697001b3116e7f16e2f3654"
+    },
+    {
+      "path": "social/strawberry-ethereal/images/05-the-pink-finish-story.png",
+      "bytes": 1727448,
+      "sha256": "78a985697e2a2e2a029b6703f35545511db8451f5ae6d7db855d49d9890c84ad"
+    },
+    {
+      "path": "social/strawberry-ethereal/images/06-transparent-cup.png",
+      "bytes": 1595241,
+      "sha256": "144ef8667d76ff393d53a410374d316d94400415e0ce3ca4a2353402edfe6092"
+    },
+    {
+      "path": "social/strawberry-ethereal/prompts/01-strawberry-editorial-poster.txt",
+      "bytes": 2240,
+      "sha256": "765d3d94d833519fc9247a0cdac6864884ff1f078d69b047dc25311d4aef1951"
+    },
+    {
+      "path": "social/strawberry-ethereal/prompts/02-pink-on-top.txt",
+      "bytes": 2435,
+      "sha256": "e0ce9670fc71e215bf080a04e3756eea8165d8a856011500a46948a118c6cbbc"
+    },
+    {
+      "path": "social/strawberry-ethereal/prompts/03-pink-foam-editorial.txt",
+      "bytes": 4883,
+      "sha256": "51dd081530601cd8fc79536bcc1f2b988c25eb9aba0edb06c07c551592351b33"
+    },
+    {
+      "path": "social/strawberry-ethereal/prompts/04-sage-retro-poster.txt",
+      "bytes": 2792,
+      "sha256": "4de498200421f2095478ced1553c3ed07efe6ba5ab68c849d2b78bef5286d0b0"
+    },
+    {
+      "path": "social/strawberry-ethereal/prompts/05-the-pink-finish-story.txt",
+      "bytes": 2723,
+      "sha256": "92c0515fd65c7aa3e2583b731ea28a898c58ac2479b5cd5b56cd088ca537f34f"
+    },
+    {
+      "path": "social/strawberry-ethereal/prompts/06-transparent-cup.txt",
+      "bytes": 1872,
+      "sha256": "1b3c7bce6d2babee4853cf4b25020c71ca4337adf37b8b53bbee598857d58fe9"
+    },
+    {
+      "path": "social/strawberry-favourites-25/128am-Cafe-Strawberry-Favourites-25.zip",
+      "bytes": 53183218,
+      "sha256": "d7c3e3ae867d65dabb33a60304f6f6e949ca35ebf8a2d88bac1a498044afafb4"
+    },
+    {
+      "path": "social/strawberry-favourites-25/READ-ME.txt",
+      "bytes": 1225,
+      "sha256": "ef6e544a5a0ba4d4ec5fd8fe38b3654dae78c852b914cbb746dc67e56f53a530"
+    },
+    {
+      "path": "social/strawberry-favourites-25/creative-brief.txt",
+      "bytes": 4404,
+      "sha256": "ad5d8cdaf9cf7d8b94f6e3ec677536a3a17c81817e631b823cdde3e5c1c02fa1"
+    },
+    {
+      "path": "social/strawberry-favourites-25/gallery.html",
+      "bytes": 20035,
+      "sha256": "207aaecd447453f5ea50adfbbdab258da75089a5880670ac0dc7d7df23de19d9"
+    },
+    {
+      "path": "social/strawberry-favourites-25/image-index.json",
+      "bytes": 7260,
+      "sha256": "1e470bf9c3017c15d71330f27bb7e046c671806179b2cb846a89f5fa5958a724"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/01-green-halo.png",
+      "bytes": 2181689,
+      "sha256": "08c6a61c2239fd9ef76c82ef332ecd338797038040190390ae30ec5da468acc3"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/02-creamy-script.png",
+      "bytes": 2041012,
+      "sha256": "2fdc6a917d16595a08332a9a7a1900e3ea599e07ad13fd78f1426b8a50c61169"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/03-blush-olive.png",
+      "bytes": 2018667,
+      "sha256": "d42610f1e5c6f277556e3e7d0e6836dfc6bc0ded274354ba77c5d0cadead8bf9"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/04-berry-clouds.png",
+      "bytes": 1950113,
+      "sha256": "55df2c01a2dcdb4b923bc39e2a3652a984c42ea34a5db882cbb4e128225fd7a3"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/05-rounded-retro.png",
+      "bytes": 2252814,
+      "sha256": "b515bcfed124690a0694f717f22b6648fadd36beef6de2b11e61d125da2e1c59"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/06-paper-collage.png",
+      "bytes": 2922973,
+      "sha256": "e85401d38834e53626e60924b90b404feb9a476fca2c219a2ded8398e789c58e"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/07-falling-ingredients.png",
+      "bytes": 2030894,
+      "sha256": "87b9beb296a05e797b699e79bc9a71e37c87dbc413808928e9fe0a5be8e7bcf5"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/08-creamy-closeup.png",
+      "bytes": 2107361,
+      "sha256": "5f7993887fe2f41b7ba6200bdc3258e4017ebafe5c63fbf28b2c82b3a5cf1af0"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/09-soft-pink-green-gradient.png",
+      "bytes": 2114805,
+      "sha256": "45137df7140f44739d92f3e64845edd637fb8d1952ef2e0b7e556238df6834e1"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/10-signature-stone.png",
+      "bytes": 2176848,
+      "sha256": "975242892f0304f2dee60c1c60165c4eaeed4a05cbe123f5b59f2b52baad86fd"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/11-silky-matcha-pour.png",
+      "bytes": 2026851,
+      "sha256": "27e7f042161493da5af99a8b36d7a29d74e20fde788ab41d2c4967b317544304"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/12-pink-foam-pour.png",
+      "bytes": 2022506,
+      "sha256": "742bc1b5b0e6f8270795ad960add4773ecd77ebaf32043001378224c38f1b70c"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/13-hand-drawn-daydream.png",
+      "bytes": 2242757,
+      "sha256": "74daf043b670aaa905a6c167fd4bc2fb5bc7fd782385692ed45ce7b11fa2e90e"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/14-olive-spotlight.png",
+      "bytes": 2413185,
+      "sha256": "8a7ba708db51c1a88fe2d27e4ae16b9512c7bc9911a429fc517b5eafb28a69e3"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/15-velvet-macro.png",
+      "bytes": 2130497,
+      "sha256": "b3dbcd2b8d42981b7a257dcd7c7765be75bdbdcb8208ef24ff58cd750ce741fc"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/16-rosy-halo.png",
+      "bytes": 2230206,
+      "sha256": "d70c20e40683852568b606c9213b2d93fa5a67077d5f2db441c42fe6a0dbcb4e"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/17-cream-cutout.png",
+      "bytes": 2344982,
+      "sha256": "af953a15a3a0d9977255058d9a8c44a4883ec838e7ad60dc0302702dbe1d9874"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/18-berry-scrapbook.png",
+      "bytes": 3123805,
+      "sha256": "71681eb4fa2cb95f3c6b3c8ebaae464dca672f871394fab943126a0d3ee2bd09"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/19-retro-berry-burst.png",
+      "bytes": 2860667,
+      "sha256": "91b85755c0e93e697f225fc248566db612bc3fab741ecf625d62da5933089dd5"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/20-cloud-nine.png",
+      "bytes": 2048558,
+      "sha256": "ceb9e34a176e7a48b696508f3988b7abf02f712f9994fa4da2802d99094de913"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/21-minimal-layer-study.png",
+      "bytes": 1922736,
+      "sha256": "5dd64ef861beadac232b5eaf86ffa0ba96a1249845cc23d3fb0de53dc15469eb"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/22-forest-signature.png",
+      "bytes": 2185531,
+      "sha256": "e07bc18fded505ae4f894b74051f61c4fe77e04cf00a92fac1bd20dec702dc47"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/23-pink-milk-swirls.png",
+      "bytes": 2134493,
+      "sha256": "36c625815b5ba63ec48dd3ebf5590d57e3ee1870c8a3ee7c6a070bff4efb9108"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/24-berry-pair.png",
+      "bytes": 2051534,
+      "sha256": "f7ccf6e7225a46952c5a369ebc3a745ba84af81cb42478dd84bc465ced77f35f"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/25-cursive-glow.png",
+      "bytes": 2104583,
+      "sha256": "ecf4a115ff201a042e470557476bd6824e08b4ba0dbbfb916da1ecc5c037183a"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/01-green-halo.txt",
+      "bytes": 1580,
+      "sha256": "56482b2ca22b69aca93585eeb59f564ef8f6692e7f70175781ab7562665431eb"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/02-creamy-script.txt",
+      "bytes": 1688,
+      "sha256": "5ba15d993cca808c46a633e04b78f3ebc15ef3e3d398a9a35b207d4afdf22b4f"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/03-blush-olive.txt",
+      "bytes": 1558,
+      "sha256": "71801e8f378da42a8cf1267db1ba6b18fe9cba4731d5ff4d12d0b1811b5b5222"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/04-berry-clouds.txt",
+      "bytes": 1688,
+      "sha256": "968375fbc143ee42eda05f7caf07cf738b0b1cf2a79f2ef0be2df7409d8385e3"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/05-rounded-retro.txt",
+      "bytes": 1703,
+      "sha256": "49e536c5ce70d27e9b70471781a49649348b9a846ff527fabf42e52c109d7d27"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/06-paper-collage.txt",
+      "bytes": 1785,
+      "sha256": "93cc44dafe76ca38aefbfc38c25c43db5e8200a60e4eec6ec70f22af3b588216"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/07-falling-ingredients.txt",
+      "bytes": 2045,
+      "sha256": "a1bff814d62518f7a050bef611745b7fb630d4a377258e001a6925d0424f5dcd"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/08-creamy-closeup.txt",
+      "bytes": 2915,
+      "sha256": "40c23a494bdf70b83c0b4f05b08552c7fc41864672de8468106499e605b0851a"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/09-soft-pink-green-gradient.txt",
+      "bytes": 2224,
+      "sha256": "6d2a9846f4c16a39c2c867097b7cea82b82781b914bd8009d9a2841fb0616a2a"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/10-signature-stone.txt",
+      "bytes": 2281,
+      "sha256": "75813cad812cf825c588f45d40b95b873318f312779c457a0853842fd9465052"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/11-silky-matcha-pour.txt",
+      "bytes": 2552,
+      "sha256": "d304eb5261775e04874a8770c63fb9ade307c692f8eb180502471293ccc05d2c"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/12-pink-foam-pour.txt",
+      "bytes": 2282,
+      "sha256": "144f26f1b399cfb901bc84947917a3e398f5d49a2c1a35b12e64805a244f4091"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/13-hand-drawn-daydream.txt",
+      "bytes": 2520,
+      "sha256": "e10bc06be00677f5e76a232c3f2ded6dc6e5c9e117a01d6524183a03bd965944"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/14-olive-spotlight.txt",
+      "bytes": 2057,
+      "sha256": "f39610bc44788b9883a698dcdd94db46a9ee0f1c0fec359bf93acab230810190"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/15-velvet-macro.txt",
+      "bytes": 2906,
+      "sha256": "8410a1cd7b2d33b7b03e90aaf96591e2382d0b27a6cd2c147af57bdc731efdf1"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/16-rosy-halo.txt",
+      "bytes": 2179,
+      "sha256": "a4fa7ea6a570435a5ce16f863848cb42f2eb170c3864e68b401378b7ac39e40f"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/17-cream-cutout.txt",
+      "bytes": 2241,
+      "sha256": "fa7cd483f8d3f0d6084ce6170aacf499cd3449a4ce7fb2a59ead99a066ab44b1"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/18-berry-scrapbook.txt",
+      "bytes": 2374,
+      "sha256": "428cc2b652c98213f30aa1291cdee79151560a545e42522df85b4da58b868a91"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/19-retro-berry-burst.txt",
+      "bytes": 2293,
+      "sha256": "ef3bb82839a0951b930c7745a78ac97407822d19b672d13db62c9636d4698a79"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/20-cloud-nine.txt",
+      "bytes": 2148,
+      "sha256": "ddc5e85a21afd94845d806df63e9f09b514d259abae0eb3dd79a7faa723fc639"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/21-minimal-layer-study.txt",
+      "bytes": 2182,
+      "sha256": "98e6486f637c22d029378e97fcddfe9f6a2fa116f0445c7d84c68b30bb5971ba"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/22-forest-signature.txt",
+      "bytes": 2118,
+      "sha256": "b6b50cd3d4ecbdf6b1d28914e1c152c4c2ddbf489b020da9054b28a0c477eac0"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/23-pink-milk-swirls.txt",
+      "bytes": 2125,
+      "sha256": "d15d44c9f657344d49be0fdb4da6dab37597e1294794f489746f7046d9e4da11"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/24-berry-pair.txt",
+      "bytes": 2013,
+      "sha256": "165706938323a8fa126d1a722cb29eadf49a2c7fe6d5038a873c2a95f5dcccbb"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/25-cursive-glow-refinement.txt",
+      "bytes": 1355,
+      "sha256": "88c4d0473c30baed6cdbe4357a5024fc9fa2607924cdd0925567779542185f8e"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/25-cursive-glow.txt",
+      "bytes": 2323,
+      "sha256": "3eae7c6135e66ed5e2016160318c395ece30c2af396c0bb90a47f426ba673d75"
+    },
+    {
+      "path": "social/strawberry-favourites-25/qa/independent-review.txt",
+      "bytes": 1318,
+      "sha256": "b56d99dc080e44e89d07cdf0b2aa98fab895a3677a1bb793a028f68a336ef21c"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/128am-Cafe-Strawberry-Pink-Foam-Assets.zip",
+      "bytes": 10413679,
+      "sha256": "e90338a9e720209684d5d9467540c292a5894cc3d8d1fc8abeb78c6e8a1f7d9c"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/READ-ME.txt",
+      "bytes": 1202,
+      "sha256": "8f34c031617d38fcfa7b90c54a93208b51de20b5f0edc464eaeacc9aef00a8ab"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/caption-options.txt",
+      "bytes": 327,
+      "sha256": "c75218d50c0a7f18e2b713386c51a5cd5f5e533e46e5eb38fff580a580a965e9"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/gallery.html",
+      "bytes": 5392,
+      "sha256": "283d9651e819f8f8a7bef5cc115f2558e96a0105a7939aba4cb44058d78cabdc"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/image-index.json",
+      "bytes": 1654,
+      "sha256": "7fe5c60dc9db41cac5f36f3afb5b31a289b45e7bbbb197a8e00dbafb995ddaeb"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/images/01-cream-studio-hero.png",
+      "bytes": 1852044,
+      "sha256": "c5f0d925660e6782b331bcf3a0744efaa30162605c10061414df3710a212572e"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/images/02-sunlit-strawberry-script.png",
+      "bytes": 2047661,
+      "sha256": "390bd076e89d9f6cafb8e60d5d259c131198909fbbddc394ffd08b4e1ac2b37c"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/images/03-pink-gingham-editorial.png",
+      "bytes": 1938894,
+      "sha256": "f7bb4e34fa4a9fc80108440aeaca75032d93479f83a1fdc0c100fd2c38925a19"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/images/04-drink-layers.png",
+      "bytes": 1740984,
+      "sha256": "1378213f7ea47893e34f66f59c67af11005c502fec187778004e18bd91d686d1"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/images/05-strawberry-story.png",
+      "bytes": 1807057,
+      "sha256": "6f1b821db9b1af57e709a248bb27fad279fd3c83554900023de2ac0144ec7f57"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/images/06-transparent-cup.png",
+      "bytes": 1769501,
+      "sha256": "6f879db2f5b667eb5e4965ee1399fc57be68f7b855a705eafb07d2cbb8284a51"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/prompts/01-cream-studio-hero.txt",
+      "bytes": 2445,
+      "sha256": "8562957676ab9862aa2da68eeaf1e610228df1e10c5f765e34fc472a7b89ceda"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/prompts/02-sunlit-strawberry-script.txt",
+      "bytes": 2058,
+      "sha256": "9dbf7eea861eb99c3053b5ca018c89cd4db5e7ec67fd9c7f90cdf1591f11c9ec"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/prompts/03-pink-gingham-editorial.txt",
+      "bytes": 2372,
+      "sha256": "fec3acc19cd24173b9f5793a288bde82b0e182be2b213c1d1f14b4203bd68970"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/prompts/04-drink-layers.txt",
+      "bytes": 3198,
+      "sha256": "335f382f0fcf5b130112b2dd12376337cfe41e8b5c69c42cf96c3d8ec12e25f1"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/prompts/05-strawberry-story.txt",
+      "bytes": 2559,
+      "sha256": "b373c8cecee931e865d64e35dc0b656af48fa1721b7b393987dcf66199b8c12f"
+    },
+    {
+      "path": "social/strawberry-pink-foam-assets/prompts/06-transparent-cup.txt",
+      "bytes": 4218,
+      "sha256": "036f59a69dac5c9e8361ace97daa97fe6dc3194ff5eb772236d6d845128d64aa"
+    },
+    {
+      "path": "social/strawberry-reference-5/128am-Cafe-Strawberry-Reference-5.zip",
+      "bytes": 10452490,
+      "sha256": "60d36a83420d1bd5ad58e6603ebe2355bd8aca6ca54243918986c33c63214638"
+    },
+    {
+      "path": "social/strawberry-reference-5/READ-ME.txt",
+      "bytes": 1563,
+      "sha256": "63e2382bde9ecac131b140a7cf5d1edff3958b6b5555184fb0660f2055c0d78f"
+    },
+    {
+      "path": "social/strawberry-reference-5/gallery.html",
+      "bytes": 7583,
+      "sha256": "a9b1495072f6489060f597b4dafd374324d92690c2ee9def4ab582b209f1d745"
+    },
+    {
+      "path": "social/strawberry-reference-5/image-index.json",
+      "bytes": 1533,
+      "sha256": "bf1e728ca4e3b9ce64a28bb2249700a5ff560549be18247098211f8ee8a30ace"
+    },
+    {
+      "path": "social/strawberry-reference-5/images/01-floating-ingredients.png",
+      "bytes": 1977616,
+      "sha256": "df9c951407a44d4875e45e72f9b9f897b8a1f4515ed7fb061c10d1b6939ef786"
+    },
+    {
+      "path": "social/strawberry-reference-5/images/02-pink-green-gradient-smooth-v2.png",
+      "bytes": 1854324,
+      "sha256": "ba8f6c665aaaeb43bb9d0897ecefc932e771f9b7e2baf0467c05d662d2ac30bf"
+    },
+    {
+      "path": "social/strawberry-reference-5/images/02-pink-green-gradient.png",
+      "bytes": 1923897,
+      "sha256": "9a746b61a72e9edfe8448bd1d508961337fc1c5385c51d232e7eb2c2fdca5bff"
+    },
+    {
+      "path": "social/strawberry-reference-5/images/03-berry-daydream.png",
+      "bytes": 1880892,
+      "sha256": "fc635e9ddf3b6bed96323cab00327001e59f1db50d459a5db8402593927d0d9e"
+    },
+    {
+      "path": "social/strawberry-reference-5/images/04-cloud-collage.png",
+      "bytes": 3059264,
+      "sha256": "957c4e5f900a2d0556195aa81c704d3af7091855ea82047d4ec8a53286b9e9cf"
+    },
+    {
+      "path": "social/strawberry-reference-5/images/05-sky-daydream.png",
+      "bytes": 2225191,
+      "sha256": "5c581213e84b9e17b3649c8dec95d43a1eefce538ce25e66c14f578190da1388"
+    },
+    {
+      "path": "social/strawberry-reference-5/prompts/01-floating-ingredients.txt",
+      "bytes": 3991,
+      "sha256": "933f75cea35273a8c6e8f96eeadc85c01560722b129f4aaea2f91c01cd3f385f"
+    },
+    {
+      "path": "social/strawberry-reference-5/prompts/02-pink-green-gradient-smooth-v2.txt",
+      "bytes": 1931,
+      "sha256": "308bfa748d9b39c0d90dddf1624f0e5d45ace916d051a46ede220a116f0cad90"
+    },
+    {
+      "path": "social/strawberry-reference-5/prompts/02-pink-green-gradient.txt",
+      "bytes": 5660,
+      "sha256": "b938b67a1f8c674113ba7ee917a067c8f84c81f1b475e2435010067c25c92270"
+    },
+    {
+      "path": "social/strawberry-reference-5/prompts/03-berry-daydream.txt",
+      "bytes": 6228,
+      "sha256": "8847959c7bd8d5c546787448c199e6c65b002d518fa0f5faecf75b42c7ecf417"
+    },
+    {
+      "path": "social/strawberry-reference-5/prompts/04-cloud-collage.txt",
+      "bytes": 3687,
+      "sha256": "1aac8219cb1340a89dc24b485e583d8f4a48c3e55bb399d8c9190838aff5be1c"
+    },
+    {
+      "path": "social/strawberry-reference-5/prompts/05-sky-daydream.txt",
+      "bytes": 2244,
+      "sha256": "848a71540a7a210059ef95434ac731ffb86ce6558f9103cf505c640d0852f860"
+    },
+    {
+      "path": "social/strawberry-vision-board/128am-Cafe-Strawberry-Vision-Board-Assets.zip",
+      "bytes": 11830672,
+      "sha256": "3fdd55369f6c1d4d3c5d65375f19159eda8ad6ff8fb1b680c6862f4c72620fff"
+    },
+    {
+      "path": "social/strawberry-vision-board/READ-ME.txt",
+      "bytes": 1393,
+      "sha256": "8500cc4519fdda23f8b89dadc137d081117dab1fea4684f0256280a6b5cd3287"
+    },
+    {
+      "path": "social/strawberry-vision-board/caption-options.txt",
+      "bytes": 304,
+      "sha256": "22764fd33698a5436ac316363c48023cc3ffcf65cc7ec7bceac1aa67f827c632"
+    },
+    {
+      "path": "social/strawberry-vision-board/gallery.html",
+      "bytes": 5414,
+      "sha256": "b2ebfb9d67c2353e8efaf56ae7f2e957db4adb5c4d1e04d48d58491d9a495103"
+    },
+    {
+      "path": "social/strawberry-vision-board/image-index.json",
+      "bytes": 1666,
+      "sha256": "282e6d0e64c2890eb282f32f042bcdf0a88430072b151333d05d3f83715284a4"
+    },
+    {
+      "path": "social/strawberry-vision-board/images/01-strawberry-editorial-poster.png",
+      "bytes": 2156140,
+      "sha256": "efd904321b9fb4f36269d9d504fdc061ab6cda2083819beb0c183a11c0e148aa"
+    },
+    {
+      "path": "social/strawberry-vision-board/images/02-pink-on-top.png",
+      "bytes": 1959648,
+      "sha256": "a6f7b2ac4e9a56d297687f199712087a54331e5fb4fa808a102d011ab7f6cfe5"
+    },
+    {
+      "path": "social/strawberry-vision-board/images/03-pink-foam-editorial.png",
+      "bytes": 2183126,
+      "sha256": "557319a499fe444f33e8748c2261c2408f3cd5adf227eee20066fa08940adce5"
+    },
+    {
+      "path": "social/strawberry-vision-board/images/04-sage-retro-poster.png",
+      "bytes": 2570187,
+      "sha256": "3c8f67bd8e10567b029c37bad219e3fcd6c86fb5c2afbfdf27cd2a343a3c8ed3"
+    },
+    {
+      "path": "social/strawberry-vision-board/images/05-the-pink-finish-story.png",
+      "bytes": 1809080,
+      "sha256": "286cb033d58afc602e009ec76d871f5677cc2f428accf50e771054543df839a6"
+    },
+    {
+      "path": "social/strawberry-vision-board/images/06-transparent-cup.png",
+      "bytes": 1769501,
+      "sha256": "6f879db2f5b667eb5e4965ee1399fc57be68f7b855a705eafb07d2cbb8284a51"
+    },
+    {
+      "path": "social/strawberry-vision-board/prompts/01-strawberry-editorial-poster.txt",
+      "bytes": 2283,
+      "sha256": "aa5fa888fa5e3bcb94de7ea239344feb9abcce6a96f902d131d6d7ed151ddd7e"
+    },
+    {
+      "path": "social/strawberry-vision-board/prompts/02-pink-on-top.txt",
+      "bytes": 2614,
+      "sha256": "6164c08a044fb8c3b5899e3541cba2869c8aeccd474445d904939696f4c24256"
+    },
+    {
+      "path": "social/strawberry-vision-board/prompts/03-pink-foam-editorial.txt",
+      "bytes": 3061,
+      "sha256": "478dca8b395450eb2331792d383a4176db5697bbab64e2f46d0012ed7115bbf9"
+    },
+    {
+      "path": "social/strawberry-vision-board/prompts/04-sage-retro-poster.txt",
+      "bytes": 3064,
+      "sha256": "2e36c8f735db0a3fa224b6edac0510661092fc37ceba1ad4530bae0b7b727dc6"
+    },
+    {
+      "path": "social/strawberry-vision-board/prompts/05-the-pink-finish-story.txt",
+      "bytes": 5309,
+      "sha256": "ce3d0e3654b23483a96b31a461e8fc92b2d179bd54b2dbcc0901d41d94514a37"
+    },
+    {
+      "path": "social/strawberry-vision-board/prompts/06-transparent-cup.txt",
+      "bytes": 4218,
+      "sha256": "036f59a69dac5c9e8361ace97daa97fe6dc3194ff5eb772236d6d845128d64aa"
+    },
+    {
+      "path": "social/strawberry-vision-board/vision-board-notes.txt",
+      "bytes": 1132,
+      "sha256": "33551f265fffafdbea2b8d6e3b2a2cf4de7ee4bcedc59585e781883a48413c4d"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Use case: product-mockup.
+Create ONE aesthetic PHOTOREALISTIC social feed catalogue photograph, portrait 3:4 at 1086 x 1448, based on supplied approved product master.
+Preserve EXACT drink and packaging: short broad clear plastic sundae cup with rounded bottom, properly seated clear dome lid, front mascot of brown-haired girl with pink bow and white bunny with exactly TWO ears and legible 128am Cafe branding. Clear red strawberry syrup/puree band at bottom, milky white and natural green matcha marbling in middle. The top must have a CONTINUOUS soft creamy PINK strawberry cold foam cap just like the master, evenly spanning entire surface under lid. Pink foam stays inside cup/dome, no white cold foam, no whipped cream tower, no overflow, no spills or messy external smears. Clean transparent rim and outer flange, realistic delicate condensation, unchanged product proportions.
+Scene: centered full cup on warm ivory #FFF8F5 surface with gentle DIAGONAL soft sunlight and delicate shadow. One restrained folded pale blush gingham cloth sits off to the lower side as a supporting prop, partly in the corner, clearly separate from cup and never covering the label. Cream softly lit backdrop, understated editorial food photograph, refined and appetising. Full dome and full base in frame, ample safe margins. No extra fruit, cutlery, flowers, other props, toppings or objects.
+Typography: match master exact heavy rounded Fredoka-style bold rose #B8496C heading, TWO centered lines reading exactly "strawberry" then "matcha latte". Small exact "128am Cafe" in cocoa #4A3527 underneath. Same consistent font, safe top margin, clear separation from cup. No extra text, prices, claims, em dash, watermark, borders or badges.
+Palette cream #FFF8F5, blush #FDE5EB, rose #B8496C, sage #E7F0DC, cocoa #4A3527. Natural realistic plastic and drink colours. Product is a real photo, not illustration or CGI. One finished image only.
+
+Reference input:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-pink-foam-assets/images/01-cream-studio-hero.png
+
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-0ebb0ff5-4ec0-4da5-83eb-45de3abc4aad.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-pink-foam-assets/images/03-pink-gingham-editorial.png
+

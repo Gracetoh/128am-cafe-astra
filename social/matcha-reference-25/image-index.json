@@ -1,0 +1,227 @@
+[
+  {
+    "file": "images/01-green-silk-pour.png",
+    "title": "Green silk pour",
+    "description": "Fresh matcha pouring into soft milk swirls.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "e3439c84511178571a9aa581a59d2ec73b92d6d5ba81a3aa903c213db778d139"
+  },
+  {
+    "file": "images/02-olive-invitation.png",
+    "title": "Olive invitation",
+    "description": "Pale blush lettering on deep olive.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "0aa1bacf70abc507c9a3d72c2c0ab636a1b77ecba3252e0b509825228d28812d"
+  },
+  {
+    "file": "images/03-cream-signature.png",
+    "title": "Cream signature",
+    "description": "Airy cream and sage with elegant typography.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "b1558902f57b7f2eb915147716540332ef1c534450cfd1c44e2d7b60a68531e1"
+  },
+  {
+    "file": "images/04-sage-tasting-notes.png",
+    "title": "Sage tasting notes",
+    "description": "A simple introduction to matcha, milk and ice.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "9ff97da7245e271f9ad6602ff149982eee2f17fd6fdec766c04e4f37b5550dd8"
+  },
+  {
+    "file": "images/05-green-halo.png",
+    "title": "Green halo",
+    "description": "A dreamy floating cup with a soft green glow.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "3f0d0b68f16fd05e69eea103080dc490db2e0b00f2916d6e612550ecff5488f9"
+  },
+  {
+    "file": "images/06-iced-and-creamy-v2.png",
+    "title": "Creamy matcha",
+    "description": "A creamier close-up with retro lettering and a cursive accent.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "56116873d67380f6e9ef11d30c87af479af6b7baae54d045907cedef7843340a"
+  },
+  {
+    "file": "images/07-forest-and-stone.png",
+    "title": "Forest and stone",
+    "description": "Asymmetric type and a quiet travertine still life.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "bbc27e6619f69099ed68cf9e4ddb957f3e15984701c03165f581efde870b5867"
+  },
+  {
+    "file": "images/08-ivory-editorial.png",
+    "title": "Ivory editorial",
+    "description": "Warm ivory and refined serif lettering.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "38271431dee1fb2ef135d4d27518ecedb490299ee74513c73c16b6ee680dda1a"
+  },
+  {
+    "file": "images/09-blush-olive-script.png",
+    "title": "Blush and olive",
+    "description": "Delicate script and blush on olive.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "e975de67ac3ead2f9754aba8f1d11d47db44429700202f9a94d35c6bb133d908"
+  },
+  {
+    "file": "images/10-soft-shadow-study.png",
+    "title": "Soft shadow study",
+    "description": "Soft window light and a sage backdrop.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "b838136311a6e0ded0767a27284d3efa60d3042d7f6c83c68ba98c7c64233e2b"
+  },
+  {
+    "file": "images/11-matcha-clouds.png",
+    "title": "Matcha clouds",
+    "description": "A cup floating in cream and sage clouds.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "68112957cff1fb1e06f60932f2808d6f9d721f5ea97e8fd24c76128d94d76bab"
+  },
+  {
+    "file": "images/12-rounded-retro.png",
+    "title": "Rounded retro",
+    "description": "Playful cream lettering on vivid green.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "825a28060daa41162daca1dc2475e152f64407a488c6729680e3152475335cde"
+  },
+  {
+    "file": "images/13-archway-still-life.png",
+    "title": "Archway still life",
+    "description": "An ivory arch with soft olive shadows.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "645d407c2a896a2acee793d9f3b018bdf0adad4adc3a6018c7ee6fd9c2749d97"
+  },
+  {
+    "file": "images/14-morning-linen.png",
+    "title": "Morning linen",
+    "description": "Warm daylight and natural linen textures.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "789a4c4f6b5fb58a96ffa6b3134ae80faea0b35078f8f7a926977bd0d62c974d"
+  },
+  {
+    "file": "images/15-matcha-ripple.png",
+    "title": "Matcha ripple",
+    "description": "Concentric ripples and a tonal green setting.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "e93b7dd4b5338d870434b2c0d5681fab605c6885de7307ac7e69e8fcb190d08b"
+  },
+  {
+    "file": "images/16-paper-collage.png",
+    "title": "Paper collage",
+    "description": "Torn paper in warm cream and olive.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "a6bcc1e7be736edca9585578ad3b3d898dc5ecf8e2c3142a2bdcf5defed6c74a"
+  },
+  {
+    "file": "images/17-sage-monochrome.png",
+    "title": "Sage monochrome",
+    "description": "A quiet, tonal sage product portrait.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "58419edac7aa998481af28337f214fba10919bb25a7cb7c6e50ff6dbb709a434"
+  },
+  {
+    "file": "images/18-afternoon-glow.png",
+    "title": "Afternoon glow",
+    "description": "Warm side light against deep forest green.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "2973b89108295347561b609315c10828dcf1c10ae4c021137dfe3f566afeaa80"
+  },
+  {
+    "file": "images/19-falling-ingredients.png",
+    "title": "Falling ingredients",
+    "description": "An airy composition of matcha, milk and ice.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "ad9693a44c119a57c56508a5497925850d9422d201392144ef2c552aeacf53aa"
+  },
+  {
+    "file": "images/20-milk-marbling.png",
+    "title": "Milk marbling",
+    "description": "A closer look at the creamy green swirls.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "e2df46b7e44b4acd3e142e5821b4b3d56f478a82793395056408cad67b45b01a"
+  },
+  {
+    "file": "images/21-matcha-closeup-creamy-v2.png",
+    "title": "Matcha close-up",
+    "description": "Rich creamy matcha with bold rounded cream lettering.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "b4a18c5cca897a230ac025cc0a4e6b8927daefa4d244dcdccd88920788bf5399"
+  },
+  {
+    "file": "images/22-cafe-column.png",
+    "title": "Cafe column",
+    "description": "A spacious magazine-inspired composition.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "4eb87962494c2f8f8686f8650586b8b686c8eea3cdcc6382a9104ef98e43048e"
+  },
+  {
+    "file": "images/23-soft-green-gradient.png",
+    "title": "Soft green gradient",
+    "description": "A smooth green gradient and floating cup.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "5df02c721b4582837a4788498bed7923d383a6d7460766adfd7201307a399ab2"
+  },
+  {
+    "file": "images/24-two-cup-moment.png",
+    "title": "Two-cup moment",
+    "description": "Two matcha lattes in a gentle cream setting.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "530e9d84725acbd93bbc97864e522a04c6f8d18e538a1d932d3b4140b0ea193c"
+  },
+  {
+    "file": "images/25-signature-finale.png",
+    "title": "Signature finale",
+    "description": "A refined forest-green and travertine portrait.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "b49935eab5f7248219cf721c2152c2fc7926ebf6fa925611e7ae55525e25f94d"
+  }
+]

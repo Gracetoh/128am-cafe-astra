@@ -1,0 +1,20 @@
+128am Cafe | Matcha latte photo set
+
+PRODUCT INTRODUCTION
+Meet our matcha latte 🍵
+
+A little preview of what's coming to 128am Cafe. Follow @128am.cafe for our soft launch date.
+
+NEIGHBOURHOOD PREVIEW
+Hello, neighbour! Your next matcha break could be a little closer to home ♡
+
+128am Cafe is coming soon near Bukit Panjang MRT. Have a peek at our menu at 128am.cafe and follow @128am.cafe for launch updates.
+
+ASSET NOTES
+01-matcha-latte-clean-photo.png: a clean product photo for a catalogue or website.
+02-matcha-latte-catalogue.png: the clearest introduction for a social post.
+03-a-little-matcha-moment.png: a warmer follow-up post.
+
+All three are 1086 x 1448 pixels, portrait 3:4, with opaque backgrounds.
+These are AI-assisted edits of the supplied photographs using the built-in image generation tool. The originals remain unchanged. Exact prompts are saved in image-prompts.json.
+The launch date is intentionally omitted. No launch prices or offers are included.

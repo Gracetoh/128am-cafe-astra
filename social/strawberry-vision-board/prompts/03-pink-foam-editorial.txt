@@ -1,0 +1,15 @@
+Use case: ads-marketing.
+Create ONE sophisticated editorial diptych social poster, portrait 3:4 at 1086 x 1448. The supplied image is the EXACT PRODUCT reference only. Discard its old rounded bubble typography completely; adopt an editorial café mood with elegant high-contrast serif typography and generous whitespace.
+Composition: top third features a beautiful large PHOTOREALISTIC MACRO photograph of soft strawberry PINK cold foam microbubbles and delicate strawberry speckles. The close texture is creamy, fresh, softly lit, like a luxury food magazine photograph, never soap, skin, or synthetic texture. Top macro is a simple clean rectangular panel within restrained ivory margins. A thin olive divider separates this from lower two-thirds, which show the FULL actual branded cup standing on warm cream paper-like surface with subtle natural shadow. No border ornament. Keep lower image calm with generous cream space, cup appropriately scaled to show entire dome and base.
+Preserve exact referenced cup: short broad clear plastic sundae cup with rounded bottom, clear properly seated dome lid, natural milk and matcha green marbling, deep red strawberry syrup at bottom, and continuous soft PINK strawberry cold foam cap beneath lid. No new white foam or whipped topping. Preserve front mascot sticker faithfully: brown-haired girl with pink bow, white bunny with exactly TWO ears, legible 128am Cafe logo. Cup exterior rim/flange must be crystal clean without overflow, drips or smears. Photorealistic product, light condensation, attractive real food colour.
+In the cream space of lower panel, above cup and clearly separated from it, place a modest yet easy-to-read olive #526F35 HIGH-CONTRAST SERIF heading reading exactly "Strawberry Matcha Latte". Below it a slim elegant dusty-rose #B8496C serif accent reading exactly "The pink finish", slightly italic with refined proportions. Both lines remain readable, no hairline vanishing text. This is typography like a premium editorial retro café publication, NOT thick bubble lettering. No original rounded heading remains.
+Palette: cream #FFF8F5, rose #B8496C, blush #FDE5EB, sage #E7F0DC, olive #526F35. Subtle cream paper tactile quality, no grunge. Macro and cup remain PHOTOGRAPHS, not illustrations/CGI. No props, fruit, flowers, random Japanese text, extra logos, claims, prices, slogans, watermarks or new decorative graphics. Only the two specified text lines and the real product label. Safe margins, no cropped cup, one finished composed graphic.
+
+Reference input:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-pink-foam-assets/images/01-cream-studio-hero.png
+
+Style direction: parent reviewed Pinterest vision board and supplied editorial retro cafe observations.
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-92f8466e-aaf1-4609-a649-cf832ae9bae1.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-vision-board/images/03-pink-foam-editorial.png
+

@@ -1,0 +1,13 @@
+Use case: ads-marketing, nostalgic sky poster.
+Make ONE 3:4 portrait socialposter1086x1448 for128amCafe.
+Input1 is styleinspiration only: a powderblue cloud poster with elegant pinkserif type and airy spacing. Input2 is our branded strawberrycup withPINKcoldfoam and shortdomecup shape. Input3 is therealoriginal productphoto for smoothnaturalplastic. Reinterpret the mood for our strawberrymatchalatte; do not copy the reference's othercopy or plainmatchaproduct.
+Design: muted cornflowerblue / periwinklesky background with gentlysoft cream/blushcloud edges drifting acrossuppercorners, verylight analoggrain confined tobackground. Onefull photorealistic brandedcup floats subtly incenter-lowerhalf with soft diffusedshadow beneath. Cup is solid believablylit, not transparentghost. Big airy elegant highcontrastserif title in paleblush at upperthird, reading exactly 'Strawberry' and below 'Matcha Latte' with slightgracefulitalic emphasis. A small cream '128am Cafe' masthead above title within12%topmargin. Acrosslowerthird beneaththecup put ONE thin cream outlined oval containingthetext 'Pink strawberry cold foam', smallreadableitalic, with generousair. Nothingelse,noquotecopy. Balancedprofessionalvintagecaféposter,softetherealandplayful.
+Cup: shortbroadroundedbase clear sundae withclosed hemisphericaldomelid, pinkfoamcap,milkygreenmatchaandredstrawberrysyrupbottom, front small128amgirl+TWOearbunnylogo preserved. No taller glass, no whitefoam, nostrawberrygarnish oncup, no overflow. Softphotographicfinish, dry smoothclearplastic withbroad gentle reflections, nosharpwaterbeads or crunchyCGIcelltexture. Natural creamytones andsoftedges whilelogoandtype stayreadable. All product and text inside8%sides and12%topbottom, entirecupvisible.
+Avoid exaggerated shine, strong grittygrain ondrink, illustration, newclaims,price,date,award/organic,extrabrands,referencequote,em dash. Singlefinished image.
+
+
+Sources:
+Style: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-21c7743f-7ede-4048-802a-072e9cb4202f.png
+Product: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-dreamy-10/images/06-strawberry-still-life.png
+Original: /Users/gracetoh/Downloads/IMG_1996.jpg
+Mode: built-in image generation

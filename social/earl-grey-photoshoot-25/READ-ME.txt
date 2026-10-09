@@ -1,0 +1,8 @@
+128am Cafe | Earl Grey Matcha Latte | 25 product photographs
+
+Open gallery.html to browse and download the individual images.
+All 25 are separate portrait 3:4 PNGs with product names included.
+The set has a thin amber-brown Earl Grey syrup layer at the base and cleaned outer cup rims and lids.
+Upload with full/original framing and review the profile preview before posting.
+
+AI-styled from the supplied product photos IMG_2010.jpg, IMG_2017.jpg, IMG_4398.heic, IMG_4403.heic, and IMG_4411.heic, using the built-in image tool. Original photos remain unchanged. Exact prompts and reference paths are in prompts/.

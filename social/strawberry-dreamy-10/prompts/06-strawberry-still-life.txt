@@ -1,0 +1,21 @@
+Use case: ads-marketing.
+Create ONE fresh sophisticated café social image, portrait 3:4 at 1086 x 1448.
+The sole supplied image is the REAL photographic cup identity and smooth natural clear-plastic material reference: preserve its short BROAD sundae cup proportions, rounded base and small original front sticker of 128am girl and white rabbit with exactly TWO ears. Pink strawberry cold foam replaces the original white foam, with a soft pale pink continuous cap.
+Product layers must remain: red strawberry syrup bottom, natural white milk and green matcha marbling, continuous creamy PINK strawberry cold foam cap. Correct small legible mascot sticker and "128am Cafe", never enlarged or redesigned. Clean exterior rim/flange, no overflow or drips.
+CRITICAL photographic realism: smooth DRY clear plastic, no conspicuous exterior water beads or sharp droplet rings. Simple plausible container exactly like the supplied real photo, no cellular/honeycomb pattern, no synthetic texture, no diamond-like ice or faceted crystalline objects. Drink marbling softly irregular and natural. Softly diffused window light, low local contrast, gentle highlight bloom, matte film finish, delicate organic softness. Photorealistic photography, never CGI/illustration, not over-sharpened; text and label still readable.
+Palette blush pink, warm cream #FFF8F5, olive #526F35, dusty rose #B8496C, sage #E7F0DC. Minimal nostalgic appetising and playful café aesthetic, creamy tactile textures.
+Exact product title "Strawberry Matcha Latte" and small "128am Cafe" on every design. Use consistent elegant NARROW HIGH-CONTRAST editorial SERIF for "Strawberry", with elegant italic serif or delicate CURSIVE "Matcha Latte" accent; crisp readable refined type, not rounded bubble lettering. No other words, slogan, claim, date, price, em dash, badge or watermark.
+CRITICAL safe area: ALL lettering, full hero cup and key product details stay at least 8% canvas width from side edges and 12% canvas height from top and bottom edges. Background textures and light may bleed. New distinct composition, not a clone of input poster.
+Composition: Minimal soft nostalgic still-life product hero. Full CLOSED-DOME branded short broad sundae cup placed a little right of centre on loosely folded pale BLUSH LINEN, with exactly TWO real ripe strawberries resting beside it at lower left, natural modest size and gently imperfect surfaces. Strawberries are supporting props on cloth, never on top of cup. Pink foam under clear dome, all layers and label visible. Delicate matte light, soft warm ivory background, natural shadows, gentle highlight bloom and soft film texture. Photograph should feel real, quiet and appetising, not a wet hyperreal product render. Cup and berries fully within safe margins. Top left-aligned exact "Strawberry" in large olive narrow high-contrast serif, next line "Matcha Latte" in delicate dusty-rose cursive, small "128am Cafe" beneath. Spacious composition, no border and no extra slogans or props. Keep 12% top/bottom safe area and 8% side safe area.
+Use only the real photo's SMOOTH sidewall surface, no artificially drawn polygonal outlines or cellular web. Green and milk have loose soft painterly liquid marbling behind the REAL plastic. No external droplets. Design content bounding box x=100..980, y=185..1260. At most two strawberries and blush linen, NO flowers or plants. Soft ethereal café editorial photography, high-contrast narrow serif and elegant italic type.
+
+Reference inputs:
+/Users/gracetoh/Downloads/IMG_1996.jpg
+
+Style observed:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-ethereal/images/01-strawberry-editorial-poster.png
+
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-b0f62c05-262b-4ba1-b561-12023f47062a.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-dreamy-10/images/06-strawberry-still-life.png
+

@@ -1,0 +1,29 @@
+Use case: ads-marketing.
+Create ONE fresh sophisticated café social image, portrait 3:4 at 1086 x 1448.
+Input 1 supplies the approved soft ethereal palette, pink foam identity and editorial serif/cursive typography direction ONLY. Do NOT copy that poster's layout, border or slogans. Input 2 is the REAL photographic cup identity and smooth natural clear-plastic material reference: preserve its short BROAD sundae cup proportions, rounded base and small original front sticker of 128am girl and white rabbit with exactly TWO ears. Pink strawberry cold foam replaces the original white foam, as in image 1.
+Product layers must remain: red strawberry syrup bottom, natural white milk and green matcha marbling, continuous creamy PINK strawberry cold foam cap. Correct small legible mascot sticker and "128am Cafe", never enlarged or redesigned. Clean exterior rim/flange, no overflow or drips.
+CRITICAL photographic realism: smooth DRY clear plastic, no conspicuous exterior water beads or sharp droplet rings. Simple plausible container like real reference 2, no cellular/honeycomb pattern, no synthetic texture, no diamond-like ice or faceted crystalline objects. Drink marbling softly irregular and natural. Softly diffused window light, low local contrast, gentle highlight bloom, matte film finish, delicate organic softness. Photorealistic photography, never CGI/illustration, not over-sharpened; text and label still readable.
+Palette blush pink, warm cream #FFF8F5, olive #526F35, dusty rose #B8496C, sage #E7F0DC. Minimal nostalgic appetising and playful café aesthetic, creamy tactile textures.
+Exact product title "Strawberry Matcha Latte" and small "128am Cafe" on every design. Use consistent elegant NARROW HIGH-CONTRAST editorial SERIF for "Strawberry", with elegant italic serif or delicate CURSIVE "Matcha Latte" accent; crisp readable refined type, not rounded bubble lettering. No other words, slogan, claim, date, price, em dash, badge or watermark.
+CRITICAL safe area: ALL lettering, full hero cup and key product details stay at least 8% canvas width from side edges and 12% canvas height from top and bottom edges. Background textures and light may bleed. New distinct composition, not a clone of input poster.
+Composition: Artful ASYMMETRIC VERTICAL SPLIT composition. A tall softly lit macro photograph of creamy PINK strawberry foam occupies the LEFT 35% of the canvas, showing smooth creamy waves with a few subtle microbubbles, never sharp granular pits or soaplike foam. The RIGHT 65% is quiet cream negative space with a small full CLOSED-DOME branded cup standing at lower right. Whole cup including dome and red syrup base visible; tiny soft contact shadow, natural smooth dry plastic. In the upper cream field, stack exact title elegantly over three lines if needed: "Strawberry" / "Matcha" / "Latte". Olive serif Strawberry, delicate dusty-rose cursive Matcha Latte. Small "128am Cafe" below title. Header and cup fully fit the safe area. A very fine olive vertical divider marks the split, no border or other decor. This is one composed editorial graphic, clearly different from a horizontal diptych.
+
+Reference inputs:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-ethereal/images/01-strawberry-editorial-poster.png
+/Users/gracetoh/Downloads/IMG_1996.jpg
+
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-116ebad4-86d8-4287-8a4e-3c2b7f5f20e3.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-dreamy-10/images/04-foam-closeup.png
+
+
+
+OPTIONAL MARGIN CORRECTION TEST (NOT SELECTED)
+Make a tiny layout correction to this existing completed 3:4 graphic. Preserve the entire cup photograph, foam macro, vertical split, divider, warm cream background, olive and dusty rose palette, and all existing typography letterforms exactly. Change ONLY the scale and position of the heading and small brand block in the right panel. Reduce the title block by approximately 22 percent and move it inward, so its bounding box is entirely within x=460 to x=982, y=185 to y=550 of a 1086x1448 portrait. Exact title still reads "Strawberry" then "Matcha" then "Latte" in the same olive narrow high contrast serif / rose italic style. Place small "128am Cafe" beneath it. Leave generous top and right whitespace with no text closer than 12 percent to the top or 8 percent to the right edge. Do not modify the photographic product, cup geometry, mascot logo, its clean smooth plastic or pink foam. No new copy or graphics. Output 1086x1448.
+References:
+[
+  "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-dreamy-10/images/04-foam-closeup.png"
+]
+Generated source:
+/Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-95baeeb8-975f-4f63-b8db-7d558691702d.png
+Final selection: existing original 04 retained, parent visually accepted its editorial margins.

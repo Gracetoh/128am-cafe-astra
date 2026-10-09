@@ -1,0 +1,9 @@
+Use case: precise-object-edit
+Asset type: 128am Cafe matcha poster, same portrait 3:4 aspect ratio.
+Input image 1 is the exact edit target. Preserve this poster faithfully and change only the beverage appearance plus its ice and condensation.
+
+Primary request: Make the matcha visibly thick, rich and creamy, appetizing and photographic. The upper matcha should be opaque creamy green with a smooth silky surface, a subtle natural glossy sheen and a very fine microfoam at the edges. The liquid should read as a luscious matcha latte rather than watery tea. Show fewer ice cubes, partly submerged and softly coated in creamy matcha, with softly melted natural edges and subdued reflections. Reduce large crystalline ice faces and clear watery gaps. Keep the milky base and green marbling flowing down the cup, with a more substantial creamy texture. Retain realistic natural highlights. Soften artificially sharp condensation droplets on the exterior.
+
+Locked invariants: Keep the exact green background, lighting direction, original poster composition, cream rounded retro 'Matcha Latte' lettering and its scale/line breaks/position, the exact '128am Cafe' line above it, the cup position, cup size, cup rim, bottom crop, perspective and all existing logo art/text. Reproduce the logo unchanged: girl with dark brown hair, pink bow and apron, whisking bowl, tiny drink, rabbit with exactly two ears, and '128am'/'CAFE' label. Preserve all text verbatim and preserve the original layout.
+Avoid: whipped cream, added toppings, bulky foam head, large bubbles or bubbly froth, milkshake texture, plastic-looking liquid, jelly texture, exaggerated shiny facets, additional objects or decoration, any new text, the phrase 'Iced. Creamy. Lovely.', watermark.
+Only edit the beverage, its visible ice and the sharpness of exterior droplets. Leave everything else as close to the input as possible.

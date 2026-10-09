@@ -1,0 +1,19 @@
+128am Cafe | Matcha Latte editorial collection
+
+Create 25 distinct individual portrait product posters, approximately 3:4, using the user's actual Matcha Latte photograph as the product reference and the seven newly supplied posters as visual style references. Use built-in image generation, one call per deliverable. Save exact final prompts and refinements alongside images. Keep earlier collections unchanged.
+
+PRODUCT REFERENCE: /Users/gracetoh/Downloads/IMG_1992.jpg
+LOGO REFERENCE: /Users/gracetoh/Desktop/128am Cafe Logos/botak sign 128am cafe logo .png
+Preserve the actual short, broad, clear takeaway cup with softly rounded base, small front girl-and-two-eared-rabbit 128am Cafe sticker, dark green matcha above creamy milk with natural marbling. Finished drink images use a clean low-profile transparent sipping lid, as in the actual photo; clean any wrinkled white sealing material for presentation. Conceptual pouring/ingredient and close-up images may show the lid removed. Never turn the cup into a tall glass. No strawberry, red syrup, banana, Earl Grey, cold foam or whipped cream. No fake giant crystal droplets. Soft natural texture, fine film grain, real liquid, pleasant milk/green contrast. Soft appetising photography, never cartoon product rendering. Logo art remains illustrative as supplied; two rabbit ears.
+
+STYLE: Minimal yet striking editorial food advertising. Cream, sage, olive, forest green, occasional blush pink. Elegant high-contrast serif lettering with delicate cursive accents, and selected bold rounded retro headlines. Use creative composition from the references without copying third-party logos or claims. Broad smooth gradients, no hard diagonal pink stripe. Generous negative space; text and key product features comfortably inset 8-10% on all sides to keep a central readable composition. Sharp enough to read type, product itself soft and photographic.
+
+COPY: Include exactly spelled product name 'Matcha Latte' and brand '128am Cafe' in every image. Other short lifestyle/sensory copy is optional. Do not copy health claims, award claims, origin or organic claims from references. No invented prices, dates, discounts, websites, certifications, establishment year, other cafes' marks, watermarks or designer credits. No em dashes. No crowded body copy. No contact sheets: each generated deliverable must be one standalone poster.
+
+STYLE REFERENCE 1 macro milk/matcha pour: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-81cd551f-eb3a-452c-a203-d551c4dc509a.png
+STYLE REFERENCE 2 dark olive pink elegant serif: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-859ab7b0-0653-46f2-b88f-d71bfc6da66d.png
+STYLE REFERENCE 3 sage tasting-note layout: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-cfcb7ad2-6a97-4c13-87a1-0a413f232725.png
+STYLE REFERENCE 4 cream minimalist typography: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-fdb4f2eb-4de4-4131-a7b8-e688c387fd53.png
+STYLE REFERENCE 5 dreamy floating cup: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-b9ff4d84-77d8-41a3-8f36-98bc2c1279de.png
+STYLE REFERENCE 6 green bold macro: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-1c826efe-f296-45c2-aab0-b96034ef791e.png
+STYLE REFERENCE 7 forest green travertine: /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-b5edd89b-d2a5-470e-a20a-ae45c98cef33.png

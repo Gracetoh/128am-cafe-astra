@@ -1,0 +1,12 @@
+128am Cafe | 25 product photographs
+
+Open gallery.html to browse and download individual images.
+01-08 and 22-23: Matcha latte (10 images)
+09-16 and 24-25: Strawberry matcha latte (10 images)
+17-21: Both drinks (5 images)
+
+All 25 are separate portrait 3:4 PNGs. Their product names are included in the artwork.
+Upload at full/original framing and review the profile preview before posting.
+
+These are AI-styled product photographs generated using the built-in image tool from the supplied photographs IMG_1992.jpg, IMG_1996.jpg and IMG_4280.heic. Individual prompt records are in prompts/.
+Original photos are unchanged.

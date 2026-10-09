@@ -1,0 +1,24 @@
+Use case: compositing.
+Create ONE finished Instagram pickup navigation slide, portrait 3:4 at 1086 x 1448, using the two supplied images.
+Image 1 is the EXACT visual layout/style template only. Image 2 is the actual lift photograph to place in the photo area. Do not use Image 1's Tennery/clinic photo.
+Match Image 1 closely: warm cream #FFF8F5 page, thin pale-pink rounded rectangular outer border inset from edges, top centered small bold cocoa #4A3527 "128am Cafe", soft blush rounded STEP pill, two-line large muted rose #B8496C playful heavy rounded sans-serif headline, rounded-corner inset actual photograph in middle, cocoa rounded sans-serif caption below photo, small Instagram icon and "@128am.cafe" at bottom. Same friendly rounded font family, same spacing rhythm and corner radii. Keep margins safe, all text highly readable, NO cursive. Small blush accent rays by brand/headline may match template; no marker, arrows or annotation ON photograph.
+Exact slide text:
+Top brand: "128am Cafe"
+Pill: "STEP 03"
+Headline line 1: "Take the lift"
+Headline line 2: "to Level 4"
+Caption line 1: "When you arrive, New Life Preschool"
+Caption line 2: "will be on your left."
+Footer: "@128am.cafe"
+Use exact spelling and punctuation. Headline large and rose, caption cocoa sized to fit those two centered lines without clipping. Nothing else added.
+CRITICAL PHOTO FIDELITY: use Image 2 as the actual inset photograph, faithfully retaining its real geometry, perspective and contents. It shows two stainless steel lift openings, the blue indicator screens above them, a central wall-mounted black screen and the slim shared button panel below. Preserve BOTH lift openings, the actual screens and the button, in their original positions and proportions. No relocation, no replacement, no invented signs. Keep real wall/ceiling details natural. You may crop unused ceiling/floor to fit while retaining those key features; if needed give photograph slightly narrower inset proportions rather than altering the scene. The photo remains a REAL photograph, not illustration or architectural reconstruction.
+Do not add any preschool sign to the photo. The caption describes the destination landmark, not a visible sign. No private unit numbers, addresses, people, fake labels, new lift doors, arrows, circles, embellishments inside photo, prices, watermarks or other text. Only replace template's step, headline, photo and caption as specified; maintain the recognizable template styling. One finished image.
+
+Reference inputs:
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/pickup-guide-refresh/03-tennery-sign.png
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/tmp/pickup-guide-originals/IMG_4265.png
+
+Mode: built-in image_gen
+Generated source: /Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-76ece104-cb67-4e8f-88e3-ce1399c58f53.png
+Final output: /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/pickup-guide-refresh/04-lift-level-4.png
+

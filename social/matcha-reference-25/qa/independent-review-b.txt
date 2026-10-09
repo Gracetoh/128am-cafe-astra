@@ -1,0 +1,21 @@
+Independent visual QA: posters 08–13 and 20–25
+Method: inspected all 12 saved full-size PNGs with view_image.
+
+Result: PASS. No material defects found.
+
+Every poster displays correctly spelled Matcha Latte and 128am Cafe. Titles and brand typography remain readable and fully visible, with no accidental clipping or overflow. All feature green matcha and ivory milk with the intended transparent takeaway cup. The original girl-and-rabbit sticker remains recognizable; visible rabbits have two ears. No strawberry, fruit syrup, invented claims, price or third-party branding appears.
+
+08 ivory editorial: pass.
+09 blush olive script: pass.
+10 soft shadow study: pass.
+11 matcha clouds: pass; floating-cup setting is intentional.
+12 rounded retro: pass.
+13 archway still life: pass.
+20 milk marbling: pass.
+21 matcha closeup: pass; open lid and bottom cup crop are intentional macro composition; title, brand and full sticker remain visible.
+22 cafe column: pass.
+23 soft green gradient: pass; floating-cup setting is intentional.
+24 two cup moment: pass; background cup and sticker have intentional depth-of-field softness.
+25 signature finale: pass.
+
+No files were altered except this review report. No additional image generation was used during independent QA.

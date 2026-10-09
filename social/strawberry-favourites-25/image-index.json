@@ -1,0 +1,227 @@
+[
+  {
+    "file": "images/01-green-halo.png",
+    "title": "Green halo",
+    "description": "A dreamy green glow with blush highlights.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "08c6a61c2239fd9ef76c82ef332ecd338797038040190390ae30ec5da468acc3"
+  },
+  {
+    "file": "images/02-creamy-script.png",
+    "title": "Creamy matcha",
+    "description": "Thick creamy layers with bold and cursive lettering.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "2fdc6a917d16595a08332a9a7a1900e3ea599e07ad13fd78f1426b8a50c61169"
+  },
+  {
+    "file": "images/03-blush-olive.png",
+    "title": "Blush and olive",
+    "description": "Elegant pink lettering against dark olive.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "d42610f1e5c6f277556e3e7d0e6836dfc6bc0ded274354ba77c5d0cadead8bf9"
+  },
+  {
+    "file": "images/04-berry-clouds.png",
+    "title": "Berry clouds",
+    "description": "Soft pink clouds around the strawberry latte.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "55df2c01a2dcdb4b923bc39e2a3652a984c42ea34a5db882cbb4e128225fd7a3"
+  },
+  {
+    "file": "images/05-rounded-retro.png",
+    "title": "Rounded retro",
+    "description": "Cream retro lettering and playful blush stars.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "b515bcfed124690a0694f717f22b6648fadd36beef6de2b11e61d125da2e1c59"
+  },
+  {
+    "file": "images/06-paper-collage.png",
+    "title": "Paper collage",
+    "description": "Cream and olive torn paper with real berry accents.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "e85401d38834e53626e60924b90b404feb9a476fca2c219a2ded8398e789c58e"
+  },
+  {
+    "file": "images/07-falling-ingredients.png",
+    "title": "Falling ingredients",
+    "description": "An airy display of the drink ingredients.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "87b9beb296a05e797b699e79bc9a71e37c87dbc413808928e9fe0a5be8e7bcf5"
+  },
+  {
+    "file": "images/08-creamy-closeup.png",
+    "title": "Creamy close-up",
+    "description": "A closer look at silky pink foam and matcha.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "5f7993887fe2f41b7ba6200bdc3258e4017ebafe5c63fbf28b2c82b3a5cf1af0"
+  },
+  {
+    "file": "images/09-soft-pink-green-gradient.png",
+    "title": "Soft pink-green gradient",
+    "description": "An even dreamy blend of blush and sage.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "45137df7140f44739d92f3e64845edd637fb8d1952ef2e0b7e556238df6834e1"
+  },
+  {
+    "file": "images/10-signature-stone.png",
+    "title": "Signature stone",
+    "description": "A refined green and travertine still life.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "975242892f0304f2dee60c1c60165c4eaeed4a05cbe123f5b59f2b52baad86fd"
+  },
+  {
+    "file": "images/11-silky-matcha-pour.png",
+    "title": "Silky matcha pour",
+    "description": "A gentle matcha stream into the strawberry cup.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "27e7f042161493da5af99a8b36d7a29d74e20fde788ab41d2c4967b317544304"
+  },
+  {
+    "file": "images/12-pink-foam-pour.png",
+    "title": "Pink foam pour",
+    "description": "Pink strawberry cold foam poured into the latte.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "742bc1b5b0e6f8270795ad960add4773ecd77ebaf32043001378224c38f1b70c"
+  },
+  {
+    "file": "images/13-hand-drawn-daydream.png",
+    "title": "Hand-drawn daydream",
+    "description": "Playful lettering with strawberry and star doodles.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "74daf043b670aaa905a6c167fd4bc2fb5bc7fd782385692ed45ce7b11fa2e90e"
+  },
+  {
+    "file": "images/14-olive-spotlight.png",
+    "title": "Olive spotlight",
+    "description": "A softly lit product portrait on deep olive.",
+    "width": 1055,
+    "height": 1491,
+    "mode": "RGB",
+    "sha256": "8a7ba708db51c1a88fe2d27e4ae16b9512c7bc9911a429fc517b5eafb28a69e3"
+  },
+  {
+    "file": "images/15-velvet-macro.png",
+    "title": "Velvet macro",
+    "description": "The creamy texture of pink foam and green matcha.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "b3dbcd2b8d42981b7a257dcd7c7765be75bdbdcb8208ef24ff58cd750ce741fc"
+  },
+  {
+    "file": "images/16-rosy-halo.png",
+    "title": "Rosy halo",
+    "description": "A pink glow around a floating cup.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "d70c20e40683852568b606c9213b2d93fa5a67077d5f2db441c42fe6a0dbcb4e"
+  },
+  {
+    "file": "images/17-cream-cutout.png",
+    "title": "Cream cutout",
+    "description": "A clean editorial paper-cut silhouette.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "af953a15a3a0d9977255058d9a8c44a4883ec838e7ad60dc0302702dbe1d9874"
+  },
+  {
+    "file": "images/18-berry-scrapbook.png",
+    "title": "Berry scrapbook",
+    "description": "Strawberries, paper textures and playful composition.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "71681eb4fa2cb95f3c6b3c8ebaae464dca672f871394fab943126a0d3ee2bd09"
+  },
+  {
+    "file": "images/19-retro-berry-burst.png",
+    "title": "Retro berry burst",
+    "description": "Rounded type and a soft blush sunburst.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "91b85755c0e93e697f225fc248566db612bc3fab741ecf625d62da5933089dd5"
+  },
+  {
+    "file": "images/20-cloud-nine.png",
+    "title": "Cloud nine",
+    "description": "An ethereal cream-and-blush cloud scene.",
+    "width": 1055,
+    "height": 1491,
+    "mode": "RGB",
+    "sha256": "ceb9e34a176e7a48b696508f3988b7abf02f712f9994fa4da2802d99094de913"
+  },
+  {
+    "file": "images/21-minimal-layer-study.png",
+    "title": "Layer study",
+    "description": "Simple callouts for the drink layers.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "5dd64ef861beadac232b5eaf86ffa0ba96a1249845cc23d3fb0de53dc15469eb"
+  },
+  {
+    "file": "images/22-forest-signature.png",
+    "title": "Forest signature",
+    "description": "Dark forest green and pale stone.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "e07bc18fded505ae4f894b74051f61c4fe77e04cf00a92fac1bd20dec702dc47"
+  },
+  {
+    "file": "images/23-pink-milk-swirls.png",
+    "title": "Pink milk swirls",
+    "description": "Creamy green marbling and strawberry pink.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "36c625815b5ba63ec48dd3ebf5590d57e3ee1870c8a3ee7c6a070bff4efb9108"
+  },
+  {
+    "file": "images/24-berry-pair.png",
+    "title": "Berry pair",
+    "description": "Two strawberry matcha cups in a soft studio setting.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "f7ccf6e7225a46952c5a369ebc3a745ba84af81cb42478dd84bc465ced77f35f"
+  },
+  {
+    "file": "images/25-cursive-glow.png",
+    "title": "Cursive glow",
+    "description": "Elegant pink script with a gentle green glow.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "ecf4a115ff201a042e470557476bd6824e08b4ba0dbbfb916da1ecc5c037183a"
+  }
+]

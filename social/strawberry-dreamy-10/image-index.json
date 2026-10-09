@@ -1,0 +1,92 @@
+[
+  {
+    "file": "images/01-window-daydream.png",
+    "title": "Window daydream",
+    "description": "Soft curtain light and an airy cream setting.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "82507f18056ba00bd92c97fdad86a355fb0554eee4f2baaf35e5fa10954e2d66"
+  },
+  {
+    "file": "images/02-blush-arch.png",
+    "title": "Blush arch",
+    "description": "A warm ivory arch with a blush backdrop.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "ae68b4055ce39c4df60017fa1fb10d64588309c49ef0fa9f2412a20ed5615294"
+  },
+  {
+    "file": "images/03-blush-silk.png",
+    "title": "Blush silk",
+    "description": "An asymmetric still life with soft fabric folds.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "025d02c84166c30da2690c14290f4b7d49e4f72fc54b3e8dd09acddf00aae5bb"
+  },
+  {
+    "file": "images/04-foam-closeup.png",
+    "title": "Foam close-up",
+    "description": "Creamy pink texture paired with the complete drink.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "85fdd0f55dad01f4906562bb4b9a7e26339d19667edae687804374258225c9d2"
+  },
+  {
+    "file": "images/05-pink-foam-pour.png",
+    "title": "Pink foam pour",
+    "description": "Strawberry cold foam poured into an open cup.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "71e27d042ab5879dec6bc74e4df2a99df5e85947dbe1011ac6228cd88607765e"
+  },
+  {
+    "file": "images/06-strawberry-still-life.png",
+    "title": "Strawberry still life",
+    "description": "A soft product scene with fresh strawberry accents.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "c74cb9f661341ff7df557bd839f08d18a1175bad1d1698b1dfaeceb7e600b5be"
+  },
+  {
+    "file": "images/07-soft-retro-sunburst.png",
+    "title": "Soft retro sunburst",
+    "description": "A gentle blush sunburst and olive lettering.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "984792c916e5613421f6807a2a544966008a6de4726e77d742a419ee9873002c"
+  },
+  {
+    "file": "images/08-olive-editorial.png",
+    "title": "Olive editorial",
+    "description": "Sage, cream and rose in a minimal editorial layout.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "c3b7fa981be624902c78bb7109effa752a13e26a06b82bc58cae558c82771c0b"
+  },
+  {
+    "file": "images/09-linen-afternoon.png",
+    "title": "Linen afternoon",
+    "description": "A view from above with natural linen and soft light.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "cb308745785be6d629bac6b1665fe4cdcd367ee900ec3066bf8145087182a1a4"
+  },
+  {
+    "file": "images/10-editorial-diptych.png",
+    "title": "Editorial diptych",
+    "description": "A full drink portrait alongside a foam detail.",
+    "width": 1086,
+    "height": 1448,
+    "mode": "RGB",
+    "sha256": "abc754891485d70974b28e25484c4483057e3f0ddd57abcfa1ef66dd2e1190cb"
+  }
+]

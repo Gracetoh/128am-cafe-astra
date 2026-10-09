@@ -1,0 +1,38 @@
+128am Cafe | Strawberry favourites collection (25 new images)
+
+Use built-in imagegen for ONE standalone image per call. Follow imagegen skill. Inspect every local input image with view_image before using. Final PNGs and exact prompt TXT (same stem) must be saved to this folder's images/ and prompts/. No other gallery edits by agents. Earlier collections remain unchanged.
+
+USER REQUEST: Re-generate 25 Strawberry Matcha Latte posters/photoshoot assets using favourite styles from last matcha collection: green halo, creamy matcha, blush and olive, matcha clouds, rounded retro, paper collage, falling ingredients, matcha close up, soft green gradient, signature finale. Also use five new references as described below. User loves soft dreamy photographic finish, asks thick creamy matcha, pink strawberry cold foam, hates oversharp crystal waterdrops, dislikes hard diagonal pink bands. Remove/refrain from slogan 'Iced. Creamy. Lovely.'
+
+PRODUCT references:
+1 Original photo /Users/gracetoh/Downloads/IMG_1996.jpg. Use its short broad clear sundae cup, rounded bottom, clear hemispherical dome lid, front small 128am girl/rabbit sticker.
+2 Approved corrected pinkfoam photo /Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-dreamy-10/images/06-strawberry-still-life.png. Use the PINK strawberry cold foam, rich red strawberry syrup base, milk, creamy green matcha and branding. Do not copy this entire composition for all variants.
+Drink is thick opaque velvety matcha/milk with soft natural marbling, red strawberry syrup as modest bottom layer and PINK strawberry cold foam on top. Avoid huge fruit chunks inside cup, white whipped cream, whipped swirls, hard fakecrystalice, excessivewaterdrops, overflow, dripstains. Keep rounded sundae cup dimensions and branded small sticker. Rabbit has TWO ears. Dome lid clean and clear in finished drinks; lid may be removed for conceptual pours/ingredients/close-ups, specify intentionally. NO plain-matcha flat lid for finished strawberry version.
+
+COPY:
+Every image clearly includes exactly 'Strawberry Matcha Latte' (may linebreak) and '128am Cafe'. Type range: high-contrast editorial serif plus delicate cursive; selected chunky retro headings or hand lettering based on references. Comfortable 8–10% margins. No other cafe names, watermarks, prices, dates, discounts, health/organic/award/origin claims. No emdashes. No 'Iced. Creamy. Lovely.' No fake facts copied from refs.
+STYLE: minimal, appetising, aesthetic GenZ editorial. Rich forest/olive/matcha greens with blush/cream/red strawberry accents. Dreamy smooth gradients, very fine film grain, diffuse realphotolighting, fullcupexceptintentionalcloseup. Varied layouts, not25identicalcenteredcups. Approx3:4 portrait 1086x1448 target. One finishedposter, nevercontactsheet.
+
+APPROVED STYLE references (use relevant as supportingimage):
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/matcha-reference-25/images/05-green-halo.png
+.../06-iced-and-creamy-v2.png
+.../09-blush-olive-script.png
+.../11-matcha-clouds.png
+.../12-rounded-retro.png
+.../16-paper-collage.png
+.../19-falling-ingredients.png
+.../21-matcha-closeup-creamy-v2.png
+.../23-soft-green-gradient.png
+.../25-signature-finale.png
+Expand ... with same absolute images directory. These refs are STYLE ONLY; replace plain latte with strawberry drink using productrefs1–2.
+
+NEWrefs:
+A Matcha pouringmacro /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-828a0f73-45d7-4365-994e-a0ab3cecc396.png
+B playful handdrawncream poster /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-c7bc5a15-968b-446f-9c1a-033550f2146c.png
+C moodyoliveberryhero /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-9e88f3ae-e530-41a0-8834-5e0bb97b443e.png
+D smoothgreenmacro /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-da388e3f-6e7a-41d7-8e69-6db43398324d.png
+E greenpink cursiveglow /var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-ddd6c6be-bb22-45ec-af64-94343b4b98cc.png
+Newrefs are composition/style only. Never copy their pumpkin/lavender/organic/coconut/foreignlanguage text or marks.
+
+VisualQA after each image: exact readable title/brand, correctstrawberry product layers and pinkfoam, correctcup, twoearbunny, unclippedtype, no unwantedclaim. Refineonlymaterialissues. Save final selected file, preserve exactinitial+refinementprompts.
+

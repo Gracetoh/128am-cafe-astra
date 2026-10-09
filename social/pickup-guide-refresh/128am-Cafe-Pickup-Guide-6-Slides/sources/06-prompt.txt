@@ -1,0 +1,12 @@
+Use case: compositing / precise photo placement. Create ONE polished 128am Cafe Instagram pickup navigation slide, portrait 3:4, preferably 1086 x 1448 pixels.
+INPUT ROLES: Image 1 is the exact real Tower A entrance photograph to PLACE as the inset. Image 2 is the finished brand/layout TEMPLATE. Copy Image 2's layout, border, typography family, spacing, colour scheme and photo treatment faithfully, but use Image 1 as the photograph and the exact new text below. This is a layout/compositing task: retain the actual photograph, do not reimagine or redraw the building.
+STYLE: warm cream #FFF8F5 background, thin pale pink rounded rectangular outer border with comfortable edges. At top centred small cocoa #4A3527 "128am Cafe" in the same friendly rounded font as template; immediately below a blush pill containing cocoa "STEP 05". Large bold rounded rose #B8496C headline, scaled to fit comfortably in TWO centred lines above photo:
+"At Tower A,"
+"use the intercom again"
+Middle inset photograph with rounded corners, same broad rounded rectangle area as template. Below photo a centred cocoa rounded caption on TWO lines:
+"Call the unit listed in"
+"your order confirmation."
+Bottom footer small cocoa Instagram icon followed by exact "@128am.cafe", matching template. No other written copy.
+PHOTO INVARIANTS: Use the source photo faithfully, preserving real entrance geometry, glass door and reflections, wall surfaces, intercom and actual signage. The silver intercom stays on the LEFT wall in its original location, with black instruction sign ABOVE it; the actual "TOWER A" wall sign stays on the RIGHT in its original location. Do not move, invent, replace, enlarge or redraw signs. Crop some empty ceiling and floor to fit the inset and focus on the entrance, but preserve the complete silver intercom, black sign above it, and Tower A sign on the right.
+Add ONLY a small thin rose rounded rectangular OUTLINE around the LEFT silver intercom body. Draw the outline slightly OUTSIDE its body, leaving the buttons and screen completely unobscured. The outline must NOT cover or cross the black sign above the intercom. No route arrows, no added unit number, no invented floor number, no fake wayfinding signs.
+Match the template's attractive friendly Instagram design with excellent legibility, exact spelling and tidy margins. Preserve the photo as a photo, not illustration, CGI or invented architecture. Do not add new instructions, location details or decorative symbols beyond the template's simple brand treatment.

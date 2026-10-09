@@ -1,0 +1,252 @@
+[
+  {
+    "number": 1,
+    "title": "Ivory studio",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/01-earl-grey-ivory-studio.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "a964846748e95738a303ecfca28e7214cb3914b303dc6158ae91540b7c88aca4"
+  },
+  {
+    "number": 2,
+    "title": "Pale blush",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/02-earl-grey-pale-blush.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "619ccfc883bd7e84d83398b8e9da7e064a401e756038974788e8f7007f92d5ca"
+  },
+  {
+    "number": 3,
+    "title": "Pale sage",
+    "product": "Earl grey matcha latte",
+    "palette": "Sage",
+    "file": "images/03-earl-grey-pale-sage.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "2efedc97e264d557d486662effa564cad1754bf1a4296119ac33acaf1256dac9"
+  },
+  {
+    "number": 4,
+    "title": "Soft side shadow",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/04-earl-grey-soft-side-shadow.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "feee957cdb58351157e9d72396e70c62cdac36d2cb15a8fca172940ff379e1c0"
+  },
+  {
+    "number": 5,
+    "title": "Blush three-quarter",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/05-earl-grey-blush-three-quarter.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "510d43f5c2753e189d8e04054ac902d2596ec911a7afb88d60a8e5ec7ee27711"
+  },
+  {
+    "number": 6,
+    "title": "Bright ivory",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/06-earl-grey-high-key-ivory.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "d6c60c06ec07c6361498b0c6af66d536916ea974e64e856be637e4718b073d67"
+  },
+  {
+    "number": 7,
+    "title": "Creamy close-up",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/07-earl-grey-ivory-fine-condensation.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "360d21b95b0a5922ef3b1ae800adf36003a3532ffd6eee861366a38dbf942a03"
+  },
+  {
+    "number": 8,
+    "title": "Backlit sage",
+    "product": "Earl grey matcha latte",
+    "palette": "Sage",
+    "file": "images/08-earl-grey-sage-backlit.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "7736b7af99e82f56cfd6952d85a18c4937fa5c881fb0fcf28b6a707604634f1b"
+  },
+  {
+    "number": 9,
+    "title": "Blush reflection",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/09-earl-grey-blush-reflection.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "9cb99b812656c223385f90e089f73f055f2799a1394f88278eeca64520b0de0b"
+  },
+  {
+    "number": 10,
+    "title": "Ivory gradient",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/10-earl-grey-ivory-gradient.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "60b958fec057a00f0bbc1ee16598ed480f5d2d67fbddcafb2ae470ed41169746"
+  },
+  {
+    "number": 11,
+    "title": "Blush hero",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/11-earl-grey-low-angle-blush.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "fe26de05ce68645a69e6ec4705843487f7a748c668a7d9f2b1c54fac8224f5e5"
+  },
+  {
+    "number": 12,
+    "title": "Sage soft shadow",
+    "product": "Earl grey matcha latte",
+    "palette": "Sage",
+    "file": "images/12-earl-grey-sage-oval-shadow.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "95363b90b99b97ef0287e9fd55c04cb96fa9eb39a9fab8df1eabf281cefa33fa"
+  },
+  {
+    "number": 13,
+    "title": "Cream horizon",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/13-earl-grey-cream-horizon.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "4a82ba3c4b9501570582b986f9f9375f2f51344fc003c734a07c64597513fa83"
+  },
+  {
+    "number": 14,
+    "title": "Blush light patch",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/14-earl-grey-blush-light-patch.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "3d2669674dc05ee9949df9512ef9e5bef25eb255138a7171699cd64b63931697"
+  },
+  {
+    "number": 15,
+    "title": "Ivory rim light",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/15-earl-grey-ivory-rim-light.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "0e12953b2df4e5618ec96dceb779d414c9d8e9f0541f82f2865a3a83df07246c"
+  },
+  {
+    "number": 16,
+    "title": "Sage and ivory",
+    "product": "Earl grey matcha latte",
+    "palette": "Sage",
+    "file": "images/16-earl-grey-sage-ivory-horizon.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "ecd3f5136439be7668ea34f74860a4bb2df02eb2da1faddaf4c911d88ab218dd"
+  },
+  {
+    "number": 17,
+    "title": "Blush elevated view",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/17-earl-grey-blush-high-angle.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "0f25554cc1845b2a46e8ad9570e0fd0bf7d8ef3e51ddb87f511fff9d7e75bc76"
+  },
+  {
+    "number": 18,
+    "title": "Pool of light",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/18-earl-grey-pool-of-light.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "d7858e36f19d486b65485635d8a4f0652edcd05012aa0a265091d9c7de6dbf37"
+  },
+  {
+    "number": 19,
+    "title": "Blush angled view",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/19-earl-grey-blush-angle.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "4998562619619c83e2d432c20e54b892ac710d2a630400b00af986cfa2995dd0"
+  },
+  {
+    "number": 20,
+    "title": "Sage sweep",
+    "product": "Earl grey matcha latte",
+    "palette": "Sage",
+    "file": "images/20-earl-grey-sage-sweep.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "8d3f7e3e71b1532e582f0c1a1b80670937a6bed2f93f417e733a67b97f4f84f6"
+  },
+  {
+    "number": 21,
+    "title": "Ivory cast shadow",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/21-earl-grey-ivory-soft-shadow.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "c006b87699e38dc1ca2521c273eb254fcc40545a591fb5dd4a13d7be5eb7ecf5"
+  },
+  {
+    "number": 22,
+    "title": "Blush and cream",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/22-earl-grey-blush-cream-horizon.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "5052f8e1d7b9433533854c2fd694188bf41d06aabab9516734157ec1b24177d0"
+  },
+  {
+    "number": 23,
+    "title": "Ivory reflection",
+    "product": "Earl grey matcha latte",
+    "palette": "Cream",
+    "file": "images/23-earl-grey-soft-reflection.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "5190d959232b16350cf6c066ef385489a879518b3ec036d60690017f17d3b3d9"
+  },
+  {
+    "number": 24,
+    "title": "Sage overhead view",
+    "product": "Earl grey matcha latte",
+    "palette": "Sage",
+    "file": "images/24-earl-grey-sage-overhead.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "42786cdc1bbc30dabc76c0bc4d32929313c5ddd9193449cb004aba078c18e0dd"
+  },
+  {
+    "number": 25,
+    "title": "Pink catalogue",
+    "product": "Earl grey matcha latte",
+    "palette": "Blush",
+    "file": "images/25-earl-grey-pale-pink-hero.png",
+    "width": 1086,
+    "height": 1448,
+    "sha256": "2add87d8b3320d286103cd38537cbbaaf724a8fccd3d8b500aee0096010d53e6"
+  }
+]

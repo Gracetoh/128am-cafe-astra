@@ -1,0 +1,24 @@
+128am Cafe | Matcha Latte collection of 25
+
+25 individual portrait PNGs inspired by the user's seven matcha references.
+The original Matcha Latte photograph guided cup shape, milk/matcha layering,
+and the girl-and-two-eared-rabbit sticker.
+
+Most images show the clean low sipping lid from the original drink.
+01 and 19 use open cups for conceptual pouring/ingredient compositions.
+06 and 21 use open cups for editorial ice close-ups. These are intentionally
+styled photographic concepts; 06 includes a deliberate product crop.
+
+All images were created with the built-in image generation tool.
+They are generated product marketing interpretations of the original photo,
+not unedited photographs. Exact prompts and any refinements are in prompts/.
+Typography is rendered into the PNGs; no editable font file is supplied.
+The style references' third-party branding and health claims were not used.
+
+Images have been visually checked for product name, brand, logo ears,
+and unintended cropping. Native dimensions are listed in image-index.json.
+Open gallery.html to compare the images and download individual PNGs.
+The ZIP contains all 25 PNGs, prompts, this note, the brief, image index
+and gallery. Previous collections remain unchanged.
+
+Product reference: /Users/gracetoh/Downloads/IMG_1992.jpg

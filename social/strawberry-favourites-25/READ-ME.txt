@@ -1,0 +1,23 @@
+128am Cafe | Strawberry favourites collection of25
+
+25 new individual portrait PNGs based on the user's favourite matcha themes
+and five additional references. The actual strawberry cup photograph guides
+the cup shape and branding. All variants include pink strawberry cold foam,
+creamy green matcha and milk, and a red strawberry syrup base.
+
+Finished drink views retain the clear dome lid. Conceptual pouring,
+ingredient and close-up images may intentionally use an open cup.
+These are generated marketing interpretations, not unedited product photos.
+No other cafe's branding, health claims, prices or dates were copied.
+The slogan 'Iced. Creamy. Lovely.' is omitted.
+
+Created with the built-in image generation tool. Exact prompts, including
+refinements where used, are saved in prompts/. Text is rendered into the PNGs.
+Native portrait dimensions are recorded in image-index.json.
+Most are1086x1448; two designs retain the tool's slightly taller portrait ratio.
+
+Open gallery.html to view all25 and download individual images.
+The ZIP includes all25 PNGs, exact prompts, this note, the creative brief,
+image index and gallery. Earlier collections remain unchanged.
+
+Product photo: /Users/gracetoh/Downloads/IMG_1996.jpg

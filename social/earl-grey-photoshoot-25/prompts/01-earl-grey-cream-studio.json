@@ -1,0 +1,12 @@
+{
+  "index": 1,
+  "product": "earl grey matcha latte",
+  "concept": "Cream studio",
+  "method": "built-in image_gen",
+  "sources": [
+    "/Users/gracetoh/Downloads/IMG_2010.jpg",
+    "/Users/gracetoh/Downloads/IMG_2017.jpg"
+  ],
+  "prompt": "Use case: product-mockup. Create a clean professional photorealistic catalog hero of this EXACT 128am Cafe earl grey matcha latte from the two supplied product photos. Image1 is front view for actual cup shape, sticker and layers, Image2 high view is for the cold foam texture under its dome. Portrait3:4, high resolution, one complete cup centered with generous margins. Warm cream seamless tabletop/backdrop, soft beautiful studio daylight, appetising natural matcha green, ivory/light beige earl grey infused milk, clear transparent plastic refractions.\n\nRequired product cleanup: remove ALL spilled or overflowing green drink and cream on the OUTSIDE of the dome lid, snap rim, flange and cup. The outer rim must be perfectly clear, clean, dry plastic with no green foam ring or gunk trapped around the outer edge. The dome snaps neatly onto the cup. Keep beverage and foam fully INSIDE cup/dome, a little clear headspace, tidy cold foam with gentle natural mounds and fine matcha powder dusting. Do not change cold foam into a tall piped whipped cream tower. Add a DISTINCT thin translucent amber-brown Earl Grey syrup layer at very bottom, about 4-5% of liquid height, below beige infused milk. A visible thin layer, not a thick honey puddle, not dark chocolate, not red strawberry. Preserve actual squat sundae cup proportions, clear dome shape, rich matcha over beige milk, natural inside marbling, exact girl-with-bunny mascot sticker and 128am Cafe nameplate. Bunny has two ears. Retouch only for clean presentation; no imaginary toppings, no extra drink, no fruit, no straw.\n\nTypography as consistent 128am Cafe catalogue: large bold rounded Fredoka-style lowercase text at top exactly \"earl grey\" on first line and \"matcha latte\" on second line, dark rose #B8496C. Small cocoa \"128am Cafe\" underneath. Keep whole title and complete cup in frame with safe margins. Photograph dominant with believable mild condensation lower on cup only. Clean aesthetic warm cream #FFF8F5 and subtle blush #FDE5EB. No extra text, no price, no claim, no watermark, no collage.",
+  "output": "images/01-earl-grey-cream-studio.png"
+}

@@ -1,0 +1,46 @@
+MODE: Built-in imagegen, ads-marketing reference-guided generation.
+
+INITIAL PROMPT
+
+Use case: ads-marketing. Create ONE NEW 1086x1448 portrait 3:4 campaign poster for 128am Cafe.
+INPUT ROLES: Image 1 is a STYLE reference only: dreamlike hazy olive and blush backdrop, floating berries, elegant editorial serif headline and fine curved ingredient arrows. Do NOT copy its tall cup, foam garnish, text, ingredient claims or watermarks. Image 2 is the approved PRODUCT reference: actual short broad clear sundae cup, dome lid, rounded base, small girl and TWO-ear rabbit 128am mascot sticker, red strawberry syrup, cream milk, green matcha and PINK cold foam. Image 3 is the real photograph: use the true cup proportions, ordinary smooth dry clear plastic and natural softness. Foam colour is pink as image 2.
+COMPOSITION: Airy nostalgic playful graphic, visibly different from the earlier cream studio poster. Softly mottled olive/sage green and dusty blush pink haze fills the whole page, faint background grain and gentle glow, no room or window or tabletop. Full branded drink floats calmly in the lower central area, straight upright, full dome and rounded base visible. Cup approximately x290–810 y500–1210. Use only three or four softly floating real strawberries around the outer composition, some slightly out of focus, not touching the cup. Berries are outside the cup ONLY: absolutely no strawberry garnish on foam, no fruit inside dome. Photographic product, not a painting or 3D render.
+TYPOGRAPHY: Elegant fine high-contrast serif headline centred in upper area: exact "Strawberry" in deep dusty rose then "Matcha Latte" in dark olive or warm cream with adequate contrast. Small readable "128am Cafe" beneath heading. These together say exactly "Strawberry Matcha Latte". Ingredient callouts in modest, readable elegant italic serif, dark cocoa or deep rose, with delicate curved cream/dark-rose leader arrows, not heavy diagram lines. Use ONLY these three callouts verbatim: "Strawberry cold foam" located to upper-right of cup, its arrow tip touches the PINK FOAM band immediately under lid, not the clear dome; "Creamy milk" located to lower-left, its arrow tip touches the PALE MILK portion above red syrup; "Strawberry syrup" below/right, its arrow tip touches the RED BOTTOM LAYER. Leaders must avoid the front mascot sticker. Each label can wrap to two lines. No tiny copy. All text must remain at least 8% from edges and be fully legible. No other words, claims, slogans, prices, dates or em dashes.
+PRODUCT PRESERVATION: Exact short broad sundae cup as images 2 and 3, never the tall vessel in image 1. Girl plus rabbit with TWO ears and small "128am" label. Clear CLOSED dome, dry clean flange/rim, no overflow or drips. A continuous soft PINK cold foam cap under dome, green matcha and creamy milk loose natural marbling, deep red syrup bottom. No extra topping or garnish. Simple calm clear plastic with soft large reflections, no conspicuous exterior water droplets or sparkly points. No honeycomb, cellular, crackle or polygon outlines; no faceted diamond ice. Smooth liquids and low microcontrast, natural softly diffused photographic illumination with slight optical softness and gentle highlight bloom. Product remains appetising and recognizable, not oversharpened CGI. Background carries the grain, never fake product texture.
+Palette: cream #FFF8F5, blush #FDE5EB, dusty rose #B8496C, sage #E7F0DC, olive #526F35, cocoa #4A3527. Balanced dreamy colour and enough contrast for readable elegant type.
+
+REFERENCE INPUTS
+
+[
+  "/var/folders/mg/fthkkjzx0lgbswf9zh3lc0800000gn/T/codex-clipboard-9911280f-8255-433a-a5ac-638efc3d875a.png",
+  "/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-dreamy-10/images/06-strawberry-still-life.png",
+  "/Users/gracetoh/Downloads/IMG_1996.jpg"
+]
+
+INITIAL GENERATED SOURCE
+
+/Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-358a3a0e-9b71-48a7-9cf6-ab640d79e9dc.png
+
+TARGETED REFINEMENT PROMPT
+
+Refine only the text positions and one ingredient arrow of this completed portrait poster. Preserve ALL photographs and their material rendering, cup, closed clear dome, pink foam, layers, mascot, berries, background, exact typography style, exact wording, colours, composition and dimensions. NO new objects, no new droplets, no sharpening.
+1. Move the upper headline down about 35 pixels and reduce its overall size about 5 percent so that the topmost letter begins at least 116 pixels below the top edge. Preserve "Strawberry" then "Matcha Latte" with small "128am Cafe".
+2. Move "Creamy milk" approximately 30 pixels right. Move both right-side callout labels approximately 45 pixels left, slightly reduce their size if needed so no characters enter the outermost 8 percent page margins. Keep the exact wording: "Strawberry cold foam", "Creamy milk", "Strawberry syrup".
+3. The "Strawberry cold foam" arrow currently points at the clear lid rim. Extend/recurve ONLY that arrow so its arrowhead unmistakably points to the actual PINK FOAM BAND just below the wide clear plastic flange, near x740 y803 in the existing 1086x1448 image. It must not end on the rim or the clear dome. The other two arrows already point at the correct pale milk and red syrup layers and must remain accurate. Avoid logo.
+Everything else remains unchanged. Maintain readable crisp typography on the dreamy soft photo. Output one 1086x1448 portrait.
+
+REFINEMENT INPUTS
+
+[
+  "/Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-358a3a0e-9b71-48a7-9cf6-ab640d79e9dc.png"
+]
+
+FINAL GENERATED SOURCE
+
+/Users/gracetoh/.codex/generated_images/01a111a7-b3f6-7493-9a36-686f4ce3542a/exec-fa8b73ea-85bf-4fb7-89e6-6a6f2303986d.png
+
+FINAL WORKSPACE OUTPUT
+
+/Users/gracetoh/Documents/ChatGPT/128am Cafe/output/social/strawberry-reference-5/images/03-berry-daydream.png
+
+QA: 1086x1448 portrait. Exact title, brand and three callouts readable; full cup/dome/base, girl and two-ear rabbit sticker, pink foam, red syrup/milk/matcha. Berries outside cup only. Calm soft product reflections, no conspicuous exterior droplets; no additional claims. Foam arrow meets pink area behind clear flange; milk and syrup arrows accurate.
