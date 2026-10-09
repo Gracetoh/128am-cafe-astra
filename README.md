@@ -8,6 +8,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 
 ## Latest collections
 
+- [Soft launch · Sunday, 11 October 2026](social/soft-launch-11-october-2026/)
 - [Earl Grey favourites: 50 images](social/earl-grey-favourites-50/)
 - [Strawberry favourites: 25 images](social/strawberry-favourites-25/)
 - [Matcha collection: 25 images](social/matcha-reference-25/)
@@ -29,6 +30,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 | [product-catalogue-2026-10](social/product-catalogue-2026-10/) | 5 |
 | [product-photoshoot-25](social/product-photoshoot-25/) | 115 |
 | [product-photoshoot-25-realistic](social/product-photoshoot-25-realistic/) | 35 |
+| [soft-launch-11-october-2026](social/soft-launch-11-october-2026/) | 3 |
 | [strawberry-dreamy-10](social/strawberry-dreamy-10/) | 24 |
 | [strawberry-ethereal](social/strawberry-ethereal/) | 18 |
 | [strawberry-favourites-25](social/strawberry-favourites-25/) | 69 |

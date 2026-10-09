@@ -1,7 +1,7 @@
 {
-  "collections": 16,
-  "files": 684,
-  "bytes": 1064279840,
+  "collections": 17,
+  "files": 687,
+  "bytes": 1066970349,
   "assets": [
     {
       "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
@@ -1320,8 +1320,8 @@
     },
     {
       "path": "social/index.html",
-      "bytes": 4816,
-      "sha256": "d8ecc9aef7096e864f72a2f6a422229728dd500e32ac905d7d81f1691a6189aa"
+      "bytes": 5121,
+      "sha256": "8d0320bf94a167b19569abc54b78a7394bfa7934b16b8048439d5e92f4b013d6"
     },
     {
       "path": "social/matcha-reference-25/128am-Cafe-Matcha-Collection-25.zip",
@@ -2612,6 +2612,21 @@
       "path": "social/product-photoshoot-25-realistic/images/25-matcha-and-strawberry-warm-afternoon.png",
       "bytes": 1787809,
       "sha256": "180f63fc455c30954888608ce48f2f99bfbad9b6b31c701e3d6e4df151b122f3"
+    },
+    {
+      "path": "social/soft-launch-11-october-2026/gallery.html",
+      "bytes": 1079,
+      "sha256": "ca834d0069b7a93251dd429525466a0b7814d4681a8fd642145b9da1169b7297"
+    },
+    {
+      "path": "social/soft-launch-11-october-2026/images/128am-Cafe-Soft-Launch-Sunday-11-October-2026.png",
+      "bytes": 2684315,
+      "sha256": "fcd46d5c86d8ea1fa51d5c0324690627c792ea888d37d61f93f9746eeb9dd6ea"
+    },
+    {
+      "path": "social/soft-launch-11-october-2026/prompt.txt",
+      "bytes": 4810,
+      "sha256": "25924f612413d6edc4b19e0fd7ea2d709fd4524beb48ae7446783957dbff6229"
     },
     {
       "path": "social/strawberry-dreamy-10/128am-Cafe-Dreamy-Strawberry-10.zip",
