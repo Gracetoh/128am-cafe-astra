@@ -1,7 +1,7 @@
 {
   "collections": 15,
-  "files": 561,
-  "bytes": 857571062,
+  "files": 565,
+  "bytes": 861550401,
   "assets": [
     {
       "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
@@ -2230,8 +2230,8 @@
     },
     {
       "path": "social/strawberry-favourites-25/128am-Cafe-Strawberry-Favourites-25.zip",
-      "bytes": 52799250,
-      "sha256": "279860d56999504d19b700b8189a5ecab9bdee27e319f617f4c9362ef4f29d7d"
+      "bytes": 52823231,
+      "sha256": "59d1f1629ddf08b101bf250c99b8122dbbe72b6d778f7b8e097b9184ab0ded74"
     },
     {
       "path": "social/strawberry-favourites-25/READ-ME.txt",
@@ -2245,13 +2245,13 @@
     },
     {
       "path": "social/strawberry-favourites-25/gallery.html",
-      "bytes": 20235,
-      "sha256": "922b21d619d927121197d081d352717bd4ea8687e2e2a88fb753b19926aa714f"
+      "bytes": 20238,
+      "sha256": "a1dc14b5278b72ca79b551548358352be983313a70e2808a56eae9f3b1ce24e1"
     },
     {
       "path": "social/strawberry-favourites-25/image-index.json",
-      "bytes": 7345,
-      "sha256": "27f177396379befa946ac1f7d3464d61b66e7e0f37fb82f2f4abaa71512d76e5"
+      "bytes": 7344,
+      "sha256": "9c245788ef1479d4eac6bc3d6dd5def40395355deb75ae53c048f6233f4f980f"
     },
     {
       "path": "social/strawberry-favourites-25/images/01-green-halo-grounded-v2.png",
@@ -2267,6 +2267,16 @@
       "path": "social/strawberry-favourites-25/images/02-creamy-script-cup-v2.png",
       "bytes": 2003009,
       "sha256": "0d76615712c88ea349c6d2d34e2633e4db9a7f68a4697c052be6d4a96f41f65b"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/02-creamy-script-reference-v4.png",
+      "bytes": 1989708,
+      "sha256": "c7171bebcf9666af2c2a7a0c826a6589c14ea9e9743de9806d7ea819fae5bd08"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/02-creamy-script-reference-v5.png",
+      "bytes": 1961592,
+      "sha256": "217fb92082f28844608d4d87a4775bf4e2a8efc84623dcb75e78efb670e0b91d"
     },
     {
       "path": "social/strawberry-favourites-25/images/02-creamy-script-slim-v3.png",
@@ -2412,6 +2422,16 @@
       "path": "social/strawberry-favourites-25/prompts/02-creamy-script-cup-v2.txt",
       "bytes": 2464,
       "sha256": "1ec755e814daa1fec096813b9f01c36093a9a91de19c4547182f6adc6f9cea66"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/02-creamy-script-reference-v4.txt",
+      "bytes": 2440,
+      "sha256": "b1354289c4fb57c74a34c92df21fb307315d97ed3613ce50a040c11f3772b48d"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/02-creamy-script-reference-v5.txt",
+      "bytes": 1616,
+      "sha256": "2147b0820883c16475baa1dd13a30d87d72010d2197d4b4f8bc10981d7af6593"
     },
     {
       "path": "social/strawberry-favourites-25/prompts/02-creamy-script-slim-v3.txt",

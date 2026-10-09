@@ -9,13 +9,13 @@
     "sha256": "6f7433474e9f0845ad360fdf0de2098c16c22c6baf953b00351ddb62192403c1"
   },
   {
-    "file": "images/02-creamy-script-slim-v3.png",
+    "file": "images/02-creamy-script-reference-v5.png",
     "title": "Creamy matcha",
-    "description": "A slimmer cup with thick creamy layers and cursive lettering.",
+    "description": "Compact cup proportions based on your chosen reference.",
     "width": 1086,
     "height": 1448,
     "mode": "RGB",
-    "sha256": "6f69486301e5259035a03f28130e23586bb40e5ee2f8cac37487ac39806d3f12"
+    "sha256": "217fb92082f28844608d4d87a4775bf4e2a8efc84623dcb75e78efb670e0b91d"
   },
   {
     "file": "images/03-blush-olive.png",
