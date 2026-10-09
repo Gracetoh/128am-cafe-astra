@@ -1,0 +1,8 @@
+Use case: precise-object-edit
+Asset type: portrait 128am Cafe social campaign poster
+Input image: edit target, the existing Green Halo strawberry matcha poster.
+Primary request: correct ONLY the floating cup. Make the complete cup sit naturally and physically on the existing pale pink tabletop. Its bottom edge must meet the surface exactly with a small tight dark contact shadow directly attached to the base, then soft realistic shadow falloff. There must be NO air gap and NO disconnected oval hover shadow. Move the entire cup downward slightly as needed to rest it on the table; keep the cup's existing width, height, proportions and shape unchanged.
+Preserve the green halo, soft ethereal light, blurred green background and leaves, pale pink surface, both strawberries, and the entire elegant composition.
+Preserve product details: clear dome lid, pink strawberry cold foam, thick creamy green matcha and milk, red strawberry layer at bottom, original 128am Cafe girl-and-rabbit sticker with TWO rabbit ears.
+Text (verbatim, unchanged): "Strawberry", "Matcha Latte", "128am Cafe". Preserve the same fonts, colours, positions, scale and readability.
+Constraints: this is a minimal grounding correction, not a redesign. Keep the portrait canvas and the natural soft photography. No new objects, no pedestal, no levitation, no glow under the cup, no new text.

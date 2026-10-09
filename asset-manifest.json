@@ -1,7 +1,7 @@
 {
   "collections": 15,
-  "files": 553,
-  "bytes": 850031583,
+  "files": 559,
+  "bytes": 855709801,
   "assets": [
     {
       "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
@@ -725,8 +725,8 @@
     },
     {
       "path": "social/index.html",
-      "bytes": 4572,
-      "sha256": "58e78b98d2a0411de4b5f633c805dd6b5365bbbcbaddbe4db66bc343bc5708ed"
+      "bytes": 4584,
+      "sha256": "2c1a8b0f2ac2f55fdc113bb804084a6871efcdb55e4c2531cd8be0ff89f55856"
     },
     {
       "path": "social/matcha-reference-25/128am-Cafe-Matcha-Collection-25.zip",
@@ -2230,8 +2230,8 @@
     },
     {
       "path": "social/strawberry-favourites-25/128am-Cafe-Strawberry-Favourites-25.zip",
-      "bytes": 53183218,
-      "sha256": "d7c3e3ae867d65dabb33a60304f6f6e949ca35ebf8a2d88bac1a498044afafb4"
+      "bytes": 52875566,
+      "sha256": "e182fee721ba61d105f0f78a43189cac7cf7418c658c8a446700f3db39bfa7d7"
     },
     {
       "path": "social/strawberry-favourites-25/READ-ME.txt",
@@ -2245,18 +2245,28 @@
     },
     {
       "path": "social/strawberry-favourites-25/gallery.html",
-      "bytes": 20035,
-      "sha256": "207aaecd447453f5ea50adfbbdab258da75089a5880670ac0dc7d7df23de19d9"
+      "bytes": 20254,
+      "sha256": "32be32ba3b79aa8e4a89b64092a5cdc6e77463a8b1e630689508339025a95329"
     },
     {
       "path": "social/strawberry-favourites-25/image-index.json",
-      "bytes": 7260,
-      "sha256": "1e470bf9c3017c15d71330f27bb7e046c671806179b2cb846a89f5fa5958a724"
+      "bytes": 7355,
+      "sha256": "6378c009dce6daae6560ea7290a377953cd328ddbf07334052f2c931d3223622"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/01-green-halo-grounded-v2.png",
+      "bytes": 2006124,
+      "sha256": "6f7433474e9f0845ad360fdf0de2098c16c22c6baf953b00351ddb62192403c1"
     },
     {
       "path": "social/strawberry-favourites-25/images/01-green-halo.png",
       "bytes": 2181689,
       "sha256": "08c6a61c2239fd9ef76c82ef332ecd338797038040190390ae30ec5da468acc3"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/02-creamy-script-cup-v2.png",
+      "bytes": 2003009,
+      "sha256": "0d76615712c88ea349c6d2d34e2633e4db9a7f68a4697c052be6d4a96f41f65b"
     },
     {
       "path": "social/strawberry-favourites-25/images/02-creamy-script.png",
@@ -2282,6 +2292,11 @@
       "path": "social/strawberry-favourites-25/images/06-paper-collage.png",
       "bytes": 2922973,
       "sha256": "e85401d38834e53626e60924b90b404feb9a476fca2c219a2ded8398e789c58e"
+    },
+    {
+      "path": "social/strawberry-favourites-25/images/07-falling-ingredients-chunks-v2.png",
+      "bytes": 1970827,
+      "sha256": "550bf4a6a909074408c0ac3bd63e9356a564618c2b2671586de254359af7bb1c"
     },
     {
       "path": "social/strawberry-favourites-25/images/07-falling-ingredients.png",
@@ -2379,9 +2394,19 @@
       "sha256": "ecf4a115ff201a042e470557476bd6824e08b4ba0dbbfb916da1ecc5c037183a"
     },
     {
+      "path": "social/strawberry-favourites-25/prompts/01-green-halo-grounded-v2.txt",
+      "bytes": 1365,
+      "sha256": "91fd3ee7c9488c73dfb25324cc471918823a0b5b50439e6cb89912f74e87f068"
+    },
+    {
       "path": "social/strawberry-favourites-25/prompts/01-green-halo.txt",
       "bytes": 1580,
       "sha256": "56482b2ca22b69aca93585eeb59f564ef8f6692e7f70175781ab7562665431eb"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/02-creamy-script-cup-v2.txt",
+      "bytes": 2464,
+      "sha256": "1ec755e814daa1fec096813b9f01c36093a9a91de19c4547182f6adc6f9cea66"
     },
     {
       "path": "social/strawberry-favourites-25/prompts/02-creamy-script.txt",
@@ -2407,6 +2432,11 @@
       "path": "social/strawberry-favourites-25/prompts/06-paper-collage.txt",
       "bytes": 1785,
       "sha256": "93cc44dafe76ca38aefbfc38c25c43db5e8200a60e4eec6ec70f22af3b588216"
+    },
+    {
+      "path": "social/strawberry-favourites-25/prompts/07-falling-ingredients-chunks-v2.txt",
+      "bytes": 1755,
+      "sha256": "a14d5503db70e1480cf41adfe6a317ecebd4d89825b8b6515f7e30de6153887a"
     },
     {
       "path": "social/strawberry-favourites-25/prompts/07-falling-ingredients.txt",

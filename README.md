@@ -29,7 +29,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 | [product-photoshoot-25-realistic](social/product-photoshoot-25-realistic/) | 35 |
 | [strawberry-dreamy-10](social/strawberry-dreamy-10/) | 24 |
 | [strawberry-ethereal](social/strawberry-ethereal/) | 18 |
-| [strawberry-favourites-25](social/strawberry-favourites-25/) | 57 |
+| [strawberry-favourites-25](social/strawberry-favourites-25/) | 63 |
 | [strawberry-pink-foam-assets](social/strawberry-pink-foam-assets/) | 17 |
 | [strawberry-reference-5](social/strawberry-reference-5/) | 16 |
 | [strawberry-vision-board](social/strawberry-vision-board/) | 18 |

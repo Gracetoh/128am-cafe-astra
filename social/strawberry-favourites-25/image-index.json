@@ -1,21 +1,21 @@
 [
   {
-    "file": "images/01-green-halo.png",
+    "file": "images/01-green-halo-grounded-v2.png",
     "title": "Green halo",
-    "description": "A dreamy green glow with blush highlights.",
+    "description": "A dreamy green glow with the cup resting naturally on the surface.",
     "width": 1086,
     "height": 1448,
     "mode": "RGB",
-    "sha256": "08c6a61c2239fd9ef76c82ef332ecd338797038040190390ae30ec5da468acc3"
+    "sha256": "6f7433474e9f0845ad360fdf0de2098c16c22c6baf953b00351ddb62192403c1"
   },
   {
-    "file": "images/02-creamy-script.png",
+    "file": "images/02-creamy-script-cup-v2.png",
     "title": "Creamy matcha",
-    "description": "Thick creamy layers with bold and cursive lettering.",
+    "description": "The real cup proportions with thick creamy layers and cursive lettering.",
     "width": 1086,
     "height": 1448,
     "mode": "RGB",
-    "sha256": "2fdc6a917d16595a08332a9a7a1900e3ea599e07ad13fd78f1426b8a50c61169"
+    "sha256": "0d76615712c88ea349c6d2d34e2633e4db9a7f68a4697c052be6d4a96f41f65b"
   },
   {
     "file": "images/03-blush-olive.png",
@@ -54,13 +54,13 @@
     "sha256": "e85401d38834e53626e60924b90b404feb9a476fca2c219a2ded8398e789c58e"
   },
   {
-    "file": "images/07-falling-ingredients.png",
+    "file": "images/07-falling-ingredients-chunks-v2.png",
     "title": "Falling ingredients",
-    "description": "An airy display of the drink ingredients.",
+    "description": "An airy ingredient display with strawberry chunks in the syrup.",
     "width": 1086,
     "height": 1448,
     "mode": "RGB",
-    "sha256": "87b9beb296a05e797b699e79bc9a71e37c87dbc413808928e9fe0a5be8e7bcf5"
+    "sha256": "550bf4a6a909074408c0ac3bd63e9356a564618c2b2671586de254359af7bb1c"
   },
   {
     "file": "images/08-creamy-closeup.png",
