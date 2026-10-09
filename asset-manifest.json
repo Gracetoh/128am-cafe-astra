@@ -1,7 +1,7 @@
 {
   "collections": 16,
-  "files": 681,
-  "bytes": 1062338362,
+  "files": 684,
+  "bytes": 1064279840,
   "assets": [
     {
       "path": "social/earl-grey-cursive-tests-10/10-cursive-preview.png",
@@ -145,8 +145,8 @@
     },
     {
       "path": "social/earl-grey-favourites-50/128am-Cafe-Earl-Grey-50-Part-1.zip",
-      "bytes": 48713339,
-      "sha256": "81a0c16e7759841a81a132bea81df0093dca76e3ca2b43d99322709f90e5febe"
+      "bytes": 48654297,
+      "sha256": "5e2715ccd991c08f112a3da0d40657b3d316b8e42b95a5ab5366b88ea4dbdfd5"
     },
     {
       "path": "social/earl-grey-favourites-50/128am-Cafe-Earl-Grey-50-Part-2.zip",
@@ -155,18 +155,18 @@
     },
     {
       "path": "social/earl-grey-favourites-50/READ-ME.txt",
-      "bytes": 1219,
-      "sha256": "ec05d947f8f3524a7af326211bd016ec564651cc64ea482ee5053e7d84f65b07"
+      "bytes": 1513,
+      "sha256": "5d2745760006480bff90b5ed2a4bb82757322ce55f7acdf94a981b1560b943c8"
     },
     {
       "path": "social/earl-grey-favourites-50/creative-brief.txt",
-      "bytes": 12695,
-      "sha256": "da335f9b0862f257f6b113368cd836b35a528f05cd365fdb8a37eee39ce473d4"
+      "bytes": 12888,
+      "sha256": "583c472bc353d6492c0b0fdaf63f2b2e5a969cc380946f30e4eaac7a81cfe4a8"
     },
     {
       "path": "social/earl-grey-favourites-50/gallery-part-1.html",
-      "bytes": 19705,
-      "sha256": "2a4e8e4f9ab1bef1034ce3827b909f99c89a6da5ae6f1f81f6b2a452f727be20"
+      "bytes": 19797,
+      "sha256": "7a5f2ddd8e63be6993b0c4d77ac0bdd64e82a6e52714cad0078d08420585511f"
     },
     {
       "path": "social/earl-grey-favourites-50/gallery-part-2.html",
@@ -175,18 +175,18 @@
     },
     {
       "path": "social/earl-grey-favourites-50/gallery.html",
-      "bytes": 35907,
-      "sha256": "3804092f2fadc0ceb7b7aa45a9e44b9475c759e24cc4f74ce4a96ee21ea5088d"
+      "bytes": 35999,
+      "sha256": "bb792efd892b4de427bc6e5cde24ba864daceb86b07c47ffbdccc44373ecbcf5"
     },
     {
       "path": "social/earl-grey-favourites-50/generation-plan.json",
-      "bytes": 17056,
-      "sha256": "3d2946e2166c5eb883061cde37a7fb98c323c4448c21236d5a5d4a36a3f91881"
+      "bytes": 17893,
+      "sha256": "66fa8629dba3824a641a8eee7da16754d848c431cfcadb12e64c2eefd174db67"
     },
     {
       "path": "social/earl-grey-favourites-50/image-index-part-1.json",
-      "bytes": 7754,
-      "sha256": "d3574fbdf7cd2051ddff93dff83547c2c4853e69df12ce76f7771eba9f8aa453"
+      "bytes": 7801,
+      "sha256": "b3f9103c6976b4a3e9a8227df643cd1e98979321db4ede94ec1c238490b90f02"
     },
     {
       "path": "social/earl-grey-favourites-50/image-index-part-2.json",
@@ -195,8 +195,8 @@
     },
     {
       "path": "social/earl-grey-favourites-50/image-index.json",
-      "bytes": 15714,
-      "sha256": "d53239ddd82292cb3a1b3ca8e3e5ec664d48e509857523e67746974c2bdab069"
+      "bytes": 15761,
+      "sha256": "58b8d1165d68163a141d1994252fc6763f8792fde2516b35c829a6891f5a6b1f"
     },
     {
       "path": "social/earl-grey-favourites-50/images/01-green-halo.png",
@@ -227,6 +227,11 @@
       "path": "social/earl-grey-favourites-50/images/06-paper-collage.png",
       "bytes": 2446906,
       "sha256": "c436436d42d3d0bc1ab7c5673774f7e2d74474d64b7c8eee922bca464fefa081"
+    },
+    {
+      "path": "social/earl-grey-favourites-50/images/07-falling-ingredients-earl-grey-cold-foam-v2.png",
+      "bytes": 1996608,
+      "sha256": "4a2f140e3954fa8d04f5b3cac087ebfc55bf309442b3900750ce65b9558c14f3"
     },
     {
       "path": "social/earl-grey-favourites-50/images/07-falling-ingredients.png",
@@ -479,6 +484,11 @@
       "sha256": "769f659dd958f0713478cdc6813953ff4f706b50568c84240e22c1f07ace2620"
     },
     {
+      "path": "social/earl-grey-favourites-50/prompts/07-falling-ingredients-earl-grey-cold-foam-v2.txt",
+      "bytes": 1699,
+      "sha256": "530f6430bfe6b1c4e799808b235b93da39aa2675eba615d4d9a446fe5447ff53"
+    },
+    {
       "path": "social/earl-grey-favourites-50/prompts/07-falling-ingredients.txt",
       "bytes": 3240,
       "sha256": "1aa178c0e2f1692b07d412f48edb7bcb4b38bfcfd5bbbb8877e7cca9a51ec8cc"
@@ -717,6 +727,11 @@
       "path": "social/earl-grey-favourites-50/qa/agent-c.txt",
       "bytes": 1118,
       "sha256": "26ba77f4b15bbc1e076a576d96392c344a4d65853e1b789c834eb2db1d67d3e6"
+    },
+    {
+      "path": "social/earl-grey-favourites-50/qa/cold-foam-revision.json",
+      "bytes": 611,
+      "sha256": "e8bd69b856241d7ec1e09f944a9c8586f2aaefbe57b51a0d1202ed2535ba9a07"
     },
     {
       "path": "social/earl-grey-favourites-50/qa/root-review.txt",

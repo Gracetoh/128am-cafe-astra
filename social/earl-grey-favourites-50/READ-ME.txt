@@ -19,3 +19,8 @@ Downloads are split into two ZIPs so each is manageable. After extracting
 Part 1, open gallery-part-1.html to view images 01–25. After extracting
 Part 2, open gallery-part-2.html to view images 26–50. Each includes its
 matching prompts. Extract both into one folder to reunite the collection.
+
+2026-10-09 targeted revision: image 07 now identifies and depicts the
+topping as Earl Grey cold foam. Other 49 images are unchanged. The original
+07 image and prompt are retained locally; the gallery and Part 1 download
+select the corrected v2 image. Use Earl Grey cold foam in future briefs.

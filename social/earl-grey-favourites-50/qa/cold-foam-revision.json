@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-09",
+  "number": 7,
+  "reason": "The topping is Earl Grey cold foam, not plain cream.",
+  "previous_file": "images/07-falling-ingredients.png",
+  "selected_file": "images/07-falling-ingredients-earl-grey-cold-foam-v2.png",
+  "prompt": "prompts/07-falling-ingredients-earl-grey-cold-foam-v2.txt",
+  "sha256": "4a2f140e3954fa8d04f5b3cac087ebfc55bf309442b3900750ce65b9558c14f3",
+  "scope": "Only image 07 regenerated; other 49 selected images unchanged.",
+  "qa": "Root visually confirmed the Earl Grey cold foam label, pale tea foam, preserved cup proportions, logo, syrup and typography."
+}

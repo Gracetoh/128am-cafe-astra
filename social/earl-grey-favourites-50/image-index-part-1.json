@@ -61,13 +61,13 @@
   },
   {
     "number": 7,
-    "file": "images/07-falling-ingredients.png",
+    "file": "images/07-falling-ingredients-earl-grey-cold-foam-v2.png",
     "title": "Falling ingredients",
     "product": "Earl Grey Matcha Latte",
     "width": 1086,
     "height": 1448,
-    "sha256": "8f23567ca62d649b02f711847ec1f9083994f1f2bc4c6eac0dd453e5756e3a11",
-    "prompt": "prompts/07-falling-ingredients.txt"
+    "sha256": "4a2f140e3954fa8d04f5b3cac087ebfc55bf309442b3900750ce65b9558c14f3",
+    "prompt": "prompts/07-falling-ingredients-earl-grey-cold-foam-v2.txt"
   },
   {
     "number": 8,

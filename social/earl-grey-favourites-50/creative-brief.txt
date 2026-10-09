@@ -104,3 +104,7 @@ Exact required product text 'Earl Grey Matcha Latte' and brand '128am Cafe', spe
 49-syrup-layer-detail: Closer product portrait focused on a thin golden tea-brown Earl Grey syrup layer beneath creamy milk and rich green matcha. Entire compact domed cup and sticker readable, taupe-olive background, cream restrained title.
 
 50-signature-finale: Refined hero poster: full compact domed cup on travertine, forest-to-sage soft gradient with ivory halo, elegant blush cursive Earl Grey above cream serif Matcha Latte, small128am Cafe. Balanced signature finish, grounded and softly lit.
+
+PRODUCT CLARIFICATION — 2026-10-09
+The topping is Earl Grey cold foam, not plain cream. Image 07 was regenerated
+to show and label this correctly; the other 49 images were not regenerated.
