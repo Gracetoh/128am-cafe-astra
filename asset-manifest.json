@@ -1,7 +1,7 @@
 {
-  "collections": 19,
-  "files": 713,
-  "bytes": 1114256329,
+  "collections": 20,
+  "files": 716,
+  "bytes": 1116135867,
   "assets": [
     {
       "path": "social/drink-captions.md",
@@ -1325,8 +1325,8 @@
     },
     {
       "path": "social/index.html",
-      "bytes": 5642,
-      "sha256": "55fa1e5fcd3dd35d6921c533b3a31c36803102f6ce265c0ce45e6a98a344dacc"
+      "bytes": 5913,
+      "sha256": "ebb688404ee7b2db81cb784c9c12c8075ee58d01f56667be97c6310373de91d1"
     },
     {
       "path": "social/matcha-reference-25/128am-Cafe-Matcha-Collection-25.zip",
@@ -2677,6 +2677,21 @@
       "path": "social/race-weekend-10/images/10-finish-line.png",
       "bytes": 2003574,
       "sha256": "dfc3416c16ea0d499c2af75e60d1de3cfbfa9b2d4f24a20279823a79334a856e"
+    },
+    {
+      "path": "social/reel-covers/gallery.html",
+      "bytes": 1267,
+      "sha256": "424cb1c197eb3e356fe2344c258ea293e6d34692d77473ebf5a953dca9251972"
+    },
+    {
+      "path": "social/reel-covers/images/track-matcha-order-status-strawberry-cream-v2.png",
+      "bytes": 1877418,
+      "sha256": "629d9bdb7ce23fc8601e96eacd1bd332bd46c0d0536895177e91b7ac7fc13847"
+    },
+    {
+      "path": "social/reel-covers/track-matcha-order-status-strawberry-cream-v2-prompt.txt",
+      "bytes": 582,
+      "sha256": "ff635d79838533a95d3ed98928f2eca14ab10f6d95806196371b865665bd80b9"
     },
     {
       "path": "social/soft-launch-11-october-2026/gallery.html",
