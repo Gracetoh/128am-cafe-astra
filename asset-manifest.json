@@ -1,7 +1,7 @@
 {
   "collections": 21,
   "files": 728,
-  "bytes": 1136478537,
+  "bytes": 1136351674,
   "assets": [
     {
       "path": "social/drink-captions.md",
@@ -2725,8 +2725,8 @@
     },
     {
       "path": "social/reel-order-status-themes-10/images/05-rounded-retro.png",
-      "bytes": 2239285,
-      "sha256": "d7e90bed901129173eb784f92506a2b6d55fc0012cda19173c3f3ee34e8fd380"
+      "bytes": 2112422,
+      "sha256": "40785c262ccad1aad59cb41298bbc3e3a9f9979604cc6e0ba78fdf8e5a8f8426"
     },
     {
       "path": "social/reel-order-status-themes-10/images/06-paper-collage.png",
