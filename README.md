@@ -8,6 +8,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 
 ## Latest collections
 
+- [10 strawberry matcha order-status Reel covers](social/reel-order-status-themes-10/)
 - [Matcha order-status Reel cover](social/reel-covers/)
 - [Race weekend: 10 posters](social/race-weekend-10/)
 - [Soft launch: 10 pastel variations](social/soft-launch-pastel-10/)
@@ -35,6 +36,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 | [product-photoshoot-25-realistic](social/product-photoshoot-25-realistic/) | 35 |
 | [race-weekend-10](social/race-weekend-10/) | 12 |
 | [reel-covers](social/reel-covers/) | 3 |
+| [reel-order-status-themes-10](social/reel-order-status-themes-10/) | 12 |
 | [soft-launch-11-october-2026](social/soft-launch-11-october-2026/) | 5 |
 | [soft-launch-pastel-10](social/soft-launch-pastel-10/) | 11 |
 | [strawberry-dreamy-10](social/strawberry-dreamy-10/) | 24 |
