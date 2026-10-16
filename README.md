@@ -8,6 +8,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 
 ## Latest collections
 
+- [Creamy Banana Pudding Matcha Latte photo](social/banana-pudding-matcha/)
 - [10 strawberry matcha order-status Reel covers](social/reel-order-status-themes-10/)
 - [Matcha order-status Reel cover](social/reel-covers/)
 - [Race weekend: 10 posters](social/race-weekend-10/)
@@ -24,6 +25,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 
 | Collection | Files |
 | --- | ---: |
+| [banana-pudding-matcha](social/banana-pudding-matcha/) | 2 |
 | [earl-grey-cursive-tests-10](social/earl-grey-cursive-tests-10/) | 28 |
 | [earl-grey-favourites-50](social/earl-grey-favourites-50/) | 119 |
 | [earl-grey-minimalist-25](social/earl-grey-minimalist-25/) | 58 |
