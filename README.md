@@ -29,7 +29,7 @@ These are AI-generated marketing assets based on the cafe's product photographs.
 | --- | ---: |
 | [banana-pudding-favourites-25](social/banana-pudding-favourites-25/) | 79 |
 | [banana-pudding-matcha](social/banana-pudding-matcha/) | 2 |
-| [banana-pudding-playful-10](social/banana-pudding-playful-10/) | 34 |
+| [banana-pudding-playful-10](social/banana-pudding-playful-10/) | 38 |
 | [earl-grey-cursive-tests-10](social/earl-grey-cursive-tests-10/) | 28 |
 | [earl-grey-favourites-50](social/earl-grey-favourites-50/) | 119 |
 | [earl-grey-minimalist-25](social/earl-grey-minimalist-25/) | 58 |

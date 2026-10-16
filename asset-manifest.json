@@ -1,7 +1,7 @@
 {
   "collections": 24,
-  "files": 843,
-  "bytes": 1311606961,
+  "files": 847,
+  "bytes": 1321069549,
   "assets": [
     {
       "path": "social/banana-pudding-favourites-25/128am-Cafe-Banana-Pudding-25.zip",
@@ -410,23 +410,23 @@
     },
     {
       "path": "social/banana-pudding-playful-10/128am-Cafe-Banana-Pudding-Playful-10.zip",
-      "bytes": 25192573,
-      "sha256": "13982ec1dd0c79b0164471a1ff234306fb9ed6a3ac932b91b546ec072b840765"
+      "bytes": 25018075,
+      "sha256": "734597cfe4793e756d7b04b37167934b89ac47b8381cf1e65bd476bcc1422041"
     },
     {
       "path": "social/banana-pudding-playful-10/creative-brief.txt",
       "bytes": 5014,
-      "sha256": "3033678135471b5306dfaf63b97656ef1d81f3d4d2f8ea2b1e07279ee44a89c4"
+      "sha256": "68355c0804484380bc4261b1d8b67fb8bc5c08d139ffad55221d7ab672121cef"
     },
     {
       "path": "social/banana-pudding-playful-10/gallery.html",
-      "bytes": 12086,
-      "sha256": "f4aa798da29393519dd7a0e28219998d2087ce1871e37959f3388a67fa183c3d"
+      "bytes": 12225,
+      "sha256": "a2c0f3cd6b182c867c807a09028b38cb78b08e5db9a202863df458a83737d00e"
     },
     {
       "path": "social/banana-pudding-playful-10/image-index.json",
       "bytes": 4631,
-      "sha256": "3c28b9e638837964fe26a1726d9186e7383c00ff389697946949ca0af65d63de"
+      "sha256": "514117f6b344d7538519ca8ad70480426d02e264a8d39c683a7c534898e22e19"
     },
     {
       "path": "social/banana-pudding-playful-10/images/01-buttercream-crayon.png",
@@ -445,8 +445,8 @@
     },
     {
       "path": "social/banana-pudding-playful-10/images/04-falling-ingredients.png",
-      "bytes": 2235683,
-      "sha256": "2e178727d0818fd69b087179e147c8c2833c4430a0bf27948078054253da45b3"
+      "bytes": 2061185,
+      "sha256": "b16731d9ae38cc4a4472f660b7387f3f330b99aa2d8c0aaebaab56e794fe12fb"
     },
     {
       "path": "social/banana-pudding-playful-10/images/05-banana-orbit.png",
@@ -479,6 +479,26 @@
       "sha256": "74f96c353aa97d1ce46560344167af182a8333e7b0d121eed221bbe0b04ab1eb"
     },
     {
+      "path": "social/banana-pudding-playful-10/print/01-buttercream-crayon-a4-prompt.txt",
+      "bytes": 967,
+      "sha256": "e246c26a0a53b56be7c4320440604f9f6d3b86f0f8e30116ec75edd2ef64354c"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/print/01-buttercream-crayon-a4.png",
+      "bytes": 2254687,
+      "sha256": "83e44d239d3070b038beeaa09909f0a4c0820a25470c79a7ffd9f8097817cae2"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/print/Banana Pudding - Selected Posters - A4 Full Page.pdf",
+      "bytes": 7554076,
+      "sha256": "544c215e39bcffd5d3693167676899f8017f2bd1727c3be52ee0565949d71eb3"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/print/print-notes.txt",
+      "bytes": 353,
+      "sha256": "aa4bb41cc1442a87c27518564b4fddffc7b1c78c0ee786ca4b5dec60a0cc046f"
+    },
+    {
       "path": "social/banana-pudding-playful-10/prompts/01-buttercream-crayon.txt",
       "bytes": 2317,
       "sha256": "8920e42319dd82cdea2f5d6ed14854b16db4a01b99e4387f88c3e05733c60a06"
@@ -495,8 +515,8 @@
     },
     {
       "path": "social/banana-pudding-playful-10/prompts/04-falling-ingredients.txt",
-      "bytes": 3249,
-      "sha256": "5cd1b02c76b450f69d62bcfa329f83bc67f4854f28f010ff1e185eedb1e56dfb"
+      "bytes": 4216,
+      "sha256": "c52434901a2297d7ec702596d3cb219ff71fbd2ab85be1dc8d5f62a02993736d"
     },
     {
       "path": "social/banana-pudding-playful-10/prompts/05-banana-orbit.txt",
@@ -545,8 +565,8 @@
     },
     {
       "path": "social/banana-pudding-playful-10/thumbnails/04-falling-ingredients.jpg",
-      "bytes": 63051,
-      "sha256": "77893de917272ae91cf052ace71fbbab3e1bd9631c83d076610b29cb66026e8a"
+      "bytes": 63446,
+      "sha256": "03d2d5b2b21119204465fdd0877947771c534ce1767c2d639730020c3318306b"
     },
     {
       "path": "social/banana-pudding-playful-10/thumbnails/05-banana-orbit.jpg",
