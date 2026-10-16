@@ -1,7 +1,7 @@
 {
-  "collections": 23,
-  "files": 809,
-  "bytes": 1260494463,
+  "collections": 24,
+  "files": 843,
+  "bytes": 1311606961,
   "assets": [
     {
       "path": "social/banana-pudding-favourites-25/128am-Cafe-Banana-Pudding-25.zip",
@@ -407,6 +407,176 @@
       "path": "social/banana-pudding-matcha/images/banana-pudding-matcha-latte-creamy.png",
       "bytes": 2224574,
       "sha256": "4331419f62d8ffdc85e5acc8644e2224d869e69fb545f542eef3f1813325c4fc"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/128am-Cafe-Banana-Pudding-Playful-10.zip",
+      "bytes": 25192573,
+      "sha256": "13982ec1dd0c79b0164471a1ff234306fb9ed6a3ac932b91b546ec072b840765"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/creative-brief.txt",
+      "bytes": 5014,
+      "sha256": "3033678135471b5306dfaf63b97656ef1d81f3d4d2f8ea2b1e07279ee44a89c4"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/gallery.html",
+      "bytes": 12086,
+      "sha256": "f4aa798da29393519dd7a0e28219998d2087ce1871e37959f3388a67fa183c3d"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/image-index.json",
+      "bytes": 4631,
+      "sha256": "3c28b9e638837964fe26a1726d9186e7383c00ff389697946949ca0af65d63de"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/01-buttercream-crayon.png",
+      "bytes": 2473353,
+      "sha256": "4c9e8517f5d344ed57c26fc4d02aaa9b0c31144f17bd427a8a51734797fffdb1"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/02-sage-butter-gradient.png",
+      "bytes": 2655724,
+      "sha256": "e1dd4867926871e9dd141b62fee7a5180281d9096ed028e38ecc8f4be2cef06a"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/03-blush-olive-doodles.png",
+      "bytes": 2767313,
+      "sha256": "9a2d55942db823aa8ffd28cfdc8f111ee0fb9adf62425170ac43a36cb1d80550"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/04-falling-ingredients.png",
+      "bytes": 2235683,
+      "sha256": "2e178727d0818fd69b087179e147c8c2833c4430a0bf27948078054253da45b3"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/05-banana-orbit.png",
+      "bytes": 2709700,
+      "sha256": "50748533b2a4d3c3990318575f8aa2b07d729c9ccb78471bfcd4149af8d0cf9d"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/06-sky-doodle-clouds.png",
+      "bytes": 2546892,
+      "sha256": "20b1a2e91cf73631a2b1b61d8295c5241a50caac52e516faeaaa5df92d697d86"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/07-scrapbook-banana.png",
+      "bytes": 2697117,
+      "sha256": "d1fc71f81664b70c17c9bc3810a34888bf345586caaba13d67bde0b2e808f370"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/08-retro-banana-swirl.png",
+      "bytes": 2165939,
+      "sha256": "aa8350987d54ebf0bf8550ecd6e436c487738e3cddc952938059842a7cca2457"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/09-pudding-ribbon.png",
+      "bytes": 2250075,
+      "sha256": "55835afba8afd95eb8cb6e15c54b42f86478300ab0f5d4bee01d7fc9ff8aa6e5"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/images/10-signature-pastel.png",
+      "bytes": 2689517,
+      "sha256": "74f96c353aa97d1ce46560344167af182a8333e7b0d121eed221bbe0b04ab1eb"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/01-buttercream-crayon.txt",
+      "bytes": 2317,
+      "sha256": "8920e42319dd82cdea2f5d6ed14854b16db4a01b99e4387f88c3e05733c60a06"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/02-sage-butter-gradient.txt",
+      "bytes": 2163,
+      "sha256": "a078c0960811f913ed775f02314f48988d30ffa05500e496cff7dfded6de5568"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/03-blush-olive-doodles.txt",
+      "bytes": 2200,
+      "sha256": "5ca875d8064ab598eb4c270cf30cdbc3d9ca01fbe45ed0dca4552f6cfb5fc38e"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/04-falling-ingredients.txt",
+      "bytes": 3249,
+      "sha256": "5cd1b02c76b450f69d62bcfa329f83bc67f4854f28f010ff1e185eedb1e56dfb"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/05-banana-orbit.txt",
+      "bytes": 2239,
+      "sha256": "5f0e78485442e2aeae0bc73d8fdb123ab934a07aa64461ea2be648ade79673f9"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/06-sky-doodle-clouds.txt",
+      "bytes": 2200,
+      "sha256": "ea527f315fcdecf76f309c0c2e86fb9b0126cbd1de91fde298fa5be76e796469"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/07-scrapbook-banana.txt",
+      "bytes": 2255,
+      "sha256": "96990d59c4cdf84918468191b3f17a2ab61a4021ab01f8cf7e3259862d7ff6fb"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/08-retro-banana-swirl.txt",
+      "bytes": 2912,
+      "sha256": "dcd3f57417bf5f55aa3e908ae989cb2c140abb3f90c0013a7642e32f3876f02a"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/09-pudding-ribbon.txt",
+      "bytes": 3052,
+      "sha256": "79bea50c05aa83feee4212122b0f79a1c3cc3b60b2d1411d189093af1fc4c6f1"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/prompts/10-signature-pastel.txt",
+      "bytes": 2253,
+      "sha256": "3ff7f1ae6b36f971212420888e50d0aaadd0dc83c980637c7b5f3ad4aa18cfc6"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/01-buttercream-crayon.jpg",
+      "bytes": 68477,
+      "sha256": "35e861e889c9c51949d6355a45df7b33dc3cfe4bba6c445090ba8f54d7ee3af9"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/02-sage-butter-gradient.jpg",
+      "bytes": 61202,
+      "sha256": "214bbdf621c4e19765aa5d761e8445d40de36990f784b590ea63119ac462fea7"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/03-blush-olive-doodles.jpg",
+      "bytes": 73676,
+      "sha256": "cd7f7efa32989b231774a9294080020c61bde3d74a25b06ad709b76cc2a438de"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/04-falling-ingredients.jpg",
+      "bytes": 63051,
+      "sha256": "77893de917272ae91cf052ace71fbbab3e1bd9631c83d076610b29cb66026e8a"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/05-banana-orbit.jpg",
+      "bytes": 70502,
+      "sha256": "0d60a4b975173f0e02903288c0c0d462ed0dca4387de5e5e482c078edd68b1e2"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/06-sky-doodle-clouds.jpg",
+      "bytes": 64214,
+      "sha256": "617ea35a7cb2b969f3cb018eac9036a3f9f1c264babe48330814813b0414ec68"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/07-scrapbook-banana.jpg",
+      "bytes": 79510,
+      "sha256": "79af77ab38a59b9842169fae28ec57e90adf89780c52483fcc7c6a39385a0e44"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/08-retro-banana-swirl.jpg",
+      "bytes": 63520,
+      "sha256": "6b9708c1d2cc5219c43776d2f15ee06e8dc411f69b3c14a2abd09bb6c51ceaaf"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/09-pudding-ribbon.jpg",
+      "bytes": 68673,
+      "sha256": "cb37144aebbf80c0991e42a3da39fe67364976916f960b3d627b84ab70627585"
+    },
+    {
+      "path": "social/banana-pudding-playful-10/thumbnails/10-signature-pastel.jpg",
+      "bytes": 68922,
+      "sha256": "158ebaff88facf1304b9f80ebd60553867ac6bf2b721c81b0bc311c978d616cb"
     },
     {
       "path": "social/drink-captions.md",
@@ -1730,8 +1900,8 @@
     },
     {
       "path": "social/index.html",
-      "bytes": 6830,
-      "sha256": "18cbfc0375ae00ce165ad9fbd043458b68c37acb558406bc95efc5f530c5a803"
+      "bytes": 7124,
+      "sha256": "8bb9242033213afb67a62e034daa34e08ac063cbca090a4c12c8e65958049bc4"
     },
     {
       "path": "social/matcha-reference-25/128am-Cafe-Matcha-Collection-25.zip",
