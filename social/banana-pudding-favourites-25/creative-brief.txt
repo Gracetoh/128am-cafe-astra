@@ -1,0 +1,39 @@
+128am Cafe — Banana Pudding Matcha Latte
+25 poster collection
+
+Generated using the built-in imagegen tool, one image per theme.
+The prompts/ folder contains each exact generation prompt.
+
+Product direction: Preserve the actual rounded clear open-top cup, small brand logo, rich creamy green matcha, ivory milk, banana pudding and brown biscuit crumble. No lid.
+Brand direction: Warm cream, muted matcha and olive, soft banana butter yellow, toasted cocoa, and occasional blush accents. Soft natural light and subtle paper texture.
+
+The images/ folder contains 25 original PNGs. The ZIP contains exactly those 25 PNGs.
+The thumbnails/ folder contains reduced JPEG previews only; original PNG pixels are unchanged.
+The gallery has theme filters and an optional center-square crop preview. A square crop may trim text or product details; the original full poster is always downloaded.
+
+Themes:
+01. Green halo — Deep forest green fading into a soft pale lime halo behind the cup; grounded on a warm cream tabletop with real contact shadow; elegant cream serif headline, tiny blush accent. No floating cup.
+02. Creamy matcha — Warm ivory studio scene, close product portrait with full cup and toppings visible, generous creamy milk swirls; flowing cocoa script for Banana Pudding, refined green serif for Matcha Latte, quiet luxury.
+03. Blush and olive — Smooth diffused blush-to-muted-olive background with cream paper foreground; no hard diagonal band; elegant ivory type and a grounded centered cup; airy soft-focus mood.
+04. Matcha clouds — Dreamy sage sky and pale buttercream clouds. Cup stands on a subtle cream stone ledge emerging from clouds, not floating. Golden soft light, elegant green serif and cocoa italic title.
+05. Rounded retro — Bold rounded 1970s bubble headline, muted olive arch, cream base, pale banana-yellow and restrained blush accents, tiny heart doodles and low checkerboard ribbon; product faithful and photographic.
+06. Paper collage — Cream torn paper layers, olive and butter-yellow paper, product photographed as a neat paper cutout with ivory edge, handmade small arrows, cocoa headline; plenty of breathing space.
+07. Falling ingredients — Ingredient cascade above a grounded cup: matcha powder from small spoon, banana pieces, thick ivory banana pudding ribbon, biscuit chunks and crumbs, a small milk ribbon. Graceful realistic edible textures, cream background. Only extra labels: Matcha, Milk, Banana pudding, Biscuit crumble, each pointing to correct ingredient.
+08. Matcha close-up — Tactile close-up of rich green matcha meeting creamy milk and the original pudding-crumble topping. Product fills lower two-thirds, full headline at top, cup logo visible, soft natural highlights, not oversharpened.
+09. Soft green gradient — Minimal full-cup portrait on a perfectly even cream-to-pastel-sage gradient, soft oval contact shadow, refined olive headline, small cocoa brand line; airy negative space.
+10. Signature finale — Premium signature poster: grounded full cup on one travertine slab, dark olive backdrop, warm buttery spotlight, elegant oversized cream serif title with a soft blush script accent. Calm polished brand hero.
+11. Buttercream editorial — A warm butter-yellow magazine cover with large cocoa serif typography, restrained thin rule, centered full cup with generous margins, soft natural studio photo and subtle paper grain.
+12. Banana doodles — Cream notebook-paper feel, simple hand-lettered cocoa and olive title, a few fine banana, whisk, star and heart pencil doodles surrounding a faithful photographed cup; cute but uncluttered.
+13. Toasted biscuit — Toasted biscuit brown backdrop with creamy warm highlights, grounded full cup on cream tabletop, a few real biscuit crumbs nearby; cream high-contrast serif title, soft cinematic side light.
+14. Cafe ticket — Large cream scalloped cafe ticket sitting behind the product on muted olive background, elegant cocoa title printed on the ticket, small blank ornamental lines, one blush heart; no fake order numbers, dates or prices.
+15. Torn postcard — Vintage ivory postcard and softly torn parchment edges, subtle banana-yellow tape corners, modest serif heading, product photo centered inside a warm olive photo frame; original handmade editorial feel.
+16. Banana cream gingham — Pale banana-yellow and cream gingham border around an uncluttered cream center, playful olive serif headline, full product on an ivory pedestal, tiny brown biscuit crumbs; soft sunny cafe mood.
+17. Botanical shade — Sage studio wall with gentle leaf shadows from off-frame, cup grounded on cream stone surface, small banana pieces nearby, soft window light; clean cream/cocoa typography.
+18. Monochrome olive — Minimal tonal olive-green studio composition, full cup with creamy milk creating contrast, pale cream tall serif headline, single thin border, grounded shadow, sophisticated matte finish.
+19. Overhead still life — Editorial overhead angle looking down on the actual pudding and crumble-topped cup on cream linen, a few banana slices and biscuit crumbs arranged sparingly; use perspective consistent with actual cup. Elegant olive title in ample negative space.
+20. Pudding macro — Macro food photography focusing on real soft banana pudding, biscuit crumble and silky green matcha at the rim; a small faithful full-cup inset at lower corner to show brand, cream type panel and cocoa serif title. Appetizing, soft natural detail.
+21. Magazine frame — Elegant double-line olive frame on warm cream paper, asymmetrical magazine-style layout with product to right and huge stacked cocoa serif title to left; small blush accent line. Clean carefully balanced editorial hierarchy.
+22. Layer study — Minimal cream ingredient study: faithful full cup centered and grounded, fine olive leaders to actual visible Matcha, Milk, Banana pudding and Biscuit crumble layers; large restrained serif title above, generous whitespace.
+23. Banana sunshine — Soft pastel butter-yellow circular sun motif behind full cup, cream background, muted olive tabletop, warm morning light, playful but refined brown retro serif typography, one small banana illustration.
+24. Cocoa checkerboard — Muted cocoa and cream checkerboard floor receding subtly beneath grounded cup, pale buttery background, olive rounded headline, fine blush border; retro cafe design with low visual clutter.
+25. Dessert spoon — Quiet premium still life: full cup grounded on cream linen with a small silver dessert spoon holding a little banana pudding and biscuit crumble beside it; soft olive wall, warm sidelight, understated cocoa serif and script title.
